@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+models/*.pkl
+
+.env
+
+.vscode/
+.idea/
+
+poster_A0_image/
+
+.DS_Store

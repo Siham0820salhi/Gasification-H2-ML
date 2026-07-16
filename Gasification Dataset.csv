@@ -1,0 +1,3749 @@
+Time;Temperature;ProcessTemperature;AgentType;AgentFlow;SampleType;CatalystType;CatalystRatio;Hydrogen
+1;10;700;Air;0.05;TWTS;No Catalyst;0;0
+2;11;700;Air;0.05;TWTS;No Catalyst;0;0
+3;12;700;Air;0.05;TWTS;No Catalyst;0;0
+4;16;700;Air;0.05;TWTS;No Catalyst;0;0
+5;25;700;Air;0.05;TWTS;No Catalyst;0;0
+6;48;700;Air;0.05;TWTS;No Catalyst;0;0
+7;70;700;Air;0.05;TWTS;No Catalyst;0;0
+8;102;700;Air;0.05;TWTS;No Catalyst;0;0
+9;140;700;Air;0.05;TWTS;No Catalyst;0;0
+10;185;700;Air;0.05;TWTS;No Catalyst;0;0
+11;290;700;Air;0.05;TWTS;No Catalyst;0;0
+12;350;700;Air;0.05;TWTS;No Catalyst;0;0
+13;402;700;Air;0.05;TWTS;No Catalyst;0;0
+14;453;700;Air;0.05;TWTS;No Catalyst;0;1
+15;513;700;Air;0.05;TWTS;No Catalyst;0;1
+16;540;700;Air;0.05;TWTS;No Catalyst;0;1
+17;575;700;Air;0.05;TWTS;No Catalyst;0;1
+18;617;700;Air;0.05;TWTS;No Catalyst;0;1
+19;632;700;Air;0.05;TWTS;No Catalyst;0;1
+20;656;700;Air;0.05;TWTS;No Catalyst;0;2
+21;680;700;Air;0.05;TWTS;No Catalyst;0;3
+22;700;700;Air;0.05;TWTS;No Catalyst;0;5
+23;700;700;Air;0.05;TWTS;No Catalyst;0;7
+24;700;700;Air;0.05;TWTS;No Catalyst;0;10
+25;700;700;Air;0.05;TWTS;No Catalyst;0;12
+26;700;700;Air;0.05;TWTS;No Catalyst;0;14
+27;700;700;Air;0.05;TWTS;No Catalyst;0;16
+28;700;700;Air;0.05;TWTS;No Catalyst;0;16
+29;700;700;Air;0.05;TWTS;No Catalyst;0;16
+30;700;700;Air;0.05;TWTS;No Catalyst;0;15
+31;700;700;Air;0.05;TWTS;No Catalyst;0;14
+32;700;700;Air;0.05;TWTS;No Catalyst;0;14
+33;700;700;Air;0.05;TWTS;No Catalyst;0;15
+34;700;700;Air;0.05;TWTS;No Catalyst;0;17
+35;700;700;Air;0.05;TWTS;No Catalyst;0;17
+36;700;700;Air;0.05;TWTS;No Catalyst;0;16
+37;700;700;Air;0.05;TWTS;No Catalyst;0;14
+38;700;700;Air;0.05;TWTS;No Catalyst;0;12
+39;700;700;Air;0.05;TWTS;No Catalyst;0;10
+40;700;700;Air;0.05;TWTS;No Catalyst;0;10
+41;700;700;Air;0.05;TWTS;No Catalyst;0;10
+42;700;700;Air;0.05;TWTS;No Catalyst;0;10
+43;700;700;Air;0.05;TWTS;No Catalyst;0;9
+44;700;700;Air;0.05;TWTS;No Catalyst;0;7
+45;700;700;Air;0.05;TWTS;No Catalyst;0;7
+46;700;700;Air;0.05;TWTS;No Catalyst;0;7
+47;700;700;Air;0.05;TWTS;No Catalyst;0;7
+48;700;700;Air;0.05;TWTS;No Catalyst;0;8
+49;700;700;Air;0.05;TWTS;No Catalyst;0;7
+50;700;700;Air;0.05;TWTS;No Catalyst;0;7
+51;700;700;Air;0.05;TWTS;No Catalyst;0;6
+52;700;700;Air;0.05;TWTS;No Catalyst;0;6
+1;10;700;Air;0.1;TWTS;No Catalyst;0;0
+2;11;700;Air;0.1;TWTS;No Catalyst;0;0
+3;12;700;Air;0.1;TWTS;No Catalyst;0;0
+4;16;700;Air;0.1;TWTS;No Catalyst;0;0
+5;25;700;Air;0.1;TWTS;No Catalyst;0;0
+6;48;700;Air;0.1;TWTS;No Catalyst;0;0
+7;70;700;Air;0.1;TWTS;No Catalyst;0;0
+8;102;700;Air;0.1;TWTS;No Catalyst;0;0
+9;140;700;Air;0.1;TWTS;No Catalyst;0;0
+10;185;700;Air;0.1;TWTS;No Catalyst;0;0
+11;290;700;Air;0.1;TWTS;No Catalyst;0;0
+12;350;700;Air;0.1;TWTS;No Catalyst;0;0
+13;402;700;Air;0.1;TWTS;No Catalyst;0;1
+14;453;700;Air;0.1;TWTS;No Catalyst;0;1
+15;513;700;Air;0.1;TWTS;No Catalyst;0;1
+16;540;700;Air;0.1;TWTS;No Catalyst;0;1
+17;575;700;Air;0.1;TWTS;No Catalyst;0;1
+18;617;700;Air;0.1;TWTS;No Catalyst;0;2
+19;632;700;Air;0.1;TWTS;No Catalyst;0;4
+20;656;700;Air;0.1;TWTS;No Catalyst;0;6
+21;680;700;Air;0.1;TWTS;No Catalyst;0;8
+22;700;700;Air;0.1;TWTS;No Catalyst;0;10
+23;700;700;Air;0.1;TWTS;No Catalyst;0;12
+24;700;700;Air;0.1;TWTS;No Catalyst;0;14
+25;700;700;Air;0.1;TWTS;No Catalyst;0;13
+26;700;700;Air;0.1;TWTS;No Catalyst;0;13
+27;700;700;Air;0.1;TWTS;No Catalyst;0;13
+28;700;700;Air;0.1;TWTS;No Catalyst;0;12
+29;700;700;Air;0.1;TWTS;No Catalyst;0;12
+30;700;700;Air;0.1;TWTS;No Catalyst;0;12
+31;700;700;Air;0.1;TWTS;No Catalyst;0;12
+32;700;700;Air;0.1;TWTS;No Catalyst;0;11
+33;700;700;Air;0.1;TWTS;No Catalyst;0;11
+34;700;700;Air;0.1;TWTS;No Catalyst;0;11
+35;700;700;Air;0.1;TWTS;No Catalyst;0;11
+36;700;700;Air;0.1;TWTS;No Catalyst;0;10
+37;700;700;Air;0.1;TWTS;No Catalyst;0;10
+38;700;700;Air;0.1;TWTS;No Catalyst;0;10
+39;700;700;Air;0.1;TWTS;No Catalyst;0;10
+40;700;700;Air;0.1;TWTS;No Catalyst;0;10
+1;10;700;Air;0.2;TWTS;No Catalyst;0;0
+2;11;700;Air;0.2;TWTS;No Catalyst;0;0
+3;12;700;Air;0.2;TWTS;No Catalyst;0;0
+4;16;700;Air;0.2;TWTS;No Catalyst;0;0
+5;25;700;Air;0.2;TWTS;No Catalyst;0;0
+6;48;700;Air;0.2;TWTS;No Catalyst;0;0
+8;70;700;Air;0.2;TWTS;No Catalyst;0;0
+9;102;700;Air;0.2;TWTS;No Catalyst;0;0
+10;140;700;Air;0.2;TWTS;No Catalyst;0;0
+11;185;700;Air;0.2;TWTS;No Catalyst;0;0
+12;290;700;Air;0.2;TWTS;No Catalyst;0;0
+13;350;700;Air;0.2;TWTS;No Catalyst;0;0
+14;402;700;Air;0.2;TWTS;No Catalyst;0;1
+15;453;700;Air;0.2;TWTS;No Catalyst;0;1
+16;513;700;Air;0.2;TWTS;No Catalyst;0;1
+17;540;700;Air;0.2;TWTS;No Catalyst;0;1
+18;575;700;Air;0.2;TWTS;No Catalyst;0;1
+19;617;700;Air;0.2;TWTS;No Catalyst;0;1
+20;632;700;Air;0.2;TWTS;No Catalyst;0;2
+21;656;700;Air;0.2;TWTS;No Catalyst;0;4
+22;680;700;Air;0.2;TWTS;No Catalyst;0;6
+23;700;700;Air;0.2;TWTS;No Catalyst;0;9
+24;700;700;Air;0.2;TWTS;No Catalyst;0;11
+25;700;700;Air;0.2;TWTS;No Catalyst;0;13
+26;700;700;Air;0.2;TWTS;No Catalyst;0;13
+27;700;700;Air;0.2;TWTS;No Catalyst;0;12
+28;700;700;Air;0.2;TWTS;No Catalyst;0;12
+29;700;700;Air;0.2;TWTS;No Catalyst;0;12
+30;700;700;Air;0.2;TWTS;No Catalyst;0;12
+31;700;700;Air;0.2;TWTS;No Catalyst;0;11
+32;700;700;Air;0.2;TWTS;No Catalyst;0;11
+33;700;700;Air;0.2;TWTS;No Catalyst;0;11
+34;700;700;Air;0.2;TWTS;No Catalyst;0;11
+35;700;700;Air;0.2;TWTS;No Catalyst;0;10
+36;700;700;Air;0.2;TWTS;No Catalyst;0;10
+37;700;700;Air;0.2;TWTS;No Catalyst;0;10
+39;700;700;Air;0.2;TWTS;No Catalyst;0;10
+40;700;700;Air;0.2;TWTS;No Catalyst;0;10
+1;10;700;Air;0.3;TWTS;No Catalyst;0;0
+2;11;700;Air;0.3;TWTS;No Catalyst;0;0
+3;12;700;Air;0.3;TWTS;No Catalyst;0;0
+4;16;700;Air;0.3;TWTS;No Catalyst;0;0
+5;25;700;Air;0.3;TWTS;No Catalyst;0;0
+6;48;700;Air;0.3;TWTS;No Catalyst;0;0
+7;70;700;Air;0.3;TWTS;No Catalyst;0;0
+8;102;700;Air;0.3;TWTS;No Catalyst;0;0
+9;140;700;Air;0.3;TWTS;No Catalyst;0;0
+10;185;700;Air;0.3;TWTS;No Catalyst;0;0
+11;290;700;Air;0.3;TWTS;No Catalyst;0;0
+12;350;700;Air;0.3;TWTS;No Catalyst;0;0
+13;402;700;Air;0.3;TWTS;No Catalyst;0;0
+14;453;700;Air;0.3;TWTS;No Catalyst;0;0
+15;513;700;Air;0.3;TWTS;No Catalyst;0;0
+16;540;700;Air;0.3;TWTS;No Catalyst;0;1
+17;575;700;Air;0.3;TWTS;No Catalyst;0;1
+18;617;700;Air;0.3;TWTS;No Catalyst;0;1
+19;632;700;Air;0.3;TWTS;No Catalyst;0;1
+20;656;700;Air;0.3;TWTS;No Catalyst;0;1
+21;680;700;Air;0.3;TWTS;No Catalyst;0;2
+22;700;700;Air;0.3;TWTS;No Catalyst;0;3
+23;700;700;Air;0.3;TWTS;No Catalyst;0;5
+24;700;700;Air;0.3;TWTS;No Catalyst;0;7
+25;700;700;Air;0.3;TWTS;No Catalyst;0;9
+26;700;700;Air;0.3;TWTS;No Catalyst;0;11
+27;700;700;Air;0.3;TWTS;No Catalyst;0;13
+28;700;700;Air;0.3;TWTS;No Catalyst;0;12
+29;700;700;Air;0.3;TWTS;No Catalyst;0;11
+30;700;700;Air;0.3;TWTS;No Catalyst;0;10
+31;700;700;Air;0.3;TWTS;No Catalyst;0;9
+32;700;700;Air;0.3;TWTS;No Catalyst;0;9
+33;700;700;Air;0.3;TWTS;No Catalyst;0;9
+34;700;700;Air;0.3;TWTS;No Catalyst;0;9
+35;700;700;Air;0.3;TWTS;No Catalyst;0;8
+36;700;700;Air;0.3;TWTS;No Catalyst;0;6
+37;700;700;Air;0.3;TWTS;No Catalyst;0;5
+38;700;700;Air;0.3;TWTS;No Catalyst;0;4
+39;700;700;Air;0.3;TWTS;No Catalyst;0;4
+40;700;700;Air;0.3;TWTS;No Catalyst;0;4
+41;700;700;Air;0.3;TWTS;No Catalyst;0;4
+42;700;700;Air;0.3;TWTS;No Catalyst;0;3
+1;10;700;Air;0.4;TWTS;No Catalyst;0;0
+2;11;700;Air;0.4;TWTS;No Catalyst;0;0
+3;12;700;Air;0.4;TWTS;No Catalyst;0;0
+4;16;700;Air;0.4;TWTS;No Catalyst;0;0
+5;25;700;Air;0.4;TWTS;No Catalyst;0;0
+6;48;700;Air;0.4;TWTS;No Catalyst;0;0
+7;70;700;Air;0.4;TWTS;No Catalyst;0;0
+8;102;700;Air;0.4;TWTS;No Catalyst;0;0
+9;140;700;Air;0.4;TWTS;No Catalyst;0;0
+10;185;700;Air;0.4;TWTS;No Catalyst;0;0
+11;290;700;Air;0.4;TWTS;No Catalyst;0;0
+12;350;700;Air;0.4;TWTS;No Catalyst;0;0
+13;402;700;Air;0.4;TWTS;No Catalyst;0;1
+14;453;700;Air;0.4;TWTS;No Catalyst;0;1
+15;513;700;Air;0.4;TWTS;No Catalyst;0;1
+16;540;700;Air;0.4;TWTS;No Catalyst;0;1
+17;575;700;Air;0.4;TWTS;No Catalyst;0;1
+18;617;700;Air;0.4;TWTS;No Catalyst;0;2
+19;632;700;Air;0.4;TWTS;No Catalyst;0;3
+20;656;700;Air;0.4;TWTS;No Catalyst;0;5
+21;680;700;Air;0.4;TWTS;No Catalyst;0;7
+22;700;700;Air;0.4;TWTS;No Catalyst;0;10
+23;700;700;Air;0.4;TWTS;No Catalyst;0;11
+24;700;700;Air;0.4;TWTS;No Catalyst;0;10
+25;700;700;Air;0.4;TWTS;No Catalyst;0;8
+26;700;700;Air;0.4;TWTS;No Catalyst;0;7
+27;700;700;Air;0.4;TWTS;No Catalyst;0;7
+28;700;700;Air;0.4;TWTS;No Catalyst;0;8
+29;700;700;Air;0.4;TWTS;No Catalyst;0;8
+30;700;700;Air;0.4;TWTS;No Catalyst;0;7
+31;700;700;Air;0.4;TWTS;No Catalyst;0;6
+32;700;700;Air;0.4;TWTS;No Catalyst;0;5
+33;700;700;Air;0.4;TWTS;No Catalyst;0;4
+34;700;700;Air;0.4;TWTS;No Catalyst;0;4
+35;700;700;Air;0.4;TWTS;No Catalyst;0;4
+36;700;700;Air;0.4;TWTS;No Catalyst;0;3
+37;700;700;Air;0.4;TWTS;No Catalyst;0;3
+1;10;800;Air;0.05;TWTS;No Catalyst;0;0
+2;11;800;Air;0.05;TWTS;No Catalyst;0;0
+3;12;800;Air;0.05;TWTS;No Catalyst;0;0
+4;16;800;Air;0.05;TWTS;No Catalyst;0;0
+5;25;800;Air;0.05;TWTS;No Catalyst;0;0
+6;48;800;Air;0.05;TWTS;No Catalyst;0;0
+7;70;800;Air;0.05;TWTS;No Catalyst;0;0
+8;102;800;Air;0.05;TWTS;No Catalyst;0;0
+9;140;800;Air;0.05;TWTS;No Catalyst;0;0
+10;185;800;Air;0.05;TWTS;No Catalyst;0;0
+11;290;800;Air;0.05;TWTS;No Catalyst;0;0
+12;350;800;Air;0.05;TWTS;No Catalyst;0;0
+13;402;800;Air;0.05;TWTS;No Catalyst;0;0
+14;453;800;Air;0.05;TWTS;No Catalyst;0;1
+15;513;800;Air;0.05;TWTS;No Catalyst;0;1
+16;540;800;Air;0.05;TWTS;No Catalyst;0;1
+17;575;800;Air;0.05;TWTS;No Catalyst;0;1
+18;617;800;Air;0.05;TWTS;No Catalyst;0;1
+19;632;800;Air;0.05;TWTS;No Catalyst;0;1
+20;656;800;Air;0.05;TWTS;No Catalyst;0;2
+21;680;800;Air;0.05;TWTS;No Catalyst;0;4
+22;700;800;Air;0.05;TWTS;No Catalyst;0;6
+23;702;800;Air;0.05;TWTS;No Catalyst;0;8
+24;720;800;Air;0.05;TWTS;No Catalyst;0;10
+25;737;800;Air;0.05;TWTS;No Catalyst;0;13
+26;754;800;Air;0.05;TWTS;No Catalyst;0;15
+27;768;800;Air;0.05;TWTS;No Catalyst;0;16
+28;784;800;Air;0.05;TWTS;No Catalyst;0;18
+29;797;800;Air;0.05;TWTS;No Catalyst;0;19
+30;800;800;Air;0.05;TWTS;No Catalyst;0;19
+31;800;800;Air;0.05;TWTS;No Catalyst;0;20
+32;800;800;Air;0.05;TWTS;No Catalyst;0;18
+33;800;800;Air;0.05;TWTS;No Catalyst;0;17
+34;800;800;Air;0.05;TWTS;No Catalyst;0;16
+35;800;800;Air;0.05;TWTS;No Catalyst;0;15
+36;800;800;Air;0.05;TWTS;No Catalyst;0;14
+37;800;800;Air;0.05;TWTS;No Catalyst;0;13
+38;800;800;Air;0.05;TWTS;No Catalyst;0;12
+39;800;800;Air;0.05;TWTS;No Catalyst;0;11
+40;800;800;Air;0.05;TWTS;No Catalyst;0;10
+41;800;800;Air;0.05;TWTS;No Catalyst;0;10
+1;6;900;Air;0.05;TWTS;No Catalyst;0;0
+2;9;900;Air;0.05;TWTS;No Catalyst;0;0
+3;12;900;Air;0.05;TWTS;No Catalyst;0;0
+4;15;900;Air;0.05;TWTS;No Catalyst;0;0
+5;18;900;Air;0.05;TWTS;No Catalyst;0;0
+6;28;900;Air;0.05;TWTS;No Catalyst;0;0
+7;47;900;Air;0.05;TWTS;No Catalyst;0;0
+8;77;900;Air;0.05;TWTS;No Catalyst;0;0
+9;118;900;Air;0.05;TWTS;No Catalyst;0;0
+10;167;900;Air;0.05;TWTS;No Catalyst;0;0
+11;226;900;Air;0.05;TWTS;No Catalyst;0;0
+12;290;900;Air;0.05;TWTS;No Catalyst;0;0
+13;355;900;Air;0.05;TWTS;No Catalyst;0;0
+14;413;900;Air;0.05;TWTS;No Catalyst;0;1
+15;466;900;Air;0.05;TWTS;No Catalyst;0;1
+16;510;900;Air;0.05;TWTS;No Catalyst;0;1
+17;549;900;Air;0.05;TWTS;No Catalyst;0;1
+18;581;900;Air;0.05;TWTS;No Catalyst;0;1
+19;610;900;Air;0.05;TWTS;No Catalyst;0;2
+20;636;900;Air;0.05;TWTS;No Catalyst;0;3
+21;659;900;Air;0.05;TWTS;No Catalyst;0;4
+22;682;900;Air;0.05;TWTS;No Catalyst;0;6
+23;702;900;Air;0.05;TWTS;No Catalyst;0;8
+24;720;900;Air;0.05;TWTS;No Catalyst;0;10
+25;737;900;Air;0.05;TWTS;No Catalyst;0;13
+26;754;900;Air;0.05;TWTS;No Catalyst;0;15
+27;768;900;Air;0.05;TWTS;No Catalyst;0;17
+28;784;900;Air;0.05;TWTS;No Catalyst;0;18
+29;797;900;Air;0.05;TWTS;No Catalyst;0;20
+30;810;900;Air;0.05;TWTS;No Catalyst;0;21
+31;823;900;Air;0.05;TWTS;No Catalyst;0;22
+32;835;900;Air;0.05;TWTS;No Catalyst;0;23
+33;847;900;Air;0.05;TWTS;No Catalyst;0;23
+34;859;900;Air;0.05;TWTS;No Catalyst;0;23
+35;869;900;Air;0.05;TWTS;No Catalyst;0;22
+36;879;900;Air;0.05;TWTS;No Catalyst;0;22
+37;889;900;Air;0.05;TWTS;No Catalyst;0;21
+38;900;900;Air;0.05;TWTS;No Catalyst;0;21
+39;900;900;Air;0.05;TWTS;No Catalyst;0;20
+40;900;900;Air;0.05;TWTS;No Catalyst;0;19
+41;900;900;Air;0.05;TWTS;No Catalyst;0;18
+42;900;900;Air;0.05;TWTS;No Catalyst;0;17
+43;900;900;Air;0.05;TWTS;No Catalyst;0;16
+44;900;900;Air;0.05;TWTS;No Catalyst;0;15
+45;900;900;Air;0.05;TWTS;No Catalyst;0;14
+46;900;900;Air;0.05;TWTS;No Catalyst;0;14
+1;6;1000;Air;0.05;TWTS;No Catalyst;0;0
+2;9;1000;Air;0.05;TWTS;No Catalyst;0;0
+3;12;1000;Air;0.05;TWTS;No Catalyst;0;0
+4;15;1000;Air;0.05;TWTS;No Catalyst;0;0
+5;18;1000;Air;0.05;TWTS;No Catalyst;0;0
+6;28;1000;Air;0.05;TWTS;No Catalyst;0;0
+7;47;1000;Air;0.05;TWTS;No Catalyst;0;1
+8;77;1000;Air;0.05;TWTS;No Catalyst;0;1
+9;118;1000;Air;0.05;TWTS;No Catalyst;0;1
+10;167;1000;Air;0.05;TWTS;No Catalyst;0;1
+11;226;1000;Air;0.05;TWTS;No Catalyst;0;1
+12;290;1000;Air;0.05;TWTS;No Catalyst;0;1
+13;355;1000;Air;0.05;TWTS;No Catalyst;0;1
+14;413;1000;Air;0.05;TWTS;No Catalyst;0;1
+15;466;1000;Air;0.05;TWTS;No Catalyst;0;1
+16;510;1000;Air;0.05;TWTS;No Catalyst;0;2
+17;549;1000;Air;0.05;TWTS;No Catalyst;0;4
+18;581;1000;Air;0.05;TWTS;No Catalyst;0;7
+19;610;1000;Air;0.05;TWTS;No Catalyst;0;10
+20;636;1000;Air;0.05;TWTS;No Catalyst;0;14
+21;659;1000;Air;0.05;TWTS;No Catalyst;0;17
+22;682;1000;Air;0.05;TWTS;No Catalyst;0;20
+23;702;1000;Air;0.05;TWTS;No Catalyst;0;23
+24;720;1000;Air;0.05;TWTS;No Catalyst;0;25
+25;737;1000;Air;0.05;TWTS;No Catalyst;0;26
+26;754;1000;Air;0.05;TWTS;No Catalyst;0;27
+27;768;1000;Air;0.05;TWTS;No Catalyst;0;28
+28;784;1000;Air;0.05;TWTS;No Catalyst;0;29
+29;797;1000;Air;0.05;TWTS;No Catalyst;0;30
+30;810;1000;Air;0.05;TWTS;No Catalyst;0;31
+31;823;1000;Air;0.05;TWTS;No Catalyst;0;31
+32;835;1000;Air;0.05;TWTS;No Catalyst;0;32
+33;847;1000;Air;0.05;TWTS;No Catalyst;0;33
+34;859;1000;Air;0.05;TWTS;No Catalyst;0;33
+35;869;1000;Air;0.05;TWTS;No Catalyst;0;34
+36;879;1000;Air;0.05;TWTS;No Catalyst;0;35
+37;889;1000;Air;0.05;TWTS;No Catalyst;0;35
+38;900;1000;Air;0.05;TWTS;No Catalyst;0;36
+39;915;1000;Air;0.05;TWTS;No Catalyst;0;36
+40;930;1000;Air;0.05;TWTS;No Catalyst;0;36
+41;945;1000;Air;0.05;TWTS;No Catalyst;0;36
+42;960;1000;Air;0.05;TWTS;No Catalyst;0;35
+43;975;1000;Air;0.05;TWTS;No Catalyst;0;34
+44;985;1000;Air;0.05;TWTS;No Catalyst;0;32
+45;995;1000;Air;0.05;TWTS;No Catalyst;0;29
+46;1000;1000;Air;0.05;TWTS;No Catalyst;0;27
+47;1000;1000;Air;0.05;TWTS;No Catalyst;0;25
+48;1000;1000;Air;0.05;TWTS;No Catalyst;0;23
+49;1000;1000;Air;0.05;TWTS;No Catalyst;0;22
+50;1000;1000;Air;0.05;TWTS;No Catalyst;0;21
+51;1000;1000;Air;0.05;TWTS;No Catalyst;0;20
+52;1000;1000;Air;0.05;TWTS;No Catalyst;0;19
+53;1000;1000;Air;0.05;TWTS;No Catalyst;0;18
+54;1000;1000;Air;0.05;TWTS;No Catalyst;0;17
+55;1000;1000;Air;0.05;TWTS;No Catalyst;0;16
+56;1000;1000;Air;0.05;TWTS;No Catalyst;0;16
+57;1000;1000;Air;0.05;TWTS;No Catalyst;0;16
+58;1000;1000;Air;0.05;TWTS;No Catalyst;0;15
+59;1000;1000;Air;0.05;TWTS;No Catalyst;0;14
+60;1000;1000;Air;0.05;TWTS;No Catalyst;0;14
+61;1000;1000;Air;0.05;TWTS;No Catalyst;0;13
+62;1000;1000;Air;0.05;TWTS;No Catalyst;0;13
+63;1000;1000;Air;0.05;TWTS;No Catalyst;0;12
+64;1000;1000;Air;0.05;TWTS;No Catalyst;0;12
+65;1000;1000;Air;0.05;TWTS;No Catalyst;0;12
+66;1000;1000;Air;0.05;TWTS;No Catalyst;0;11
+67;1000;1000;Air;0.05;TWTS;No Catalyst;0;11
+68;1000;1000;Air;0.05;TWTS;No Catalyst;0;11
+69;1000;1000;Air;0.05;TWTS;No Catalyst;0;11
+70;1000;1000;Air;0.05;TWTS;No Catalyst;0;11
+71;1000;1000;Air;0.05;TWTS;No Catalyst;0;10
+72;1000;1000;Air;0.05;TWTS;No Catalyst;0;10
+1;6;800;Air;0.1;TWTS;No Catalyst;0;0
+2;9;800;Air;0.1;TWTS;No Catalyst;0;0
+3;12;800;Air;0.1;TWTS;No Catalyst;0;0
+4;15;800;Air;0.1;TWTS;No Catalyst;0;0
+5;18;800;Air;0.1;TWTS;No Catalyst;0;0
+6;28;800;Air;0.1;TWTS;No Catalyst;0;0
+7;47;800;Air;0.1;TWTS;No Catalyst;0;0
+8;77;800;Air;0.1;TWTS;No Catalyst;0;0
+9;118;800;Air;0.1;TWTS;No Catalyst;0;0
+10;167;800;Air;0.1;TWTS;No Catalyst;0;0
+11;226;800;Air;0.1;TWTS;No Catalyst;0;0
+12;290;800;Air;0.1;TWTS;No Catalyst;0;0
+13;355;800;Air;0.1;TWTS;No Catalyst;0;0
+14;413;800;Air;0.1;TWTS;No Catalyst;0;1
+15;466;800;Air;0.1;TWTS;No Catalyst;0;1
+16;510;800;Air;0.1;TWTS;No Catalyst;0;1
+17;549;800;Air;0.1;TWTS;No Catalyst;0;1
+18;581;800;Air;0.1;TWTS;No Catalyst;0;1
+19;610;800;Air;0.1;TWTS;No Catalyst;0;2
+20;636;800;Air;0.1;TWTS;No Catalyst;0;3
+21;659;800;Air;0.1;TWTS;No Catalyst;0;5
+22;682;800;Air;0.1;TWTS;No Catalyst;0;8
+23;702;800;Air;0.1;TWTS;No Catalyst;0;11
+24;720;800;Air;0.1;TWTS;No Catalyst;0;15
+25;737;800;Air;0.1;TWTS;No Catalyst;0;18
+26;754;800;Air;0.1;TWTS;No Catalyst;0;20
+27;768;800;Air;0.1;TWTS;No Catalyst;0;22
+28;784;800;Air;0.1;TWTS;No Catalyst;0;24
+29;797;800;Air;0.1;TWTS;No Catalyst;0;25
+30;800;800;Air;0.1;TWTS;No Catalyst;0;26
+31;800;800;Air;0.1;TWTS;No Catalyst;0;27
+32;800;800;Air;0.1;TWTS;No Catalyst;0;28
+33;800;800;Air;0.1;TWTS;No Catalyst;0;28
+34;800;800;Air;0.1;TWTS;No Catalyst;0;25
+35;800;800;Air;0.1;TWTS;No Catalyst;0;24
+36;800;800;Air;0.1;TWTS;No Catalyst;0;24
+37;800;800;Air;0.1;TWTS;No Catalyst;0;24
+38;800;800;Air;0.1;TWTS;No Catalyst;0;23
+39;800;800;Air;0.1;TWTS;No Catalyst;0;21
+40;800;800;Air;0.1;TWTS;No Catalyst;0;20
+41;800;800;Air;0.1;TWTS;No Catalyst;0;21
+42;800;800;Air;0.1;TWTS;No Catalyst;0;21
+43;800;800;Air;0.1;TWTS;No Catalyst;0;19
+44;800;800;Air;0.1;TWTS;No Catalyst;0;18
+45;800;800;Air;0.1;TWTS;No Catalyst;0;17
+46;800;800;Air;0.1;TWTS;No Catalyst;0;17
+47;800;800;Air;0.1;TWTS;No Catalyst;0;17
+48;800;800;Air;0.1;TWTS;No Catalyst;0;16
+49;800;800;Air;0.1;TWTS;No Catalyst;0;15
+50;800;800;Air;0.1;TWTS;No Catalyst;0;14
+51;800;800;Air;0.1;TWTS;No Catalyst;0;14
+52;800;800;Air;0.1;TWTS;No Catalyst;0;13
+53;800;800;Air;0.1;TWTS;No Catalyst;0;13
+54;800;800;Air;0.1;TWTS;No Catalyst;0;12
+55;800;800;Air;0.1;TWTS;No Catalyst;0;12
+56;800;800;Air;0.1;TWTS;No Catalyst;0;11
+57;800;800;Air;0.1;TWTS;No Catalyst;0;11
+58;800;800;Air;0.1;TWTS;No Catalyst;0;10
+59;800;800;Air;0.1;TWTS;No Catalyst;0;10
+1;6;900;Air;0.1;TWTS;No Catalyst;0;0
+2;9;900;Air;0.1;TWTS;No Catalyst;0;0
+3;12;900;Air;0.1;TWTS;No Catalyst;0;0
+4;15;900;Air;0.1;TWTS;No Catalyst;0;0
+5;18;900;Air;0.1;TWTS;No Catalyst;0;0
+6;28;900;Air;0.1;TWTS;No Catalyst;0;0
+7;47;900;Air;0.1;TWTS;No Catalyst;0;0
+8;77;900;Air;0.1;TWTS;No Catalyst;0;0
+9;118;900;Air;0.1;TWTS;No Catalyst;0;0
+10;167;900;Air;0.1;TWTS;No Catalyst;0;1
+11;226;900;Air;0.1;TWTS;No Catalyst;0;1
+12;290;900;Air;0.1;TWTS;No Catalyst;0;1
+13;355;900;Air;0.1;TWTS;No Catalyst;0;1
+14;413;900;Air;0.1;TWTS;No Catalyst;0;1
+15;466;900;Air;0.1;TWTS;No Catalyst;0;1
+16;510;900;Air;0.1;TWTS;No Catalyst;0;2
+17;549;900;Air;0.1;TWTS;No Catalyst;0;4
+18;581;900;Air;0.1;TWTS;No Catalyst;0;7
+19;610;900;Air;0.1;TWTS;No Catalyst;0;10
+20;636;900;Air;0.1;TWTS;No Catalyst;0;13
+21;659;900;Air;0.1;TWTS;No Catalyst;0;17
+22;682;900;Air;0.1;TWTS;No Catalyst;0;20
+23;702;900;Air;0.1;TWTS;No Catalyst;0;22
+24;720;900;Air;0.1;TWTS;No Catalyst;0;24
+25;737;900;Air;0.1;TWTS;No Catalyst;0;26
+26;754;900;Air;0.1;TWTS;No Catalyst;0;27
+27;768;900;Air;0.1;TWTS;No Catalyst;0;28
+28;784;900;Air;0.1;TWTS;No Catalyst;0;29
+29;797;900;Air;0.1;TWTS;No Catalyst;0;30
+30;810;900;Air;0.1;TWTS;No Catalyst;0;31
+31;823;900;Air;0.1;TWTS;No Catalyst;0;32
+32;835;900;Air;0.1;TWTS;No Catalyst;0;32
+33;847;900;Air;0.1;TWTS;No Catalyst;0;33
+34;859;900;Air;0.1;TWTS;No Catalyst;0;34
+35;869;900;Air;0.1;TWTS;No Catalyst;0;32
+36;879;900;Air;0.1;TWTS;No Catalyst;0;31
+37;889;900;Air;0.1;TWTS;No Catalyst;0;31
+38;900;900;Air;0.1;TWTS;No Catalyst;0;31
+39;900;900;Air;0.1;TWTS;No Catalyst;0;30
+40;900;900;Air;0.1;TWTS;No Catalyst;0;27
+41;900;900;Air;0.1;TWTS;No Catalyst;0;26
+42;900;900;Air;0.1;TWTS;No Catalyst;0;25
+43;900;900;Air;0.1;TWTS;No Catalyst;0;24
+44;900;900;Air;0.1;TWTS;No Catalyst;0;22
+45;900;900;Air;0.1;TWTS;No Catalyst;0;22
+46;900;900;Air;0.1;TWTS;No Catalyst;0;22
+47;900;900;Air;0.1;TWTS;No Catalyst;0;21
+48;900;900;Air;0.1;TWTS;No Catalyst;0;22
+49;900;900;Air;0.1;TWTS;No Catalyst;0;22
+50;900;900;Air;0.1;TWTS;No Catalyst;0;20
+51;900;900;Air;0.1;TWTS;No Catalyst;0;20
+52;900;900;Air;0.1;TWTS;No Catalyst;0;19
+53;900;900;Air;0.1;TWTS;No Catalyst;0;19
+54;900;900;Air;0.1;TWTS;No Catalyst;0;18
+55;900;900;Air;0.1;TWTS;No Catalyst;0;18
+56;900;900;Air;0.1;TWTS;No Catalyst;0;17
+57;900;900;Air;0.1;TWTS;No Catalyst;0;17
+58;900;900;Air;0.1;TWTS;No Catalyst;0;16
+59;900;900;Air;0.1;TWTS;No Catalyst;0;15
+60;900;900;Air;0.1;TWTS;No Catalyst;0;14
+1;6;1000;Air;0.1;TWTS;No Catalyst;0;0
+2;9;1000;Air;0.1;TWTS;No Catalyst;0;0
+3;12;1000;Air;0.1;TWTS;No Catalyst;0;0
+4;15;1000;Air;0.1;TWTS;No Catalyst;0;0
+5;18;1000;Air;0.1;TWTS;No Catalyst;0;0
+6;28;1000;Air;0.1;TWTS;No Catalyst;0;0
+7;47;1000;Air;0.1;TWTS;No Catalyst;0;0
+8;77;1000;Air;0.1;TWTS;No Catalyst;0;0
+9;118;1000;Air;0.1;TWTS;No Catalyst;0;0
+10;167;1000;Air;0.1;TWTS;No Catalyst;0;1
+11;226;1000;Air;0.1;TWTS;No Catalyst;0;1
+12;290;1000;Air;0.1;TWTS;No Catalyst;0;1
+13;355;1000;Air;0.1;TWTS;No Catalyst;0;1
+14;413;1000;Air;0.1;TWTS;No Catalyst;0;1
+15;466;1000;Air;0.1;TWTS;No Catalyst;0;1
+16;510;1000;Air;0.1;TWTS;No Catalyst;0;2
+17;549;1000;Air;0.1;TWTS;No Catalyst;0;4
+18;581;1000;Air;0.1;TWTS;No Catalyst;0;7
+19;610;1000;Air;0.1;TWTS;No Catalyst;0;10
+20;636;1000;Air;0.1;TWTS;No Catalyst;0;14
+21;659;1000;Air;0.1;TWTS;No Catalyst;0;17
+22;682;1000;Air;0.1;TWTS;No Catalyst;0;20
+23;702;1000;Air;0.1;TWTS;No Catalyst;0;22
+24;720;1000;Air;0.1;TWTS;No Catalyst;0;24
+25;737;1000;Air;0.1;TWTS;No Catalyst;0;25
+26;754;1000;Air;0.1;TWTS;No Catalyst;0;26
+27;768;1000;Air;0.1;TWTS;No Catalyst;0;27
+28;784;1000;Air;0.1;TWTS;No Catalyst;0;28
+29;797;1000;Air;0.1;TWTS;No Catalyst;0;29
+30;810;1000;Air;0.1;TWTS;No Catalyst;0;29
+31;823;1000;Air;0.1;TWTS;No Catalyst;0;30
+32;835;1000;Air;0.1;TWTS;No Catalyst;0;31
+33;847;1000;Air;0.1;TWTS;No Catalyst;0;32
+34;859;1000;Air;0.1;TWTS;No Catalyst;0;32
+35;869;1000;Air;0.1;TWTS;No Catalyst;0;33
+36;879;1000;Air;0.1;TWTS;No Catalyst;0;34
+37;889;1000;Air;0.1;TWTS;No Catalyst;0;35
+38;900;1000;Air;0.1;TWTS;No Catalyst;0;33
+39;915;1000;Air;0.1;TWTS;No Catalyst;0;31
+40;930;1000;Air;0.1;TWTS;No Catalyst;0;29
+41;945;1000;Air;0.1;TWTS;No Catalyst;0;28
+42;960;1000;Air;0.1;TWTS;No Catalyst;0;27
+43;975;1000;Air;0.1;TWTS;No Catalyst;0;26
+44;985;1000;Air;0.1;TWTS;No Catalyst;0;25
+45;995;1000;Air;0.1;TWTS;No Catalyst;0;24
+46;1000;1000;Air;0.1;TWTS;No Catalyst;0;23
+47;1000;1000;Air;0.1;TWTS;No Catalyst;0;22
+48;1000;1000;Air;0.1;TWTS;No Catalyst;0;21
+49;1000;1000;Air;0.1;TWTS;No Catalyst;0;20
+50;1000;1000;Air;0.1;TWTS;No Catalyst;0;18
+51;1000;1000;Air;0.1;TWTS;No Catalyst;0;16
+1;15;700;Air;0.05;TWTS;Marble dust ;10;0
+2;16;700;Air;0.05;TWTS;Marble dust ;10;0
+3;18;700;Air;0.05;TWTS;Marble dust ;10;0
+4;21;700;Air;0.05;TWTS;Marble dust ;10;0
+5;30;700;Air;0.05;TWTS;Marble dust ;10;0
+6;40;700;Air;0.05;TWTS;Marble dust ;10;0
+7;75;700;Air;0.05;TWTS;Marble dust ;10;0
+8;100;700;Air;0.05;TWTS;Marble dust ;10;0
+9;150;700;Air;0.05;TWTS;Marble dust ;10;0
+10;200;700;Air;0.05;TWTS;Marble dust ;10;1
+11;250;700;Air;0.05;TWTS;Marble dust ;10;1
+12;350;700;Air;0.05;TWTS;Marble dust ;10;1
+13;400;700;Air;0.05;TWTS;Marble dust ;10;1
+14;450;700;Air;0.05;TWTS;Marble dust ;10;1
+15;490;700;Air;0.05;TWTS;Marble dust ;10;1
+16;520;700;Air;0.05;TWTS;Marble dust ;10;1
+17;550;700;Air;0.05;TWTS;Marble dust ;10;1
+18;575;700;Air;0.05;TWTS;Marble dust ;10;3
+19;600;700;Air;0.05;TWTS;Marble dust ;10;7
+20;630;700;Air;0.05;TWTS;Marble dust ;10;10
+21;660;700;Air;0.05;TWTS;Marble dust ;10;13
+22;677;700;Air;0.05;TWTS;Marble dust ;10;16
+23;700;700;Air;0.05;TWTS;Marble dust ;10;18
+24;700;700;Air;0.05;TWTS;Marble dust ;10;20
+25;700;700;Air;0.05;TWTS;Marble dust ;10;22
+26;700;700;Air;0.05;TWTS;Marble dust ;10;23
+27;700;700;Air;0.05;TWTS;Marble dust ;10;23
+28;700;700;Air;0.05;TWTS;Marble dust ;10;22
+29;700;700;Air;0.05;TWTS;Marble dust ;10;21
+30;700;700;Air;0.05;TWTS;Marble dust ;10;21
+31;700;700;Air;0.05;TWTS;Marble dust ;10;22
+32;700;700;Air;0.05;TWTS;Marble dust ;10;23
+33;700;700;Air;0.05;TWTS;Marble dust ;10;23
+34;700;700;Air;0.05;TWTS;Marble dust ;10;23
+35;700;700;Air;0.05;TWTS;Marble dust ;10;22
+36;700;700;Air;0.05;TWTS;Marble dust ;10;22
+37;700;700;Air;0.05;TWTS;Marble dust ;10;22
+38;700;700;Air;0.05;TWTS;Marble dust ;10;22
+39;700;700;Air;0.05;TWTS;Marble dust ;10;22
+40;700;700;Air;0.05;TWTS;Marble dust ;10;21
+41;700;700;Air;0.05;TWTS;Marble dust ;10;20
+42;700;700;Air;0.05;TWTS;Marble dust ;10;19
+43;700;700;Air;0.05;TWTS;Marble dust ;10;18
+44;700;700;Air;0.05;TWTS;Marble dust ;10;17
+45;700;700;Air;0.05;TWTS;Marble dust ;10;16
+46;700;700;Air;0.05;TWTS;Marble dust ;10;15
+47;700;700;Air;0.05;TWTS;Marble dust ;10;14
+48;700;700;Air;0.05;TWTS;Marble dust ;10;13
+49;700;700;Air;0.05;TWTS;Marble dust ;10;12
+50;700;700;Air;0.05;TWTS;Marble dust ;10;11
+51;700;700;Air;0.05;TWTS;Marble dust ;10;10
+52;700;700;Air;0.05;TWTS;Marble dust ;10;9
+53;700;700;Air;0.05;TWTS;Marble dust ;10;9
+54;700;700;Air;0.05;TWTS;Marble dust ;10;9
+55;700;700;Air;0.05;TWTS;Marble dust ;10;8
+56;700;700;Air;0.05;TWTS;Marble dust ;10;7
+57;700;700;Air;0.05;TWTS;Marble dust ;10;7
+58;700;700;Air;0.05;TWTS;Marble dust ;10;6
+59;700;700;Air;0.05;TWTS;Marble dust ;10;5
+0;14;700;Air;0.05;TWTS;Marble dust ;20;0
+1;15;700;Air;0.05;TWTS;Marble dust ;20;0
+2;20;700;Air;0.05;TWTS;Marble dust ;20;0
+3;30;700;Air;0.05;TWTS;Marble dust ;20;0
+4;40;700;Air;0.05;TWTS;Marble dust ;20;0
+5;50;700;Air;0.05;TWTS;Marble dust ;20;0
+6;60;700;Air;0.05;TWTS;Marble dust ;20;0
+7;65;700;Air;0.05;TWTS;Marble dust ;20;0
+8;70;700;Air;0.05;TWTS;Marble dust ;20;0
+9;75;700;Air;0.05;TWTS;Marble dust ;20;0
+10;80;700;Air;0.05;TWTS;Marble dust ;20;0
+11;85;700;Air;0.05;TWTS;Marble dust ;20;0
+12;90;700;Air;0.05;TWTS;Marble dust ;20;0
+13;100;700;Air;0.05;TWTS;Marble dust ;20;0
+14;110;700;Air;0.05;TWTS;Marble dust ;20;0
+15;120;700;Air;0.05;TWTS;Marble dust ;20;0
+16;130;700;Air;0.05;TWTS;Marble dust ;20;0
+17;170;700;Air;0.05;TWTS;Marble dust ;20;0
+18;200;700;Air;0.05;TWTS;Marble dust ;20;0
+19;220;700;Air;0.05;TWTS;Marble dust ;20;0
+20;250;700;Air;0.05;TWTS;Marble dust ;20;0
+21;280;700;Air;0.05;TWTS;Marble dust ;20;0
+22;310;700;Air;0.05;TWTS;Marble dust ;20;0
+23;345;700;Air;0.05;TWTS;Marble dust ;20;0
+24;400;700;Air;0.05;TWTS;Marble dust ;20;1
+25;450;700;Air;0.05;TWTS;Marble dust ;20;1
+26;500;700;Air;0.05;TWTS;Marble dust ;20;2
+27;600;700;Air;0.05;TWTS;Marble dust ;20;4
+28;620;700;Air;0.05;TWTS;Marble dust ;20;8
+29;640;700;Air;0.05;TWTS;Marble dust ;20;11
+30;670;700;Air;0.05;TWTS;Marble dust ;20;13
+31;700;700;Air;0.05;TWTS;Marble dust ;20;15
+32;700;700;Air;0.05;TWTS;Marble dust ;20;17
+33;700;700;Air;0.05;TWTS;Marble dust ;20;20
+34;700;700;Air;0.05;TWTS;Marble dust ;20;22
+35;700;700;Air;0.05;TWTS;Marble dust ;20;23
+36;700;700;Air;0.05;TWTS;Marble dust ;20;23
+37;700;700;Air;0.05;TWTS;Marble dust ;20;22
+38;700;700;Air;0.05;TWTS;Marble dust ;20;22
+39;700;700;Air;0.05;TWTS;Marble dust ;20;23
+40;700;700;Air;0.05;TWTS;Marble dust ;20;24
+41;700;700;Air;0.05;TWTS;Marble dust ;20;25
+42;700;700;Air;0.05;TWTS;Marble dust ;20;24
+43;700;700;Air;0.05;TWTS;Marble dust ;20;24
+44;700;700;Air;0.05;TWTS;Marble dust ;20;24
+45;700;700;Air;0.05;TWTS;Marble dust ;20;25
+46;700;700;Air;0.05;TWTS;Marble dust ;20;26
+47;700;700;Air;0.05;TWTS;Marble dust ;20;26
+48;700;700;Air;0.05;TWTS;Marble dust ;20;26
+49;700;700;Air;0.05;TWTS;Marble dust ;20;25
+50;700;700;Air;0.05;TWTS;Marble dust ;20;25
+51;700;700;Air;0.05;TWTS;Marble dust ;20;26
+52;700;700;Air;0.05;TWTS;Marble dust ;20;26
+53;700;700;Air;0.05;TWTS;Marble dust ;20;25
+54;700;700;Air;0.05;TWTS;Marble dust ;20;24
+55;700;700;Air;0.05;TWTS;Marble dust ;20;23
+56;700;700;Air;0.05;TWTS;Marble dust ;20;22
+57;700;700;Air;0.05;TWTS;Marble dust ;20;21
+58;700;700;Air;0.05;TWTS;Marble dust ;20;20
+59;700;700;Air;0.05;TWTS;Marble dust ;20;19
+60;700;700;Air;0.05;TWTS;Marble dust ;20;18
+61;700;700;Air;0.05;TWTS;Marble dust ;20;17
+62;700;700;Air;0.05;TWTS;Marble dust ;20;16
+63;700;700;Air;0.05;TWTS;Marble dust ;20;16
+64;700;700;Air;0.05;TWTS;Marble dust ;20;15
+65;700;700;Air;0.05;TWTS;Marble dust ;20;15
+66;700;700;Air;0.05;TWTS;Marble dust ;20;14
+67;700;700;Air;0.05;TWTS;Marble dust ;20;14
+68;700;700;Air;0.05;TWTS;Marble dust ;20;13
+69;700;700;Air;0.05;TWTS;Marble dust ;20;13
+70;700;700;Air;0.05;TWTS;Marble dust ;20;13
+71;700;700;Air;0.05;TWTS;Marble dust ;20;12
+72;700;700;Air;0.05;TWTS;Marble dust ;20;12
+73;700;700;Air;0.05;TWTS;Marble dust ;20;12
+74;700;700;Air;0.05;TWTS;Marble dust ;20;12
+75;700;700;Air;0.05;TWTS;Marble dust ;20;12
+1;21;800;Air;0.05;TWTS;Marble dust ;5;0
+2;28;800;Air;0.05;TWTS;Marble dust ;5;0
+3;47;800;Air;0.05;TWTS;Marble dust ;5;0
+4;77;800;Air;0.05;TWTS;Marble dust ;5;0
+5;118;800;Air;0.05;TWTS;Marble dust ;5;0
+6;167;800;Air;0.05;TWTS;Marble dust ;5;0
+7;226;800;Air;0.05;TWTS;Marble dust ;5;0
+8;290;800;Air;0.05;TWTS;Marble dust ;5;0
+9;355;800;Air;0.05;TWTS;Marble dust ;5;0
+10;413;800;Air;0.05;TWTS;Marble dust ;5;0
+11;466;800;Air;0.05;TWTS;Marble dust ;5;0
+12;510;800;Air;0.05;TWTS;Marble dust ;5;0
+13;549;800;Air;0.05;TWTS;Marble dust ;5;1
+14;581;800;Air;0.05;TWTS;Marble dust ;5;1
+15;610;800;Air;0.05;TWTS;Marble dust ;5;1
+16;636;800;Air;0.05;TWTS;Marble dust ;5;1
+17;659;800;Air;0.05;TWTS;Marble dust ;5;1
+18;682;800;Air;0.05;TWTS;Marble dust ;5;2
+19;702;800;Air;0.05;TWTS;Marble dust ;5;2
+20;720;800;Air;0.05;TWTS;Marble dust ;5;3
+21;737;800;Air;0.05;TWTS;Marble dust ;5;5
+22;754;800;Air;0.05;TWTS;Marble dust ;5;7
+23;768;800;Air;0.05;TWTS;Marble dust ;5;11
+24;784;800;Air;0.05;TWTS;Marble dust ;5;15
+25;797;800;Air;0.05;TWTS;Marble dust ;5;18
+26;800;800;Air;0.05;TWTS;Marble dust ;5;21
+27;800;800;Air;0.05;TWTS;Marble dust ;5;23
+28;800;800;Air;0.05;TWTS;Marble dust ;5;24
+29;800;800;Air;0.05;TWTS;Marble dust ;5;24
+30;800;800;Air;0.05;TWTS;Marble dust ;5;24
+31;800;800;Air;0.05;TWTS;Marble dust ;5;24
+32;800;800;Air;0.05;TWTS;Marble dust ;5;23
+33;800;800;Air;0.05;TWTS;Marble dust ;5;23
+34;800;800;Air;0.05;TWTS;Marble dust ;5;23
+35;800;800;Air;0.05;TWTS;Marble dust ;5;24
+36;800;800;Air;0.05;TWTS;Marble dust ;5;25
+37;800;800;Air;0.05;TWTS;Marble dust ;5;25
+38;800;800;Air;0.05;TWTS;Marble dust ;5;25
+39;800;800;Air;0.05;TWTS;Marble dust ;5;25
+40;800;800;Air;0.05;TWTS;Marble dust ;5;25
+41;800;800;Air;0.05;TWTS;Marble dust ;5;24
+42;800;800;Air;0.05;TWTS;Marble dust ;5;23
+43;800;800;Air;0.05;TWTS;Marble dust ;5;22
+44;800;800;Air;0.05;TWTS;Marble dust ;5;21
+45;800;800;Air;0.05;TWTS;Marble dust ;5;19
+46;800;800;Air;0.05;TWTS;Marble dust ;5;18
+47;800;800;Air;0.05;TWTS;Marble dust ;5;17
+48;800;800;Air;0.05;TWTS;Marble dust ;5;16
+49;800;800;Air;0.05;TWTS;Marble dust ;5;15
+50;800;800;Air;0.05;TWTS;Marble dust ;5;15
+51;800;800;Air;0.05;TWTS;Marble dust ;5;14
+52;800;800;Air;0.05;TWTS;Marble dust ;5;12
+1;21;800;Air;0.05;TWTS;Marble dust ;10;0
+2;28;800;Air;0.05;TWTS;Marble dust ;10;0
+3;47;800;Air;0.05;TWTS;Marble dust ;10;0
+4;77;800;Air;0.05;TWTS;Marble dust ;10;0
+5;118;800;Air;0.05;TWTS;Marble dust ;10;0
+6;167;800;Air;0.05;TWTS;Marble dust ;10;0
+7;226;800;Air;0.05;TWTS;Marble dust ;10;0
+8;290;800;Air;0.05;TWTS;Marble dust ;10;0
+9;355;800;Air;0.05;TWTS;Marble dust ;10;1
+10;413;800;Air;0.05;TWTS;Marble dust ;10;1
+11;466;800;Air;0.05;TWTS;Marble dust ;10;1
+12;510;800;Air;0.05;TWTS;Marble dust ;10;1
+13;549;800;Air;0.05;TWTS;Marble dust ;10;1
+14;581;800;Air;0.05;TWTS;Marble dust ;10;1
+15;610;800;Air;0.05;TWTS;Marble dust ;10;1
+16;636;800;Air;0.05;TWTS;Marble dust ;10;1
+17;659;800;Air;0.05;TWTS;Marble dust ;10;1
+18;682;800;Air;0.05;TWTS;Marble dust ;10;2
+19;702;800;Air;0.05;TWTS;Marble dust ;10;2
+20;720;800;Air;0.05;TWTS;Marble dust ;10;3
+21;737;800;Air;0.05;TWTS;Marble dust ;10;5
+22;754;800;Air;0.05;TWTS;Marble dust ;10;7
+23;768;800;Air;0.05;TWTS;Marble dust ;10;11
+24;784;800;Air;0.05;TWTS;Marble dust ;10;14
+25;797;800;Air;0.05;TWTS;Marble dust ;10;17
+26;800;800;Air;0.05;TWTS;Marble dust ;10;19
+27;800;800;Air;0.05;TWTS;Marble dust ;10;20
+28;800;800;Air;0.05;TWTS;Marble dust ;10;20
+29;800;800;Air;0.05;TWTS;Marble dust ;10;17
+30;800;800;Air;0.05;TWTS;Marble dust ;10;24
+31;800;800;Air;0.05;TWTS;Marble dust ;10;24
+32;800;800;Air;0.05;TWTS;Marble dust ;10;24
+33;800;800;Air;0.05;TWTS;Marble dust ;10;24
+34;800;800;Air;0.05;TWTS;Marble dust ;10;24
+35;800;800;Air;0.05;TWTS;Marble dust ;10;24
+36;800;800;Air;0.05;TWTS;Marble dust ;10;24
+37;800;800;Air;0.05;TWTS;Marble dust ;10;24
+38;800;800;Air;0.05;TWTS;Marble dust ;10;23
+39;800;800;Air;0.05;TWTS;Marble dust ;10;22
+40;800;800;Air;0.05;TWTS;Marble dust ;10;21
+41;800;800;Air;0.05;TWTS;Marble dust ;10;19
+42;800;800;Air;0.05;TWTS;Marble dust ;10;18
+43;800;800;Air;0.05;TWTS;Marble dust ;10;17
+44;800;800;Air;0.05;TWTS;Marble dust ;10;17
+45;800;800;Air;0.05;TWTS;Marble dust ;10;17
+46;800;800;Air;0.05;TWTS;Marble dust ;10;17
+47;800;800;Air;0.05;TWTS;Marble dust ;10;16
+48;800;800;Air;0.05;TWTS;Marble dust ;10;16
+49;800;800;Air;0.05;TWTS;Marble dust ;10;16
+50;800;800;Air;0.05;TWTS;Marble dust ;10;16
+51;800;800;Air;0.05;TWTS;Marble dust ;10;15
+52;800;800;Air;0.05;TWTS;Marble dust ;10;15
+53;800;800;Air;0.05;TWTS;Marble dust ;10;15
+54;800;800;Air;0.05;TWTS;Marble dust ;10;14
+55;800;800;Air;0.05;TWTS;Marble dust ;10;13
+1;21;800;Air;0.05;TWTS;Marble dust ;15;0
+2;28;800;Air;0.05;TWTS;Marble dust ;15;0
+3;47;800;Air;0.05;TWTS;Marble dust ;15;0
+4;77;800;Air;0.05;TWTS;Marble dust ;15;0
+5;118;800;Air;0.05;TWTS;Marble dust ;15;0
+6;167;800;Air;0.05;TWTS;Marble dust ;15;0
+7;226;800;Air;0.05;TWTS;Marble dust ;15;0
+8;290;800;Air;0.05;TWTS;Marble dust ;15;0
+9;355;800;Air;0.05;TWTS;Marble dust ;15;0
+10;413;800;Air;0.05;TWTS;Marble dust ;15;0
+11;466;800;Air;0.05;TWTS;Marble dust ;15;0
+12;510;800;Air;0.05;TWTS;Marble dust ;15;0
+13;549;800;Air;0.05;TWTS;Marble dust ;15;1
+14;581;800;Air;0.05;TWTS;Marble dust ;15;1
+15;610;800;Air;0.05;TWTS;Marble dust ;15;1
+16;636;800;Air;0.05;TWTS;Marble dust ;15;1
+17;659;800;Air;0.05;TWTS;Marble dust ;15;2
+18;682;800;Air;0.05;TWTS;Marble dust ;15;2
+19;702;800;Air;0.05;TWTS;Marble dust ;15;2
+20;720;800;Air;0.05;TWTS;Marble dust ;15;4
+21;737;800;Air;0.05;TWTS;Marble dust ;15;6
+22;754;800;Air;0.05;TWTS;Marble dust ;15;8
+23;768;800;Air;0.05;TWTS;Marble dust ;15;11
+24;784;800;Air;0.05;TWTS;Marble dust ;15;14
+25;797;800;Air;0.05;TWTS;Marble dust ;15;17
+26;800;800;Air;0.05;TWTS;Marble dust ;15;19
+27;800;800;Air;0.05;TWTS;Marble dust ;15;21
+28;800;800;Air;0.05;TWTS;Marble dust ;15;23
+29;800;800;Air;0.05;TWTS;Marble dust ;15;25
+30;800;800;Air;0.05;TWTS;Marble dust ;15;25
+31;800;800;Air;0.05;TWTS;Marble dust ;15;25
+32;800;800;Air;0.05;TWTS;Marble dust ;15;24
+33;800;800;Air;0.05;TWTS;Marble dust ;15;25
+34;800;800;Air;0.05;TWTS;Marble dust ;15;26
+35;800;800;Air;0.05;TWTS;Marble dust ;15;27
+36;800;800;Air;0.05;TWTS;Marble dust ;15;27
+37;800;800;Air;0.05;TWTS;Marble dust ;15;26
+38;800;800;Air;0.05;TWTS;Marble dust ;15;26
+39;800;800;Air;0.05;TWTS;Marble dust ;15;26
+40;800;800;Air;0.05;TWTS;Marble dust ;15;26
+41;800;800;Air;0.05;TWTS;Marble dust ;15;25
+42;800;800;Air;0.05;TWTS;Marble dust ;15;24
+43;800;800;Air;0.05;TWTS;Marble dust ;15;19.46
+44;800;800;Air;0.05;TWTS;Marble dust ;15;21.21
+45;800;800;Air;0.05;TWTS;Marble dust ;15;22.83
+46;800;800;Air;0.05;TWTS;Marble dust ;15;24.27
+47;800;800;Air;0.05;TWTS;Marble dust ;15;25.25
+48;800;800;Air;0.05;TWTS;Marble dust ;15;26.14
+49;800;800;Air;0.05;TWTS;Marble dust ;15;26.98
+50;800;800;Air;0.05;TWTS;Marble dust ;15;27.43
+51;800;800;Air;0.05;TWTS;Marble dust ;15;27.63
+52;800;800;Air;0.05;TWTS;Marble dust ;15;27.58
+53;800;800;Air;0.05;TWTS;Marble dust ;15;27.27
+54;800;800;Air;0.05;TWTS;Marble dust ;15;26.4
+55;800;800;Air;0.05;TWTS;Marble dust ;15;24.24
+56;800;800;Air;0.05;TWTS;Marble dust ;15;20.87
+57;800;800;Air;0.05;TWTS;Marble dust ;15;15.37
+58;800;800;Air;0.05;TWTS;Marble dust ;15;12.17
+59;800;800;Air;0.05;TWTS;Marble dust ;15;11.05
+60;800;800;Air;0.05;TWTS;Marble dust ;15;10.57
+61;800;800;Air;0.05;TWTS;Marble dust ;15;9.42
+62;800;800;Air;0.05;TWTS;Marble dust ;15;8.83
+1;21;800;Air;0.05;TWTS;Marble dust ;20;0
+2;28;800;Air;0.05;TWTS;Marble dust ;20;0
+3;47;800;Air;0.05;TWTS;Marble dust ;20;0
+4;77;800;Air;0.05;TWTS;Marble dust ;20;0
+5;118;800;Air;0.05;TWTS;Marble dust ;20;0
+6;167;800;Air;0.05;TWTS;Marble dust ;20;0
+7;226;800;Air;0.05;TWTS;Marble dust ;20;0
+8;290;800;Air;0.05;TWTS;Marble dust ;20;0
+9;355;800;Air;0.05;TWTS;Marble dust ;20;0
+10;413;800;Air;0.05;TWTS;Marble dust ;20;0
+11;466;800;Air;0.05;TWTS;Marble dust ;20;1
+12;510;800;Air;0.05;TWTS;Marble dust ;20;1
+13;549;800;Air;0.05;TWTS;Marble dust ;20;1
+14;581;800;Air;0.05;TWTS;Marble dust ;20;1
+15;610;800;Air;0.05;TWTS;Marble dust ;20;1
+16;636;800;Air;0.05;TWTS;Marble dust ;20;2
+17;659;800;Air;0.05;TWTS;Marble dust ;20;2
+18;682;800;Air;0.05;TWTS;Marble dust ;20;3
+19;702;800;Air;0.05;TWTS;Marble dust ;20;5
+20;720;800;Air;0.05;TWTS;Marble dust ;20;7
+21;737;800;Air;0.05;TWTS;Marble dust ;20;10
+22;754;800;Air;0.05;TWTS;Marble dust ;20;13
+23;768;800;Air;0.05;TWTS;Marble dust ;20;16
+24;784;800;Air;0.05;TWTS;Marble dust ;20;17
+25;797;800;Air;0.05;TWTS;Marble dust ;20;19
+26;800;800;Air;0.05;TWTS;Marble dust ;20;20
+27;800;800;Air;0.05;TWTS;Marble dust ;20;21
+28;800;800;Air;0.05;TWTS;Marble dust ;20;20
+29;800;800;Air;0.05;TWTS;Marble dust ;20;18
+30;800;800;Air;0.05;TWTS;Marble dust ;20;17
+31;800;800;Air;0.05;TWTS;Marble dust ;20;18
+32;800;800;Air;0.05;TWTS;Marble dust ;20;18
+33;800;800;Air;0.05;TWTS;Marble dust ;20;18
+34;800;800;Air;0.05;TWTS;Marble dust ;20;17
+35;800;800;Air;0.05;TWTS;Marble dust ;20;16
+36;800;800;Air;0.05;TWTS;Marble dust ;20;17
+37;800;800;Air;0.05;TWTS;Marble dust ;20;17
+38;800;800;Air;0.05;TWTS;Marble dust ;20;16
+39;800;800;Air;0.05;TWTS;Marble dust ;20;15
+40;800;800;Air;0.05;TWTS;Marble dust ;20;15
+41;800;800;Air;0.05;TWTS;Marble dust ;20;16
+42;800;800;Air;0.05;TWTS;Marble dust ;20;16
+43;800;800;Air;0.05;TWTS;Marble dust ;20;15
+44;800;800;Air;0.05;TWTS;Marble dust ;20;14
+45;800;800;Air;0.05;TWTS;Marble dust ;20;14
+46;800;800;Air;0.05;TWTS;Marble dust ;20;14
+47;800;800;Air;0.05;TWTS;Marble dust ;20;14
+48;800;800;Air;0.05;TWTS;Marble dust ;20;13
+49;800;800;Air;0.05;TWTS;Marble dust ;20;12
+1;12;900;Air;0.05;TWTS;Marble dust ;5;0
+2;15;900;Air;0.05;TWTS;Marble dust ;5;0
+3;18;900;Air;0.05;TWTS;Marble dust ;5;0
+4;28;900;Air;0.05;TWTS;Marble dust ;5;0
+5;47;900;Air;0.05;TWTS;Marble dust ;5;0
+6;77;900;Air;0.05;TWTS;Marble dust ;5;0
+7;118;900;Air;0.05;TWTS;Marble dust ;5;1
+8;167;900;Air;0.05;TWTS;Marble dust ;5;1
+9;226;900;Air;0.05;TWTS;Marble dust ;5;1.22
+10;290;900;Air;0.05;TWTS;Marble dust ;5;1.25
+11;355;900;Air;0.05;TWTS;Marble dust ;5;1.26
+12;413;900;Air;0.05;TWTS;Marble dust ;5;1.27
+13;466;900;Air;0.05;TWTS;Marble dust ;5;1.27
+14;510;900;Air;0.05;TWTS;Marble dust ;5;1.58
+15;549;900;Air;0.05;TWTS;Marble dust ;5;2.4
+16;581;900;Air;0.05;TWTS;Marble dust ;5;4.07
+17;610;900;Air;0.05;TWTS;Marble dust ;5;6.65
+18;636;900;Air;0.05;TWTS;Marble dust ;5;10.02
+19;659;900;Air;0.05;TWTS;Marble dust ;5;13.51
+20;682;900;Air;0.05;TWTS;Marble dust ;5;16.72
+21;702;900;Air;0.05;TWTS;Marble dust ;5;19.46
+22;720;900;Air;0.05;TWTS;Marble dust ;5;21.21
+23;737;900;Air;0.05;TWTS;Marble dust ;5;22.83
+24;754;900;Air;0.05;TWTS;Marble dust ;5;24.27
+25;768;900;Air;0.05;TWTS;Marble dust ;5;25.25
+26;784;900;Air;0.05;TWTS;Marble dust ;5;26.14
+27;797;900;Air;0.05;TWTS;Marble dust ;5;26.98
+28;810;900;Air;0.05;TWTS;Marble dust ;5;27.43
+29;823;900;Air;0.05;TWTS;Marble dust ;5;27.63
+30;835;900;Air;0.05;TWTS;Marble dust ;5;27.58
+31;847;900;Air;0.05;TWTS;Marble dust ;5;27.27
+32;859;900;Air;0.05;TWTS;Marble dust ;5;26.4
+33;869;900;Air;0.05;TWTS;Marble dust ;5;24.24
+34;879;900;Air;0.05;TWTS;Marble dust ;5;20.87
+35;900;900;Air;0.05;TWTS;Marble dust ;5;15.37
+36;900;900;Air;0.05;TWTS;Marble dust ;5;12.17
+37;900;900;Air;0.05;TWTS;Marble dust ;5;11.05
+38;900;900;Air;0.05;TWTS;Marble dust ;5;10.57
+39;900;900;Air;0.05;TWTS;Marble dust ;5;9.42
+40;900;900;Air;0.05;TWTS;Marble dust ;5;8.83
+1;6;900;Air;0.05;TWTS;Marble dust ;10;0
+2;9;900;Air;0.05;TWTS;Marble dust ;10;0
+3;12;900;Air;0.05;TWTS;Marble dust ;10;0
+4;15;900;Air;0.05;TWTS;Marble dust ;10;0
+5;18;900;Air;0.05;TWTS;Marble dust ;10;0
+6;28;900;Air;0.05;TWTS;Marble dust ;10;0
+7;47;900;Air;0.05;TWTS;Marble dust ;10;0
+8;77;900;Air;0.05;TWTS;Marble dust ;10;0
+9;118;900;Air;0.05;TWTS;Marble dust ;10;1
+10;167;900;Air;0.05;TWTS;Marble dust ;10;1
+11;226;900;Air;0.05;TWTS;Marble dust ;10;1
+12;290;900;Air;0.05;TWTS;Marble dust ;10;1
+13;355;900;Air;0.05;TWTS;Marble dust ;10;1
+14;413;900;Air;0.05;TWTS;Marble dust ;10;1
+15;466;900;Air;0.05;TWTS;Marble dust ;10;2
+16;510;900;Air;0.05;TWTS;Marble dust ;10;2
+17;549;900;Air;0.05;TWTS;Marble dust ;10;3
+18;581;900;Air;0.05;TWTS;Marble dust ;10;5
+19;610;900;Air;0.05;TWTS;Marble dust ;10;8
+20;636;900;Air;0.05;TWTS;Marble dust ;10;10
+21;659;900;Air;0.05;TWTS;Marble dust ;10;12
+22;682;900;Air;0.05;TWTS;Marble dust ;10;14
+23;702;900;Air;0.05;TWTS;Marble dust ;10;15
+24;720;900;Air;0.05;TWTS;Marble dust ;10;16
+25;737;900;Air;0.05;TWTS;Marble dust ;10;17
+26;754;900;Air;0.05;TWTS;Marble dust ;10;18
+27;768;900;Air;0.05;TWTS;Marble dust ;10;18
+28;784;900;Air;0.05;TWTS;Marble dust ;10;18
+29;797;900;Air;0.05;TWTS;Marble dust ;10;18
+30;810;900;Air;0.05;TWTS;Marble dust ;10;18
+31;823;900;Air;0.05;TWTS;Marble dust ;10;18
+32;835;900;Air;0.05;TWTS;Marble dust ;10;18
+33;847;900;Air;0.05;TWTS;Marble dust ;10;17
+34;859;900;Air;0.05;TWTS;Marble dust ;10;16
+35;869;900;Air;0.05;TWTS;Marble dust ;10;14
+36;879;900;Air;0.05;TWTS;Marble dust ;10;13
+37;889;900;Air;0.05;TWTS;Marble dust ;10;12
+38;900;900;Air;0.05;TWTS;Marble dust ;10;11
+39;900;900;Air;0.05;TWTS;Marble dust ;10;9
+40;900;900;Air;0.05;TWTS;Marble dust ;10;8
+41;900;900;Air;0.05;TWTS;Marble dust ;10;7
+42;900;900;Air;0.05;TWTS;Marble dust ;10;7
+43;900;900;Air;0.05;TWTS;Marble dust ;10;6
+44;900;900;Air;0.05;TWTS;Marble dust ;10;5
+45;900;900;Air;0.05;TWTS;Marble dust ;10;5
+46;900;900;Air;0.05;TWTS;Marble dust ;10;4
+47;900;900;Air;0.05;TWTS;Marble dust ;10;4
+48;900;900;Air;0.05;TWTS;Marble dust ;10;3
+49;900;900;Air;0.05;TWTS;Marble dust ;10;3
+50;900;900;Air;0.05;TWTS;Marble dust ;10;2
+51;900;900;Air;0.05;TWTS;Marble dust ;10;2
+52;900;900;Air;0.05;TWTS;Marble dust ;10;2
+53;900;900;Air;0.05;TWTS;Marble dust ;10;2
+54;900;900;Air;0.05;TWTS;Marble dust ;10;2
+55;900;900;Air;0.05;TWTS;Marble dust ;10;1
+56;900;900;Air;0.05;TWTS;Marble dust ;10;1
+57;900;900;Air;0.05;TWTS;Marble dust ;10;1
+58;900;900;Air;0.05;TWTS;Marble dust ;10;1
+59;900;900;Air;0.05;TWTS;Marble dust ;10;1
+60;900;900;Air;0.05;TWTS;Marble dust ;10;1
+1;6;900;Air;0.05;TWTS;Marble dust ;15;0
+2;9;900;Air;0.05;TWTS;Marble dust ;15;0
+3;12;900;Air;0.05;TWTS;Marble dust ;15;0
+4;15;900;Air;0.05;TWTS;Marble dust ;15;0
+5;18;900;Air;0.05;TWTS;Marble dust ;15;0
+6;28;900;Air;0.05;TWTS;Marble dust ;15;0
+7;47;900;Air;0.05;TWTS;Marble dust ;15;0
+8;77;900;Air;0.05;TWTS;Marble dust ;15;0
+9;118;900;Air;0.05;TWTS;Marble dust ;15;1
+10;167;900;Air;0.05;TWTS;Marble dust ;15;1
+11;226;900;Air;0.05;TWTS;Marble dust ;15;1
+12;290;900;Air;0.05;TWTS;Marble dust ;15;1
+13;355;900;Air;0.05;TWTS;Marble dust ;15;1
+14;413;900;Air;0.05;TWTS;Marble dust ;15;1
+15;466;900;Air;0.05;TWTS;Marble dust ;15;1
+16;510;900;Air;0.05;TWTS;Marble dust ;15;1
+17;549;900;Air;0.05;TWTS;Marble dust ;15;2
+18;581;900;Air;0.05;TWTS;Marble dust ;15;2
+19;610;900;Air;0.05;TWTS;Marble dust ;15;4
+20;636;900;Air;0.05;TWTS;Marble dust ;15;7
+21;659;900;Air;0.05;TWTS;Marble dust ;15;10
+22;682;900;Air;0.05;TWTS;Marble dust ;15;13
+23;702;900;Air;0.05;TWTS;Marble dust ;15;16
+24;720;900;Air;0.05;TWTS;Marble dust ;15;18
+25;737;900;Air;0.05;TWTS;Marble dust ;15;20
+26;754;900;Air;0.05;TWTS;Marble dust ;15;21
+27;768;900;Air;0.05;TWTS;Marble dust ;15;22
+28;784;900;Air;0.05;TWTS;Marble dust ;15;23
+29;797;900;Air;0.05;TWTS;Marble dust ;15;24
+30;810;900;Air;0.05;TWTS;Marble dust ;15;24
+31;823;900;Air;0.05;TWTS;Marble dust ;15;25
+32;835;900;Air;0.05;TWTS;Marble dust ;15;25
+33;847;900;Air;0.05;TWTS;Marble dust ;15;24
+34;859;900;Air;0.05;TWTS;Marble dust ;15;24
+35;869;900;Air;0.05;TWTS;Marble dust ;15;24
+36;879;900;Air;0.05;TWTS;Marble dust ;15;24
+37;889;900;Air;0.05;TWTS;Marble dust ;15;23
+38;900;900;Air;0.05;TWTS;Marble dust ;15;23
+39;900;900;Air;0.05;TWTS;Marble dust ;15;22
+40;900;900;Air;0.05;TWTS;Marble dust ;15;21
+41;900;900;Air;0.05;TWTS;Marble dust ;15;20
+42;900;900;Air;0.05;TWTS;Marble dust ;15;19
+43;900;900;Air;0.05;TWTS;Marble dust ;15;18
+44;900;900;Air;0.05;TWTS;Marble dust ;15;16
+45;900;900;Air;0.05;TWTS;Marble dust ;15;14
+46;900;900;Air;0.05;TWTS;Marble dust ;15;12
+47;900;900;Air;0.05;TWTS;Marble dust ;15;10
+48;900;900;Air;0.05;TWTS;Marble dust ;15;10
+49;900;900;Air;0.05;TWTS;Marble dust ;15;10
+50;900;900;Air;0.05;TWTS;Marble dust ;15;9
+51;900;900;Air;0.05;TWTS;Marble dust ;15;8
+52;900;900;Air;0.05;TWTS;Marble dust ;15;8
+53;900;900;Air;0.05;TWTS;Marble dust ;15;7
+1;21;900;Air;0.05;TWTS;Marble dust ;20;0
+2;28;900;Air;0.05;TWTS;Marble dust ;20;0
+3;47;900;Air;0.05;TWTS;Marble dust ;20;0
+4;77;900;Air;0.05;TWTS;Marble dust ;20;0
+5;118;900;Air;0.05;TWTS;Marble dust ;20;0
+6;167;900;Air;0.05;TWTS;Marble dust ;20;0
+7;226;900;Air;0.05;TWTS;Marble dust ;20;0
+8;290;900;Air;0.05;TWTS;Marble dust ;20;0
+9;355;900;Air;0.05;TWTS;Marble dust ;20;0
+10;413;900;Air;0.05;TWTS;Marble dust ;20;1
+11;466;900;Air;0.05;TWTS;Marble dust ;20;1
+12;510;900;Air;0.05;TWTS;Marble dust ;20;1
+13;549;900;Air;0.05;TWTS;Marble dust ;20;1
+14;581;900;Air;0.05;TWTS;Marble dust ;20;1
+15;610;900;Air;0.05;TWTS;Marble dust ;20;1
+16;636;900;Air;0.05;TWTS;Marble dust ;20;2
+17;659;900;Air;0.05;TWTS;Marble dust ;20;3
+18;682;900;Air;0.05;TWTS;Marble dust ;20;5
+19;702;900;Air;0.05;TWTS;Marble dust ;20;8
+20;720;900;Air;0.05;TWTS;Marble dust ;20;10
+21;737;900;Air;0.05;TWTS;Marble dust ;20;13
+22;754;900;Air;0.05;TWTS;Marble dust ;20;16
+23;768;900;Air;0.05;TWTS;Marble dust ;20;18
+24;784;900;Air;0.05;TWTS;Marble dust ;20;20
+25;797;900;Air;0.05;TWTS;Marble dust ;20;21
+26;800;900;Air;0.05;TWTS;Marble dust ;20;22
+27;810;900;Air;0.05;TWTS;Marble dust ;20;22
+28;823;900;Air;0.05;TWTS;Marble dust ;20;22
+29;835;900;Air;0.05;TWTS;Marble dust ;20;23
+30;847;900;Air;0.05;TWTS;Marble dust ;20;23
+31;859;900;Air;0.05;TWTS;Marble dust ;20;23
+32;869;900;Air;0.05;TWTS;Marble dust ;20;23
+33;879;900;Air;0.05;TWTS;Marble dust ;20;22
+34;889;900;Air;0.05;TWTS;Marble dust ;20;21
+35;900;900;Air;0.05;TWTS;Marble dust ;20;20
+36;900;900;Air;0.05;TWTS;Marble dust ;20;20
+37;900;900;Air;0.05;TWTS;Marble dust ;20;20
+38;900;900;Air;0.05;TWTS;Marble dust ;20;19
+39;900;900;Air;0.05;TWTS;Marble dust ;20;18
+40;900;900;Air;0.05;TWTS;Marble dust ;20;18
+41;900;900;Air;0.05;TWTS;Marble dust ;20;18
+42;900;900;Air;0.05;TWTS;Marble dust ;20;17
+43;900;900;Air;0.05;TWTS;Marble dust ;20;15
+44;900;900;Air;0.05;TWTS;Marble dust ;20;14
+45;900;900;Air;0.05;TWTS;Marble dust ;20;13
+46;900;900;Air;0.05;TWTS;Marble dust ;20;12
+47;900;900;Air;0.05;TWTS;Marble dust ;20;10
+48;900;900;Air;0.05;TWTS;Marble dust ;20;9
+49;900;900;Air;0.05;TWTS;Marble dust ;20;8
+50;900;900;Air;0.05;TWTS;Marble dust ;20;7
+51;900;900;Air;0.05;TWTS;Marble dust ;20;7
+52;900;900;Air;0.05;TWTS;Marble dust ;20;6
+1;6;1000;Air;0.05;TWTS;Marble dust ;5;0
+2;9;1000;Air;0.05;TWTS;Marble dust ;5;0
+3;12;1000;Air;0.05;TWTS;Marble dust ;5;0
+4;15;1000;Air;0.05;TWTS;Marble dust ;5;0
+5;18;1000;Air;0.05;TWTS;Marble dust ;5;0
+6;28;1000;Air;0.05;TWTS;Marble dust ;5;0
+7;47;1000;Air;0.05;TWTS;Marble dust ;5;0
+8;77;1000;Air;0.05;TWTS;Marble dust ;5;0
+9;118;1000;Air;0.05;TWTS;Marble dust ;5;0
+10;167;1000;Air;0.05;TWTS;Marble dust ;5;0
+11;226;1000;Air;0.05;TWTS;Marble dust ;5;1
+12;290;1000;Air;0.05;TWTS;Marble dust ;5;1
+13;355;1000;Air;0.05;TWTS;Marble dust ;5;1
+14;413;1000;Air;0.05;TWTS;Marble dust ;5;1
+15;466;1000;Air;0.05;TWTS;Marble dust ;5;2
+16;510;1000;Air;0.05;TWTS;Marble dust ;5;3
+17;549;1000;Air;0.05;TWTS;Marble dust ;5;5
+18;581;1000;Air;0.05;TWTS;Marble dust ;5;8
+19;610;1000;Air;0.05;TWTS;Marble dust ;5;11
+20;636;1000;Air;0.05;TWTS;Marble dust ;5;15
+21;659;1000;Air;0.05;TWTS;Marble dust ;5;18
+22;682;1000;Air;0.05;TWTS;Marble dust ;5;21
+23;702;1000;Air;0.05;TWTS;Marble dust ;5;23
+24;720;1000;Air;0.05;TWTS;Marble dust ;5;25
+25;737;1000;Air;0.05;TWTS;Marble dust ;5;27
+26;754;1000;Air;0.05;TWTS;Marble dust ;5;28
+27;768;1000;Air;0.05;TWTS;Marble dust ;5;29
+28;784;1000;Air;0.05;TWTS;Marble dust ;5;30
+29;797;1000;Air;0.05;TWTS;Marble dust ;5;31
+30;810;1000;Air;0.05;TWTS;Marble dust ;5;32
+31;823;1000;Air;0.05;TWTS;Marble dust ;5;32
+32;835;1000;Air;0.05;TWTS;Marble dust ;5;33
+33;847;1000;Air;0.05;TWTS;Marble dust ;5;33
+34;859;1000;Air;0.05;TWTS;Marble dust ;5;34
+35;869;1000;Air;0.05;TWTS;Marble dust ;5;33
+36;879;1000;Air;0.05;TWTS;Marble dust ;5;36
+37;889;1000;Air;0.05;TWTS;Marble dust ;5;35
+38;900;1000;Air;0.05;TWTS;Marble dust ;5;36
+39;915;1000;Air;0.05;TWTS;Marble dust ;5;35
+40;930;1000;Air;0.05;TWTS;Marble dust ;5;35
+41;945;1000;Air;0.05;TWTS;Marble dust ;5;34
+42;960;1000;Air;0.05;TWTS;Marble dust ;5;34
+43;975;1000;Air;0.05;TWTS;Marble dust ;5;33
+44;985;1000;Air;0.05;TWTS;Marble dust ;5;32
+45;995;1000;Air;0.05;TWTS;Marble dust ;5;31
+46;1000;1000;Air;0.05;TWTS;Marble dust ;5;30
+47;1000;1000;Air;0.05;TWTS;Marble dust ;5;28
+48;1000;1000;Air;0.05;TWTS;Marble dust ;5;26
+49;1000;1000;Air;0.05;TWTS;Marble dust ;5;24
+50;1000;1000;Air;0.05;TWTS;Marble dust ;5;21
+51;1000;1000;Air;0.05;TWTS;Marble dust ;5;20
+52;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+53;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+54;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+55;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+56;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+57;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+58;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+59;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+60;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+61;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+62;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+63;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+64;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+65;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+66;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+67;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+68;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+69;1000;1000;Air;0.05;TWTS;Marble dust ;5;19
+70;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+71;1000;1000;Air;0.05;TWTS;Marble dust ;5;18
+72;1000;1000;Air;0.05;TWTS;Marble dust ;5;17
+73;1000;1000;Air;0.05;TWTS;Marble dust ;5;16
+74;1000;1000;Air;0.05;TWTS;Marble dust ;5;16
+75;1000;1000;Air;0.05;TWTS;Marble dust ;5;15
+76;1000;1000;Air;0.05;TWTS;Marble dust ;5;14
+1;6;1000;Air;0.05;TWTS;Marble dust ;10;0
+2;9;1000;Air;0.05;TWTS;Marble dust ;10;0
+3;12;1000;Air;0.05;TWTS;Marble dust ;10;0
+4;15;1000;Air;0.05;TWTS;Marble dust ;10;0
+5;18;1000;Air;0.05;TWTS;Marble dust ;10;0
+6;28;1000;Air;0.05;TWTS;Marble dust ;10;0
+7;47;1000;Air;0.05;TWTS;Marble dust ;10;0
+8;77;1000;Air;0.05;TWTS;Marble dust ;10;0
+9;118;1000;Air;0.05;TWTS;Marble dust ;10;0
+10;167;1000;Air;0.05;TWTS;Marble dust ;10;0
+11;226;1000;Air;0.05;TWTS;Marble dust ;10;1
+12;290;1000;Air;0.05;TWTS;Marble dust ;10;1
+13;355;1000;Air;0.05;TWTS;Marble dust ;10;1
+14;413;1000;Air;0.05;TWTS;Marble dust ;10;1
+15;466;1000;Air;0.05;TWTS;Marble dust ;10;1
+16;510;1000;Air;0.05;TWTS;Marble dust ;10;2
+17;549;1000;Air;0.05;TWTS;Marble dust ;10;2
+18;581;1000;Air;0.05;TWTS;Marble dust ;10;4
+19;610;1000;Air;0.05;TWTS;Marble dust ;10;6
+20;636;1000;Air;0.05;TWTS;Marble dust ;10;9
+21;659;1000;Air;0.05;TWTS;Marble dust ;10;12
+22;682;1000;Air;0.05;TWTS;Marble dust ;10;16
+23;702;1000;Air;0.05;TWTS;Marble dust ;10;18
+24;720;1000;Air;0.05;TWTS;Marble dust ;10;20
+25;737;1000;Air;0.05;TWTS;Marble dust ;10;22
+26;754;1000;Air;0.05;TWTS;Marble dust ;10;24
+27;768;1000;Air;0.05;TWTS;Marble dust ;10;25
+28;784;1000;Air;0.05;TWTS;Marble dust ;10;26
+29;797;1000;Air;0.05;TWTS;Marble dust ;10;26
+30;810;1000;Air;0.05;TWTS;Marble dust ;10;27
+31;823;1000;Air;0.05;TWTS;Marble dust ;10;27
+32;835;1000;Air;0.05;TWTS;Marble dust ;10;27
+33;847;1000;Air;0.05;TWTS;Marble dust ;10;27
+34;859;1000;Air;0.05;TWTS;Marble dust ;10;27
+35;869;1000;Air;0.05;TWTS;Marble dust ;10;27
+36;879;1000;Air;0.05;TWTS;Marble dust ;10;26
+37;889;1000;Air;0.05;TWTS;Marble dust ;10;26
+38;900;1000;Air;0.05;TWTS;Marble dust ;10;26
+39;915;1000;Air;0.05;TWTS;Marble dust ;10;25
+40;930;1000;Air;0.05;TWTS;Marble dust ;10;24
+41;945;1000;Air;0.05;TWTS;Marble dust ;10;23
+42;960;1000;Air;0.05;TWTS;Marble dust ;10;22
+43;975;1000;Air;0.05;TWTS;Marble dust ;10;20
+44;985;1000;Air;0.05;TWTS;Marble dust ;10;18
+45;995;1000;Air;0.05;TWTS;Marble dust ;10;15
+46;1000;1000;Air;0.05;TWTS;Marble dust ;10;14
+47;1000;1000;Air;0.05;TWTS;Marble dust ;10;12
+48;1000;1000;Air;0.05;TWTS;Marble dust ;10;11
+49;1000;1000;Air;0.05;TWTS;Marble dust ;10;11
+50;1000;1000;Air;0.05;TWTS;Marble dust ;10;10
+51;1000;1000;Air;0.05;TWTS;Marble dust ;10;10
+52;1000;1000;Air;0.05;TWTS;Marble dust ;10;9
+53;1000;1000;Air;0.05;TWTS;Marble dust ;10;9
+54;1000;1000;Air;0.05;TWTS;Marble dust ;10;9
+55;1000;1000;Air;0.05;TWTS;Marble dust ;10;9
+56;1000;1000;Air;0.05;TWTS;Marble dust ;10;8
+1;6;1000;Air;0.05;TWTS;Marble dust ;15;0
+2;9;1000;Air;0.05;TWTS;Marble dust ;15;0
+3;12;1000;Air;0.05;TWTS;Marble dust ;15;0
+4;15;1000;Air;0.05;TWTS;Marble dust ;15;0
+5;18;1000;Air;0.05;TWTS;Marble dust ;15;0
+6;28;1000;Air;0.05;TWTS;Marble dust ;15;0
+7;47;1000;Air;0.05;TWTS;Marble dust ;15;0
+8;77;1000;Air;0.05;TWTS;Marble dust ;15;0
+9;118;1000;Air;0.05;TWTS;Marble dust ;15;0
+10;167;1000;Air;0.05;TWTS;Marble dust ;15;0
+11;226;1000;Air;0.05;TWTS;Marble dust ;15;0
+12;290;1000;Air;0.05;TWTS;Marble dust ;15;1
+13;355;1000;Air;0.05;TWTS;Marble dust ;15;1
+14;413;1000;Air;0.05;TWTS;Marble dust ;15;1
+15;466;1000;Air;0.05;TWTS;Marble dust ;15;1
+16;510;1000;Air;0.05;TWTS;Marble dust ;15;1
+17;549;1000;Air;0.05;TWTS;Marble dust ;15;2
+18;581;1000;Air;0.05;TWTS;Marble dust ;15;2
+19;610;1000;Air;0.05;TWTS;Marble dust ;15;4
+20;636;1000;Air;0.05;TWTS;Marble dust ;15;5
+21;659;1000;Air;0.05;TWTS;Marble dust ;15;8
+22;682;1000;Air;0.05;TWTS;Marble dust ;15;10
+23;702;1000;Air;0.05;TWTS;Marble dust ;15;12
+24;720;1000;Air;0.05;TWTS;Marble dust ;15;14
+25;737;1000;Air;0.05;TWTS;Marble dust ;15;16
+26;754;1000;Air;0.05;TWTS;Marble dust ;15;17
+27;768;1000;Air;0.05;TWTS;Marble dust ;15;18
+28;784;1000;Air;0.05;TWTS;Marble dust ;15;18
+29;797;1000;Air;0.05;TWTS;Marble dust ;15;19
+30;810;1000;Air;0.05;TWTS;Marble dust ;15;19
+31;823;1000;Air;0.05;TWTS;Marble dust ;15;20
+32;835;1000;Air;0.05;TWTS;Marble dust ;15;20
+33;847;1000;Air;0.05;TWTS;Marble dust ;15;20
+34;859;1000;Air;0.05;TWTS;Marble dust ;15;20
+35;869;1000;Air;0.05;TWTS;Marble dust ;15;20
+36;879;1000;Air;0.05;TWTS;Marble dust ;15;20
+37;889;1000;Air;0.05;TWTS;Marble dust ;15;19
+38;900;1000;Air;0.05;TWTS;Marble dust ;15;19
+39;915;1000;Air;0.05;TWTS;Marble dust ;15;18
+40;930;1000;Air;0.05;TWTS;Marble dust ;15;18
+41;945;1000;Air;0.05;TWTS;Marble dust ;15;17
+42;960;1000;Air;0.05;TWTS;Marble dust ;15;17
+43;975;1000;Air;0.05;TWTS;Marble dust ;15;16
+44;985;1000;Air;0.05;TWTS;Marble dust ;15;15
+45;995;1000;Air;0.05;TWTS;Marble dust ;15;14
+46;1000;1000;Air;0.05;TWTS;Marble dust ;15;13
+47;1000;1000;Air;0.05;TWTS;Marble dust ;15;12
+48;1000;1000;Air;0.05;TWTS;Marble dust ;15;11
+49;1000;1000;Air;0.05;TWTS;Marble dust ;15;10
+50;1000;1000;Air;0.05;TWTS;Marble dust ;15;9
+51;1000;1000;Air;0.05;TWTS;Marble dust ;15;9
+52;1000;1000;Air;0.05;TWTS;Marble dust ;15;9
+53;1000;1000;Air;0.05;TWTS;Marble dust ;15;8
+54;1000;1000;Air;0.05;TWTS;Marble dust ;15;8
+55;1000;1000;Air;0.05;TWTS;Marble dust ;15;7
+1;6;1000;Air;0.05;TWTS;Marble dust ;20;0
+2;9;1000;Air;0.05;TWTS;Marble dust ;20;0
+3;12;1000;Air;0.05;TWTS;Marble dust ;20;0
+4;15;1000;Air;0.05;TWTS;Marble dust ;20;0
+5;18;1000;Air;0.05;TWTS;Marble dust ;20;0
+6;28;1000;Air;0.05;TWTS;Marble dust ;20;0
+7;47;1000;Air;0.05;TWTS;Marble dust ;20;0
+8;77;1000;Air;0.05;TWTS;Marble dust ;20;0
+9;118;1000;Air;0.05;TWTS;Marble dust ;20;0
+10;167;1000;Air;0.05;TWTS;Marble dust ;20;0
+11;226;1000;Air;0.05;TWTS;Marble dust ;20;1
+12;290;1000;Air;0.05;TWTS;Marble dust ;20;1
+13;355;1000;Air;0.05;TWTS;Marble dust ;20;1
+14;413;1000;Air;0.05;TWTS;Marble dust ;20;1
+15;466;1000;Air;0.05;TWTS;Marble dust ;20;1
+16;510;1000;Air;0.05;TWTS;Marble dust ;20;1
+17;549;1000;Air;0.05;TWTS;Marble dust ;20;2
+18;581;1000;Air;0.05;TWTS;Marble dust ;20;3
+19;610;1000;Air;0.05;TWTS;Marble dust ;20;5
+20;636;1000;Air;0.05;TWTS;Marble dust ;20;7
+21;659;1000;Air;0.05;TWTS;Marble dust ;20;10
+22;682;1000;Air;0.05;TWTS;Marble dust ;20;13
+23;702;1000;Air;0.05;TWTS;Marble dust ;20;16
+24;720;1000;Air;0.05;TWTS;Marble dust ;20;18
+25;737;1000;Air;0.05;TWTS;Marble dust ;20;19
+26;754;1000;Air;0.05;TWTS;Marble dust ;20;20
+27;768;1000;Air;0.05;TWTS;Marble dust ;20;21
+28;784;1000;Air;0.05;TWTS;Marble dust ;20;21
+29;797;1000;Air;0.05;TWTS;Marble dust ;20;21
+30;810;1000;Air;0.05;TWTS;Marble dust ;20;21
+31;823;1000;Air;0.05;TWTS;Marble dust ;20;22
+32;835;1000;Air;0.05;TWTS;Marble dust ;20;21
+33;847;1000;Air;0.05;TWTS;Marble dust ;20;22
+34;859;1000;Air;0.05;TWTS;Marble dust ;20;21
+35;869;1000;Air;0.05;TWTS;Marble dust ;20;21
+36;879;1000;Air;0.05;TWTS;Marble dust ;20;21
+37;889;1000;Air;0.05;TWTS;Marble dust ;20;20
+38;900;1000;Air;0.05;TWTS;Marble dust ;20;21
+39;915;1000;Air;0.05;TWTS;Marble dust ;20;20
+40;930;1000;Air;0.05;TWTS;Marble dust ;20;20
+41;945;1000;Air;0.05;TWTS;Marble dust ;20;19
+42;960;1000;Air;0.05;TWTS;Marble dust ;20;18
+43;975;1000;Air;0.05;TWTS;Marble dust ;20;17
+44;985;1000;Air;0.05;TWTS;Marble dust ;20;16
+45;995;1000;Air;0.05;TWTS;Marble dust ;20;15
+46;1000;1000;Air;0.05;TWTS;Marble dust ;20;13
+47;1000;1000;Air;0.05;TWTS;Marble dust ;20;12
+48;1000;1000;Air;0.05;TWTS;Marble dust ;20;10
+49;1000;1000;Air;0.05;TWTS;Marble dust ;20;9
+50;1000;1000;Air;0.05;TWTS;Marble dust ;20;8
+51;1000;1000;Air;0.05;TWTS;Marble dust ;20;8
+52;1000;1000;Air;0.05;TWTS;Marble dust ;20;7
+53;1000;1000;Air;0.05;TWTS;Marble dust ;20;7
+54;1000;1000;Air;0.05;TWTS;Marble dust ;20;7
+55;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+56;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+57;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+58;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+59;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+60;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+61;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+62;1000;1000;Air;0.05;TWTS;Marble dust ;20;6
+1;21;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+2;28;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+3;47;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+4;77;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+5;118;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+6;167;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+7;226;800;Air;0.05;Leather scraps ;No Catalyst;0;0
+8;290;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+9;355;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+10;413;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+11;466;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+12;510;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+13;549;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+14;581;800;Air;0.05;Leather scraps ;No Catalyst;0;1
+15;610;800;Air;0.05;Leather scraps ;No Catalyst;0;2
+16;636;800;Air;0.05;Leather scraps ;No Catalyst;0;2
+17;659;800;Air;0.05;Leather scraps ;No Catalyst;0;4
+18;682;800;Air;0.05;Leather scraps ;No Catalyst;0;8
+19;702;800;Air;0.05;Leather scraps ;No Catalyst;0;12
+20;720;800;Air;0.05;Leather scraps ;No Catalyst;0;19
+21;737;800;Air;0.05;Leather scraps ;No Catalyst;0;24
+22;754;800;Air;0.05;Leather scraps ;No Catalyst;0;27
+23;768;800;Air;0.05;Leather scraps ;No Catalyst;0;28
+24;784;800;Air;0.05;Leather scraps ;No Catalyst;0;29
+25;797;800;Air;0.05;Leather scraps ;No Catalyst;0;29
+26;800;800;Air;0.05;Leather scraps ;No Catalyst;0;30
+27;800;800;Air;0.05;Leather scraps ;No Catalyst;0;30
+28;800;800;Air;0.05;Leather scraps ;No Catalyst;0;32
+29;800;800;Air;0.05;Leather scraps ;No Catalyst;0;34
+30;800;800;Air;0.05;Leather scraps ;No Catalyst;0;33
+31;800;800;Air;0.05;Leather scraps ;No Catalyst;0;31
+32;800;800;Air;0.05;Leather scraps ;No Catalyst;0;33
+33;800;800;Air;0.05;Leather scraps ;No Catalyst;0;30
+34;800;800;Air;0.05;Leather scraps ;No Catalyst;0;27
+35;800;800;Air;0.05;Leather scraps ;No Catalyst;0;27
+36;800;800;Air;0.05;Leather scraps ;No Catalyst;0;22
+37;800;800;Air;0.05;Leather scraps ;No Catalyst;0;20
+38;800;800;Air;0.05;Leather scraps ;No Catalyst;0;19
+39;800;800;Air;0.05;Leather scraps ;No Catalyst;0;17
+40;800;800;Air;0.05;Leather scraps ;No Catalyst;0;15
+41;800;800;Air;0.05;Leather scraps ;No Catalyst;0;14
+42;800;800;Air;0.05;Leather scraps ;No Catalyst;0;13
+43;800;800;Air;0.05;Leather scraps ;No Catalyst;0;13
+44;800;800;Air;0.05;Leather scraps ;No Catalyst;0;13
+45;800;800;Air;0.05;Leather scraps ;No Catalyst;0;13
+46;800;800;Air;0.05;Leather scraps ;No Catalyst;0;12
+47;800;800;Air;0.05;Leather scraps ;No Catalyst;0;12
+1;21;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+2;28;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+3;47;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+4;77;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+5;118;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+6;167;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+7;226;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+8;290;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+9;355;900;Air;0.05;Leather scraps ;No Catalyst;0;0
+10;413;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+11;466;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+12;510;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+13;549;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+14;581;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+15;610;900;Air;0.05;Leather scraps ;No Catalyst;0;1
+16;636;900;Air;0.05;Leather scraps ;No Catalyst;0;2
+17;659;900;Air;0.05;Leather scraps ;No Catalyst;0;3
+18;682;900;Air;0.05;Leather scraps ;No Catalyst;0;6
+19;702;900;Air;0.05;Leather scraps ;No Catalyst;0;9
+20;720;900;Air;0.05;Leather scraps ;No Catalyst;0;13
+21;737;900;Air;0.05;Leather scraps ;No Catalyst;0;17
+22;754;900;Air;0.05;Leather scraps ;No Catalyst;0;20
+23;768;900;Air;0.05;Leather scraps ;No Catalyst;0;23
+24;784;900;Air;0.05;Leather scraps ;No Catalyst;0;24
+25;797;900;Air;0.05;Leather scraps ;No Catalyst;0;26
+26;800;900;Air;0.05;Leather scraps ;No Catalyst;0;25
+27;810;900;Air;0.05;Leather scraps ;No Catalyst;0;27
+28;823;900;Air;0.05;Leather scraps ;No Catalyst;0;27
+29;835;900;Air;0.05;Leather scraps ;No Catalyst;0;25
+30;847;900;Air;0.05;Leather scraps ;No Catalyst;0;24
+31;859;900;Air;0.05;Leather scraps ;No Catalyst;0;22
+32;869;900;Air;0.05;Leather scraps ;No Catalyst;0;20
+33;879;900;Air;0.05;Leather scraps ;No Catalyst;0;18
+34;889;900;Air;0.05;Leather scraps ;No Catalyst;0;16
+35;900;900;Air;0.05;Leather scraps ;No Catalyst;0;14
+36;900;900;Air;0.05;Leather scraps ;No Catalyst;0;13
+37;900;900;Air;0.05;Leather scraps ;No Catalyst;0;12
+38;900;900;Air;0.05;Leather scraps ;No Catalyst;0;10
+39;900;900;Air;0.05;Leather scraps ;No Catalyst;0;8
+40;900;900;Air;0.05;Leather scraps ;No Catalyst;0;7
+41;900;900;Air;0.05;Leather scraps ;No Catalyst;0;6
+42;900;900;Air;0.05;Leather scraps ;No Catalyst;0;6
+43;900;900;Air;0.05;Leather scraps ;No Catalyst;0;6
+44;900;900;Air;0.05;Leather scraps ;No Catalyst;0;5
+45;900;900;Air;0.05;Leather scraps ;No Catalyst;0;5
+1;6;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+2;9;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+3;12;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+4;15;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+5;18;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+6;28;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+7;47;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+8;77;1000;Air;0.05;Leather scraps ;No Catalyst;0;0
+9;118;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+10;167;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+11;226;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+12;290;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+13;355;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+14;413;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+15;466;1000;Air;0.05;Leather scraps ;No Catalyst;0;1
+16;510;1000;Air;0.05;Leather scraps ;No Catalyst;0;2
+17;549;1000;Air;0.05;Leather scraps ;No Catalyst;0;3
+18;581;1000;Air;0.05;Leather scraps ;No Catalyst;0;6
+19;610;1000;Air;0.05;Leather scraps ;No Catalyst;0;11
+20;636;1000;Air;0.05;Leather scraps ;No Catalyst;0;16
+21;659;1000;Air;0.05;Leather scraps ;No Catalyst;0;25
+22;682;1000;Air;0.05;Leather scraps ;No Catalyst;0;30
+23;702;1000;Air;0.05;Leather scraps ;No Catalyst;0;33
+24;720;1000;Air;0.05;Leather scraps ;No Catalyst;0;32
+25;737;1000;Air;0.05;Leather scraps ;No Catalyst;0;30
+26;754;1000;Air;0.05;Leather scraps ;No Catalyst;0;29
+27;768;1000;Air;0.05;Leather scraps ;No Catalyst;0;28
+28;784;1000;Air;0.05;Leather scraps ;No Catalyst;0;27
+29;797;1000;Air;0.05;Leather scraps ;No Catalyst;0;26
+30;810;1000;Air;0.05;Leather scraps ;No Catalyst;0;25
+31;823;1000;Air;0.05;Leather scraps ;No Catalyst;0;23
+32;835;1000;Air;0.05;Leather scraps ;No Catalyst;0;20
+33;847;1000;Air;0.05;Leather scraps ;No Catalyst;0;18
+34;859;1000;Air;0.05;Leather scraps ;No Catalyst;0;16
+35;869;1000;Air;0.05;Leather scraps ;No Catalyst;0;15
+36;879;1000;Air;0.05;Leather scraps ;No Catalyst;0;13
+37;889;1000;Air;0.05;Leather scraps ;No Catalyst;0;13
+38;900;1000;Air;0.05;Leather scraps ;No Catalyst;0;12
+39;915;1000;Air;0.05;Leather scraps ;No Catalyst;0;11
+40;930;1000;Air;0.05;Leather scraps ;No Catalyst;0;11
+41;945;1000;Air;0.05;Leather scraps ;No Catalyst;0;10
+42;960;1000;Air;0.05;Leather scraps ;No Catalyst;0;9
+43;975;1000;Air;0.05;Leather scraps ;No Catalyst;0;9
+44;985;1000;Air;0.05;Leather scraps ;No Catalyst;0;9
+45;995;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+46;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+47;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+48;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+49;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+50;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+51;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+52;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+53;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+54;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+55;1000;1000;Air;0.05;Leather scraps ;No Catalyst;0;8
+1;21;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+2;28;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+3;47;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+4;77;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+5;118;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+6;167;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+7;226;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+8;290;800;Air;0.1;Leather scraps ;No Catalyst;0;0
+9;355;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+10;413;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+11;466;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+12;510;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+13;549;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+14;581;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+15;610;800;Air;0.1;Leather scraps ;No Catalyst;0;1
+16;636;800;Air;0.1;Leather scraps ;No Catalyst;0;2
+17;659;800;Air;0.1;Leather scraps ;No Catalyst;0;4
+18;682;800;Air;0.1;Leather scraps ;No Catalyst;0;7
+19;702;800;Air;0.1;Leather scraps ;No Catalyst;0;11
+20;720;800;Air;0.1;Leather scraps ;No Catalyst;0;16
+21;737;800;Air;0.1;Leather scraps ;No Catalyst;0;23
+22;754;800;Air;0.1;Leather scraps ;No Catalyst;0;27
+23;768;800;Air;0.1;Leather scraps ;No Catalyst;0;29
+24;784;800;Air;0.1;Leather scraps ;No Catalyst;0;29
+25;797;800;Air;0.1;Leather scraps ;No Catalyst;0;30
+26;800;800;Air;0.1;Leather scraps ;No Catalyst;0;30
+27;800;800;Air;0.1;Leather scraps ;No Catalyst;0;31
+28;800;800;Air;0.1;Leather scraps ;No Catalyst;0;30
+29;800;800;Air;0.1;Leather scraps ;No Catalyst;0;30
+30;800;800;Air;0.1;Leather scraps ;No Catalyst;0;29
+31;800;800;Air;0.1;Leather scraps ;No Catalyst;0;27
+32;800;800;Air;0.1;Leather scraps ;No Catalyst;0;23
+33;800;800;Air;0.1;Leather scraps ;No Catalyst;0;21
+34;800;800;Air;0.1;Leather scraps ;No Catalyst;0;21
+35;800;800;Air;0.1;Leather scraps ;No Catalyst;0;19
+36;800;800;Air;0.1;Leather scraps ;No Catalyst;0;17
+37;800;800;Air;0.1;Leather scraps ;No Catalyst;0;16
+38;800;800;Air;0.1;Leather scraps ;No Catalyst;0;15
+39;800;800;Air;0.1;Leather scraps ;No Catalyst;0;15
+40;800;800;Air;0.1;Leather scraps ;No Catalyst;0;14
+41;800;800;Air;0.1;Leather scraps ;No Catalyst;0;13
+42;800;800;Air;0.1;Leather scraps ;No Catalyst;0;12
+43;800;800;Air;0.1;Leather scraps ;No Catalyst;0;12
+1;21;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+2;28;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+3;47;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+4;77;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+5;118;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+6;167;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+7;226;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+8;290;900;Air;0.1;Leather scraps ;No Catalyst;0;0
+9;355;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+10;413;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+11;466;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+12;510;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+13;549;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+14;581;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+15;610;900;Air;0.1;Leather scraps ;No Catalyst;0;1
+16;636;900;Air;0.1;Leather scraps ;No Catalyst;0;2
+17;659;900;Air;0.1;Leather scraps ;No Catalyst;0;3
+18;682;900;Air;0.1;Leather scraps ;No Catalyst;0;6
+19;702;900;Air;0.1;Leather scraps ;No Catalyst;0;10
+20;720;900;Air;0.1;Leather scraps ;No Catalyst;0;16
+21;737;900;Air;0.1;Leather scraps ;No Catalyst;0;20
+22;754;900;Air;0.1;Leather scraps ;No Catalyst;0;24
+23;768;900;Air;0.1;Leather scraps ;No Catalyst;0;24
+24;784;900;Air;0.1;Leather scraps ;No Catalyst;0;25
+25;797;900;Air;0.1;Leather scraps ;No Catalyst;0;25
+26;800;900;Air;0.1;Leather scraps ;No Catalyst;0;26
+27;810;900;Air;0.1;Leather scraps ;No Catalyst;0;26
+28;823;900;Air;0.1;Leather scraps ;No Catalyst;0;27
+29;835;900;Air;0.1;Leather scraps ;No Catalyst;0;29
+30;847;900;Air;0.1;Leather scraps ;No Catalyst;0;31
+31;859;900;Air;0.1;Leather scraps ;No Catalyst;0;32
+32;869;900;Air;0.1;Leather scraps ;No Catalyst;0;31
+33;879;900;Air;0.1;Leather scraps ;No Catalyst;0;31
+34;889;900;Air;0.1;Leather scraps ;No Catalyst;0;30
+35;900;900;Air;0.1;Leather scraps ;No Catalyst;0;29
+36;900;900;Air;0.1;Leather scraps ;No Catalyst;0;27
+37;900;900;Air;0.1;Leather scraps ;No Catalyst;0;26
+38;900;900;Air;0.1;Leather scraps ;No Catalyst;0;25
+39;900;900;Air;0.1;Leather scraps ;No Catalyst;0;24
+40;900;900;Air;0.1;Leather scraps ;No Catalyst;0;22
+41;900;900;Air;0.1;Leather scraps ;No Catalyst;0;21
+42;900;900;Air;0.1;Leather scraps ;No Catalyst;0;20
+43;900;900;Air;0.1;Leather scraps ;No Catalyst;0;19
+44;900;900;Air;0.1;Leather scraps ;No Catalyst;0;19
+45;900;900;Air;0.1;Leather scraps ;No Catalyst;0;17
+46;900;900;Air;0.1;Leather scraps ;No Catalyst;0;17
+47;900;900;Air;0.1;Leather scraps ;No Catalyst;0;16
+48;900;900;Air;0.1;Leather scraps ;No Catalyst;0;16
+49;900;900;Air;0.1;Leather scraps ;No Catalyst;0;16
+50;900;900;Air;0.1;Leather scraps ;No Catalyst;0;15
+51;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+52;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+53;900;900;Air;0.1;Leather scraps ;No Catalyst;0;15
+54;900;900;Air;0.1;Leather scraps ;No Catalyst;0;15
+55;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+56;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+57;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+58;900;900;Air;0.1;Leather scraps ;No Catalyst;0;15
+59;900;900;Air;0.1;Leather scraps ;No Catalyst;0;14
+60;900;900;Air;0.1;Leather scraps ;No Catalyst;0;13
+61;900;900;Air;0.1;Leather scraps ;No Catalyst;0;13
+1;6;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+2;9;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+3;12;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+4;15;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+5;18;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+6;28;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+7;47;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+8;77;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+9;118;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+10;167;1000;Air;0.1;Leather scraps ;No Catalyst;0;0
+11;226;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+12;290;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+13;355;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+14;413;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+15;466;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+16;510;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+17;549;1000;Air;0.1;Leather scraps ;No Catalyst;0;1
+18;581;1000;Air;0.1;Leather scraps ;No Catalyst;0;2
+19;610;1000;Air;0.1;Leather scraps ;No Catalyst;0;3
+20;636;1000;Air;0.1;Leather scraps ;No Catalyst;0;7
+21;659;1000;Air;0.1;Leather scraps ;No Catalyst;0;11
+22;682;1000;Air;0.1;Leather scraps ;No Catalyst;0;14
+23;702;1000;Air;0.1;Leather scraps ;No Catalyst;0;18
+24;720;1000;Air;0.1;Leather scraps ;No Catalyst;0;19
+25;737;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+26;754;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+27;768;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+28;784;1000;Air;0.1;Leather scraps ;No Catalyst;0;29
+29;797;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+30;810;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+31;823;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+32;835;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+33;847;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+34;859;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+35;869;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+36;879;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+37;889;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+38;900;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+39;915;1000;Air;0.1;Leather scraps ;No Catalyst;0;29
+40;930;1000;Air;0.1;Leather scraps ;No Catalyst;0;28
+41;945;1000;Air;0.1;Leather scraps ;No Catalyst;0;27
+42;960;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+43;975;1000;Air;0.1;Leather scraps ;No Catalyst;0;25
+44;985;1000;Air;0.1;Leather scraps ;No Catalyst;0;25
+45;995;1000;Air;0.1;Leather scraps ;No Catalyst;0;25
+46;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+47;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+48;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+49;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;27
+50;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;27
+51;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;28
+52;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;29
+53;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+54;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+55;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+56;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;31
+57;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;30
+58;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;28
+59;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;26
+60;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;25
+61;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+62;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+63;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+64;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;23
+65;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+66;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;24
+67;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;23
+68;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;22
+69;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;21
+70;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;20
+71;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;20
+72;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;20
+73;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;20
+74;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;19
+75;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;19
+76;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;19
+77;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;17
+78;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;17
+79;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;16
+80;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;15
+81;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;14
+82;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;14
+83;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;13
+84;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;13
+85;1000;1000;Air;0.1;Leather scraps ;No Catalyst;0;12
+1;21;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+2;28;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+3;47;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+4;77;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+5;118;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+6;167;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+7;226;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+8;290;800;Air;0.05;Leather scraps ;Marble dust ;5;0
+9;355;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+10;413;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+11;466;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+12;510;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+13;549;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+14;581;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+15;610;800;Air;0.05;Leather scraps ;Marble dust ;5;1
+16;636;800;Air;0.05;Leather scraps ;Marble dust ;5;2
+17;659;800;Air;0.05;Leather scraps ;Marble dust ;5;4
+18;682;800;Air;0.05;Leather scraps ;Marble dust ;5;8
+19;702;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+20;720;800;Air;0.05;Leather scraps ;Marble dust ;5;22
+21;737;800;Air;0.05;Leather scraps ;Marble dust ;5;25
+22;754;800;Air;0.05;Leather scraps ;Marble dust ;5;27
+23;768;800;Air;0.05;Leather scraps ;Marble dust ;5;27
+24;784;800;Air;0.05;Leather scraps ;Marble dust ;5;27
+25;797;800;Air;0.05;Leather scraps ;Marble dust ;5;27
+26;800;800;Air;0.05;Leather scraps ;Marble dust ;5;28
+27;800;800;Air;0.05;Leather scraps ;Marble dust ;5;29
+28;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+29;800;800;Air;0.05;Leather scraps ;Marble dust ;5;31
+30;800;800;Air;0.05;Leather scraps ;Marble dust ;5;31
+31;800;800;Air;0.05;Leather scraps ;Marble dust ;5;31
+32;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+33;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+34;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+35;800;800;Air;0.05;Leather scraps ;Marble dust ;5;31
+36;800;800;Air;0.05;Leather scraps ;Marble dust ;5;31
+37;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+38;800;800;Air;0.05;Leather scraps ;Marble dust ;5;30
+39;800;800;Air;0.05;Leather scraps ;Marble dust ;5;29
+40;800;800;Air;0.05;Leather scraps ;Marble dust ;5;28
+41;800;800;Air;0.05;Leather scraps ;Marble dust ;5;25
+42;800;800;Air;0.05;Leather scraps ;Marble dust ;5;23
+43;800;800;Air;0.05;Leather scraps ;Marble dust ;5;22
+44;800;800;Air;0.05;Leather scraps ;Marble dust ;5;21
+45;800;800;Air;0.05;Leather scraps ;Marble dust ;5;20
+46;800;800;Air;0.05;Leather scraps ;Marble dust ;5;19
+47;800;800;Air;0.05;Leather scraps ;Marble dust ;5;18
+48;800;800;Air;0.05;Leather scraps ;Marble dust ;5;17
+49;800;800;Air;0.05;Leather scraps ;Marble dust ;5;17
+50;800;800;Air;0.05;Leather scraps ;Marble dust ;5;16
+51;800;800;Air;0.05;Leather scraps ;Marble dust ;5;16
+52;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+53;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+54;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+55;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+56;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+57;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+58;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+59;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+60;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+61;800;800;Air;0.05;Leather scraps ;Marble dust ;5;15
+62;800;800;Air;0.05;Leather scraps ;Marble dust ;5;14
+63;800;800;Air;0.05;Leather scraps ;Marble dust ;5;14
+64;800;800;Air;0.05;Leather scraps ;Marble dust ;5;14
+65;800;800;Air;0.05;Leather scraps ;Marble dust ;5;14
+66;800;800;Air;0.05;Leather scraps ;Marble dust ;5;13
+67;800;800;Air;0.05;Leather scraps ;Marble dust ;5;13
+68;800;800;Air;0.05;Leather scraps ;Marble dust ;5;12
+69;800;800;Air;0.05;Leather scraps ;Marble dust ;5;12
+70;800;800;Air;0.05;Leather scraps ;Marble dust ;5;11
+71;800;800;Air;0.05;Leather scraps ;Marble dust ;5;10
+1;21;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+2;28;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+3;47;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+4;77;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+5;118;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+6;167;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+7;226;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+8;290;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+9;355;800;Air;0.05;Leather scraps ;Marble dust ;10;0
+10;413;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+11;466;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+12;510;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+13;549;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+14;581;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+15;610;800;Air;0.05;Leather scraps ;Marble dust ;10;1
+16;636;800;Air;0.05;Leather scraps ;Marble dust ;10;3
+17;659;800;Air;0.05;Leather scraps ;Marble dust ;10;7
+18;682;800;Air;0.05;Leather scraps ;Marble dust ;10;10
+19;702;800;Air;0.05;Leather scraps ;Marble dust ;10;12
+20;720;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+21;737;800;Air;0.05;Leather scraps ;Marble dust ;10;16
+22;754;800;Air;0.05;Leather scraps ;Marble dust ;10;18
+23;768;800;Air;0.05;Leather scraps ;Marble dust ;10;20
+24;784;800;Air;0.05;Leather scraps ;Marble dust ;10;22
+25;797;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+26;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+27;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+28;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+29;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+30;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+31;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+32;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+33;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+34;800;800;Air;0.05;Leather scraps ;Marble dust ;10;26
+35;800;800;Air;0.05;Leather scraps ;Marble dust ;10;26
+36;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+37;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+38;800;800;Air;0.05;Leather scraps ;Marble dust ;10;23
+39;800;800;Air;0.05;Leather scraps ;Marble dust ;10;22
+40;800;800;Air;0.05;Leather scraps ;Marble dust ;10;22
+41;800;800;Air;0.05;Leather scraps ;Marble dust ;10;22
+42;800;800;Air;0.05;Leather scraps ;Marble dust ;10;23
+43;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+44;800;800;Air;0.05;Leather scraps ;Marble dust ;10;25
+45;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+46;800;800;Air;0.05;Leather scraps ;Marble dust ;10;24
+47;800;800;Air;0.05;Leather scraps ;Marble dust ;10;23
+48;800;800;Air;0.05;Leather scraps ;Marble dust ;10;23
+49;800;800;Air;0.05;Leather scraps ;Marble dust ;10;23
+50;800;800;Air;0.05;Leather scraps ;Marble dust ;10;22
+51;800;800;Air;0.05;Leather scraps ;Marble dust ;10;21
+52;800;800;Air;0.05;Leather scraps ;Marble dust ;10;20
+53;800;800;Air;0.05;Leather scraps ;Marble dust ;10;20
+54;800;800;Air;0.05;Leather scraps ;Marble dust ;10;20
+55;800;800;Air;0.05;Leather scraps ;Marble dust ;10;20
+56;800;800;Air;0.05;Leather scraps ;Marble dust ;10;19
+57;800;800;Air;0.05;Leather scraps ;Marble dust ;10;18
+58;800;800;Air;0.05;Leather scraps ;Marble dust ;10;18
+59;800;800;Air;0.05;Leather scraps ;Marble dust ;10;17
+60;800;800;Air;0.05;Leather scraps ;Marble dust ;10;17
+61;800;800;Air;0.05;Leather scraps ;Marble dust ;10;17
+62;800;800;Air;0.05;Leather scraps ;Marble dust ;10;16
+63;800;800;Air;0.05;Leather scraps ;Marble dust ;10;16
+64;800;800;Air;0.05;Leather scraps ;Marble dust ;10;15
+65;800;800;Air;0.05;Leather scraps ;Marble dust ;10;15
+66;800;800;Air;0.05;Leather scraps ;Marble dust ;10;15
+67;800;800;Air;0.05;Leather scraps ;Marble dust ;10;15
+68;800;800;Air;0.05;Leather scraps ;Marble dust ;10;15
+69;800;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+70;800;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+71;800;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+72;800;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+73;800;800;Air;0.05;Leather scraps ;Marble dust ;10;14
+1;21;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+2;28;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+3;47;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+4;77;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+5;118;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+6;167;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+7;226;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+8;290;800;Air;0.05;Leather scraps ;Marble dust ;15;0
+9;355;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+10;413;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+11;466;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+12;510;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+13;549;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+14;581;800;Air;0.05;Leather scraps ;Marble dust ;15;1
+15;610;800;Air;0.05;Leather scraps ;Marble dust ;15;2
+16;636;800;Air;0.05;Leather scraps ;Marble dust ;15;5
+17;659;800;Air;0.05;Leather scraps ;Marble dust ;15;9
+18;682;800;Air;0.05;Leather scraps ;Marble dust ;15;15
+19;702;800;Air;0.05;Leather scraps ;Marble dust ;15;21
+20;720;800;Air;0.05;Leather scraps ;Marble dust ;15;22
+21;737;800;Air;0.05;Leather scraps ;Marble dust ;15;25
+22;754;800;Air;0.05;Leather scraps ;Marble dust ;15;25
+23;768;800;Air;0.05;Leather scraps ;Marble dust ;15;25
+24;784;800;Air;0.05;Leather scraps ;Marble dust ;15;24
+25;797;800;Air;0.05;Leather scraps ;Marble dust ;15;24
+26;800;800;Air;0.05;Leather scraps ;Marble dust ;15;24
+27;800;800;Air;0.05;Leather scraps ;Marble dust ;15;23
+28;800;800;Air;0.05;Leather scraps ;Marble dust ;15;22
+29;800;800;Air;0.05;Leather scraps ;Marble dust ;15;21
+30;800;800;Air;0.05;Leather scraps ;Marble dust ;15;21
+31;800;800;Air;0.05;Leather scraps ;Marble dust ;15;21
+32;800;800;Air;0.05;Leather scraps ;Marble dust ;15;20
+33;800;800;Air;0.05;Leather scraps ;Marble dust ;15;20
+34;800;800;Air;0.05;Leather scraps ;Marble dust ;15;20
+35;800;800;Air;0.05;Leather scraps ;Marble dust ;15;20
+36;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+37;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+38;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+39;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+40;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+41;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+42;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+43;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+44;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+45;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+46;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+47;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+48;800;800;Air;0.05;Leather scraps ;Marble dust ;15;19
+49;800;800;Air;0.05;Leather scraps ;Marble dust ;15;18
+50;800;800;Air;0.05;Leather scraps ;Marble dust ;15;18
+51;800;800;Air;0.05;Leather scraps ;Marble dust ;15;18
+52;800;800;Air;0.05;Leather scraps ;Marble dust ;15;17
+53;800;800;Air;0.05;Leather scraps ;Marble dust ;15;17
+54;800;800;Air;0.05;Leather scraps ;Marble dust ;15;17
+55;800;800;Air;0.05;Leather scraps ;Marble dust ;15;16
+56;800;800;Air;0.05;Leather scraps ;Marble dust ;15;16
+57;800;800;Air;0.05;Leather scraps ;Marble dust ;15;16
+58;800;800;Air;0.05;Leather scraps ;Marble dust ;15;15
+59;800;800;Air;0.05;Leather scraps ;Marble dust ;15;15
+60;800;800;Air;0.05;Leather scraps ;Marble dust ;15;15
+61;800;800;Air;0.05;Leather scraps ;Marble dust ;15;14
+62;800;800;Air;0.05;Leather scraps ;Marble dust ;15;14
+63;800;800;Air;0.05;Leather scraps ;Marble dust ;15;14
+64;800;800;Air;0.05;Leather scraps ;Marble dust ;15;14
+1;21;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+2;28;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+3;47;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+4;77;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+5;118;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+6;167;900;Air;0.05;Leather scraps ;Marble dust ;5;0
+7;226;900;Air;0.05;Leather scraps ;Marble dust ;5;1
+8;290;900;Air;0.05;Leather scraps ;Marble dust ;5;1
+9;355;900;Air;0.05;Leather scraps ;Marble dust ;5;1
+10;413;900;Air;0.05;Leather scraps ;Marble dust ;5;2
+11;466;900;Air;0.05;Leather scraps ;Marble dust ;5;3
+12;510;900;Air;0.05;Leather scraps ;Marble dust ;5;5
+13;549;900;Air;0.05;Leather scraps ;Marble dust ;5;8
+14;581;900;Air;0.05;Leather scraps ;Marble dust ;5;12
+15;610;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+16;636;900;Air;0.05;Leather scraps ;Marble dust ;5;17
+17;659;900;Air;0.05;Leather scraps ;Marble dust ;5;21
+18;682;900;Air;0.05;Leather scraps ;Marble dust ;5;21
+19;702;900;Air;0.05;Leather scraps ;Marble dust ;5;22
+20;720;900;Air;0.05;Leather scraps ;Marble dust ;5;24
+21;737;900;Air;0.05;Leather scraps ;Marble dust ;5;26
+22;754;900;Air;0.05;Leather scraps ;Marble dust ;5;27
+23;768;900;Air;0.05;Leather scraps ;Marble dust ;5;28
+24;784;900;Air;0.05;Leather scraps ;Marble dust ;5;28
+25;797;900;Air;0.05;Leather scraps ;Marble dust ;5;28
+26;800;900;Air;0.05;Leather scraps ;Marble dust ;5;29
+27;810;900;Air;0.05;Leather scraps ;Marble dust ;5;29
+28;823;900;Air;0.05;Leather scraps ;Marble dust ;5;29
+29;835;900;Air;0.05;Leather scraps ;Marble dust ;5;28
+30;847;900;Air;0.05;Leather scraps ;Marble dust ;5;28
+31;859;900;Air;0.05;Leather scraps ;Marble dust ;5;27
+32;869;900;Air;0.05;Leather scraps ;Marble dust ;5;27
+33;879;900;Air;0.05;Leather scraps ;Marble dust ;5;27
+34;889;900;Air;0.05;Leather scraps ;Marble dust ;5;27
+35;900;900;Air;0.05;Leather scraps ;Marble dust ;5;26
+36;900;900;Air;0.05;Leather scraps ;Marble dust ;5;26
+37;900;900;Air;0.05;Leather scraps ;Marble dust ;5;25
+38;900;900;Air;0.05;Leather scraps ;Marble dust ;5;24
+39;900;900;Air;0.05;Leather scraps ;Marble dust ;5;22
+40;900;900;Air;0.05;Leather scraps ;Marble dust ;5;21
+41;900;900;Air;0.05;Leather scraps ;Marble dust ;5;20
+42;900;900;Air;0.05;Leather scraps ;Marble dust ;5;19
+43;900;900;Air;0.05;Leather scraps ;Marble dust ;5;19
+44;900;900;Air;0.05;Leather scraps ;Marble dust ;5;18
+45;900;900;Air;0.05;Leather scraps ;Marble dust ;5;17
+46;900;900;Air;0.05;Leather scraps ;Marble dust ;5;16
+47;900;900;Air;0.05;Leather scraps ;Marble dust ;5;16
+48;900;900;Air;0.05;Leather scraps ;Marble dust ;5;16
+49;900;900;Air;0.05;Leather scraps ;Marble dust ;5;15
+50;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+51;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+52;900;900;Air;0.05;Leather scraps ;Marble dust ;5;15
+53;900;900;Air;0.05;Leather scraps ;Marble dust ;5;15
+54;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+55;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+56;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+57;900;900;Air;0.05;Leather scraps ;Marble dust ;5;15
+58;900;900;Air;0.05;Leather scraps ;Marble dust ;5;14
+59;900;900;Air;0.05;Leather scraps ;Marble dust ;5;13
+60;900;900;Air;0.05;Leather scraps ;Marble dust ;5;13
+1;21;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+2;28;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+3;47;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+4;77;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+5;118;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+6;167;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+7;226;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+8;290;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+9;355;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+10;413;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+11;466;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+12;510;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+13;549;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+14;581;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+15;610;900;Air;0.05;Leather scraps ;Marble dust ;10;0
+16;636;900;Air;0.05;Leather scraps ;Marble dust ;10;4.24
+17;659;900;Air;0.05;Leather scraps ;Marble dust ;10;11.53
+18;682;900;Air;0.05;Leather scraps ;Marble dust ;10;17.8
+19;702;900;Air;0.05;Leather scraps ;Marble dust ;10;22.97
+20;720;900;Air;0.05;Leather scraps ;Marble dust ;10;26.55
+21;737;900;Air;0.05;Leather scraps ;Marble dust ;10;28.41
+22;754;900;Air;0.05;Leather scraps ;Marble dust ;10;29.2
+23;768;900;Air;0.05;Leather scraps ;Marble dust ;10;28.9
+24;784;900;Air;0.05;Leather scraps ;Marble dust ;10;29.99
+25;797;900;Air;0.05;Leather scraps ;Marble dust ;10;31.16
+26;800;900;Air;0.05;Leather scraps ;Marble dust ;10;30.21
+27;810;900;Air;0.05;Leather scraps ;Marble dust ;10;28.71
+28;823;900;Air;0.05;Leather scraps ;Marble dust ;10;26.32
+29;835;900;Air;0.05;Leather scraps ;Marble dust ;10;24.19
+30;847;900;Air;0.05;Leather scraps ;Marble dust ;10;22.35
+31;859;900;Air;0.05;Leather scraps ;Marble dust ;10;20.91
+32;869;900;Air;0.05;Leather scraps ;Marble dust ;10;20
+33;879;900;Air;0.05;Leather scraps ;Marble dust ;10;19.65
+34;889;900;Air;0.05;Leather scraps ;Marble dust ;10;19.57
+35;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.64
+36;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.84
+37;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.99
+38;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.34
+39;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.68
+40;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21
+41;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.23
+42;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.42
+43;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.26
+44;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.17
+45;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.67
+46;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.21
+47;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.57
+48;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.71
+49;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.61
+50;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.63
+51;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.92
+52;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.3
+53;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.55
+54;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.52
+55;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.46
+56;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.45
+57;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.64
+58;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.82
+59;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.81
+60;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.63
+61;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.3
+62;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23.08
+63;900;900;Air;0.05;Leather scraps ;Marble dust ;10;23
+64;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.9
+65;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.66
+66;900;900;Air;0.05;Leather scraps ;Marble dust ;10;22.28
+67;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.84
+68;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.69
+69;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.69
+70;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.63
+71;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.47
+72;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.02
+73;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.83
+74;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.93
+75;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.03
+76;900;900;Air;0.05;Leather scraps ;Marble dust ;10;21.03
+77;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.65
+78;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.34
+79;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.41
+80;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.56
+81;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.63
+82;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.34
+83;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.97
+84;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.92
+85;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.08
+86;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.21
+87;900;900;Air;0.05;Leather scraps ;Marble dust ;10;20.03
+88;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.52
+89;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.39
+90;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.5
+91;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.68
+92;900;900;Air;0.05;Leather scraps ;Marble dust ;10;19.51
+93;900;900;Air;0.05;Leather scraps ;Marble dust ;10;18.93
+94;900;900;Air;0.05;Leather scraps ;Marble dust ;10;18.66
+95;900;900;Air;0.05;Leather scraps ;Marble dust ;10;18.71
+96;900;900;Air;0.05;Leather scraps ;Marble dust ;10;18.89
+97;900;900;Air;0.05;Leather scraps ;Marble dust ;10;18.64
+98;900;900;Air;0.05;Leather scraps ;Marble dust ;10;17.97
+99;900;900;Air;0.05;Leather scraps ;Marble dust ;10;17.62
+100;900;900;Air;0.05;Leather scraps ;Marble dust ;10;17.63
+101;900;900;Air;0.05;Leather scraps ;Marble dust ;10;17.73
+1;21;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+2;28;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+3;47;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+4;77;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+5;118;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+6;167;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+7;226;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+8;290;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+9;355;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+10;413;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+11;466;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+12;510;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+13;549;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+14;581;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+15;610;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+16;636;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+17;659;900;Air;0.05;Leather scraps ;Marble dust ;15;0
+18;682;900;Air;0.05;Leather scraps ;Marble dust ;15;2.07
+19;702;900;Air;0.05;Leather scraps ;Marble dust ;15;8.14
+20;720;900;Air;0.05;Leather scraps ;Marble dust ;15;15.76
+21;737;900;Air;0.05;Leather scraps ;Marble dust ;15;21.73
+22;754;900;Air;0.05;Leather scraps ;Marble dust ;15;26.61
+23;768;900;Air;0.05;Leather scraps ;Marble dust ;15;29.73
+24;784;900;Air;0.05;Leather scraps ;Marble dust ;15;31.74
+25;797;900;Air;0.05;Leather scraps ;Marble dust ;15;31.9
+26;800;900;Air;0.05;Leather scraps ;Marble dust ;15;31.46
+27;810;900;Air;0.05;Leather scraps ;Marble dust ;15;31.64
+28;823;900;Air;0.05;Leather scraps ;Marble dust ;15;32.44
+29;835;900;Air;0.05;Leather scraps ;Marble dust ;15;33.3
+30;847;900;Air;0.05;Leather scraps ;Marble dust ;15;33.65
+31;859;900;Air;0.05;Leather scraps ;Marble dust ;15;33.16
+32;869;900;Air;0.05;Leather scraps ;Marble dust ;15;32.16
+33;879;900;Air;0.05;Leather scraps ;Marble dust ;15;30.85
+34;889;900;Air;0.05;Leather scraps ;Marble dust ;15;29.62
+35;900;900;Air;0.05;Leather scraps ;Marble dust ;15;28.41
+36;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.52
+37;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.03
+38;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.84
+39;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.91
+40;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.17
+41;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.45
+42;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.72
+43;900;900;Air;0.05;Leather scraps ;Marble dust ;15;28.68
+44;900;900;Air;0.05;Leather scraps ;Marble dust ;15;29.68
+45;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.27
+46;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.31
+47;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.21
+48;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.35
+49;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.61
+50;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.72
+51;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.62
+52;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.4
+53;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.35
+54;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.39
+55;900;900;Air;0.05;Leather scraps ;Marble dust ;15;30.15
+56;900;900;Air;0.05;Leather scraps ;Marble dust ;15;29.6
+57;900;900;Air;0.05;Leather scraps ;Marble dust ;15;28.9
+58;900;900;Air;0.05;Leather scraps ;Marble dust ;15;28.3
+59;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.85
+60;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.48
+61;900;900;Air;0.05;Leather scraps ;Marble dust ;15;27.16
+62;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.84
+63;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.62
+64;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.52
+65;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.43
+66;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.26
+67;900;900;Air;0.05;Leather scraps ;Marble dust ;15;26.07
+68;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.94
+69;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.87
+70;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.79
+71;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.62
+72;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.46
+73;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.38
+74;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.35
+75;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.27
+76;900;900;Air;0.05;Leather scraps ;Marble dust ;15;25.12
+77;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.98
+78;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.91
+79;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.88
+80;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.77
+81;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.61
+82;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.5
+83;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.48
+84;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.41
+85;900;900;Air;0.05;Leather scraps ;Marble dust ;15;24.25
+86;900;900;Air;0.05;Leather scraps ;Marble dust ;15;23.9
+87;900;900;Air;0.05;Leather scraps ;Marble dust ;15;23.46
+88;900;900;Air;0.05;Leather scraps ;Marble dust ;15;22.74
+89;900;900;Air;0.05;Leather scraps ;Marble dust ;15;21.83
+90;900;900;Air;0.05;Leather scraps ;Marble dust ;15;20.8
+91;900;900;Air;0.05;Leather scraps ;Marble dust ;15;19.81
+92;900;900;Air;0.05;Leather scraps ;Marble dust ;15;18.83
+1;6;900;Air;0.1;TWTS;Al-Ni;2.5;0
+2;9;900;Air;0.1;TWTS;Al-Ni;2.5;0
+3;12;900;Air;0.1;TWTS;Al-Ni;2.5;0
+4;15;900;Air;0.1;TWTS;Al-Ni;2.5;0
+5;18;900;Air;0.1;TWTS;Al-Ni;2.5;0
+6;28;900;Air;0.1;TWTS;Al-Ni;2.5;0
+7;47;900;Air;0.1;TWTS;Al-Ni;2.5;0
+8;77;900;Air;0.1;TWTS;Al-Ni;2.5;0
+9;118;900;Air;0.1;TWTS;Al-Ni;2.5;0
+10;167;900;Air;0.1;TWTS;Al-Ni;2.5;0
+11;226;900;Air;0.1;TWTS;Al-Ni;2.5;0
+12;290;900;Air;0.1;TWTS;Al-Ni;2.5;0
+13;355;900;Air;0.1;TWTS;Al-Ni;2.5;0
+14;413;900;Air;0.1;TWTS;Al-Ni;2.5;0
+15;466;900;Air;0.1;TWTS;Al-Ni;2.5;0
+16;510;900;Air;0.1;TWTS;Al-Ni;2.5;0
+17;549;900;Air;0.1;TWTS;Al-Ni;2.5;0
+18;581;900;Air;0.1;TWTS;Al-Ni;2.5;1.18
+19;610;900;Air;0.1;TWTS;Al-Ni;2.5;2.43
+20;636;900;Air;0.1;TWTS;Al-Ni;2.5;4.2
+21;659;900;Air;0.1;TWTS;Al-Ni;2.5;6.55
+22;682;900;Air;0.1;TWTS;Al-Ni;2.5;9.35
+23;702;900;Air;0.1;TWTS;Al-Ni;2.5;12.14
+24;720;900;Air;0.1;TWTS;Al-Ni;2.5;15.02
+25;737;900;Air;0.1;TWTS;Al-Ni;2.5;17.41
+26;754;900;Air;0.1;TWTS;Al-Ni;2.5;19.62
+27;768;900;Air;0.1;TWTS;Al-Ni;2.5;21.29
+28;784;900;Air;0.1;TWTS;Al-Ni;2.5;22.63
+29;797;900;Air;0.1;TWTS;Al-Ni;2.5;23.8
+30;810;900;Air;0.1;TWTS;Al-Ni;2.5;24.55
+31;823;900;Air;0.1;TWTS;Al-Ni;2.5;24.88
+32;835;900;Air;0.1;TWTS;Al-Ni;2.5;24.79
+33;847;900;Air;0.1;TWTS;Al-Ni;2.5;24.22
+34;859;900;Air;0.1;TWTS;Al-Ni;2.5;22.42
+35;869;900;Air;0.1;TWTS;Al-Ni;2.5;20.61
+36;879;900;Air;0.1;TWTS;Al-Ni;2.5;17.79
+37;889;900;Air;0.1;TWTS;Al-Ni;2.5;14.69
+38;900;900;Air;0.1;TWTS;Al-Ni;2.5;11.99
+39;900;900;Air;0.1;TWTS;Al-Ni;2.5;9.88
+40;900;900;Air;0.1;TWTS;Al-Ni;2.5;7.74
+41;900;900;Air;0.1;TWTS;Al-Ni;2.5;5.38
+42;900;900;Air;0.1;TWTS;Al-Ni;2.5;3.95
+43;900;900;Air;0.1;TWTS;Al-Ni;2.5;3.24
+44;900;900;Air;0.1;TWTS;Al-Ni;2.5;3.09
+45;900;900;Air;0.1;TWTS;Al-Ni;2.5;3.01
+46;900;900;Air;0.1;TWTS;Al-Ni;2.5;2.44
+47;900;900;Air;0.1;TWTS;Al-Ni;2.5;2.1
+48;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.99
+49;900;900;Air;0.1;TWTS;Al-Ni;2.5;2.19
+50;900;900;Air;0.1;TWTS;Al-Ni;2.5;2.17
+51;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.89
+52;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.79
+53;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.84
+54;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.97
+55;900;900;Air;0.1;TWTS;Al-Ni;2.5;2.02
+56;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.85
+57;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.71
+58;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.81
+59;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.89
+60;900;900;Air;0.1;TWTS;Al-Ni;2.5;1.97
+1;6;900;Air;0.1;TWTS;Al-Ni;5;0
+2;9;900;Air;0.1;TWTS;Al-Ni;5;0
+3;12;900;Air;0.1;TWTS;Al-Ni;5;0
+4;15;900;Air;0.1;TWTS;Al-Ni;5;0
+5;18;900;Air;0.1;TWTS;Al-Ni;5;0
+6;28;900;Air;0.1;TWTS;Al-Ni;5;0
+7;47;900;Air;0.1;TWTS;Al-Ni;5;1.51
+8;77;900;Air;0.1;TWTS;Al-Ni;5;1.47
+9;118;900;Air;0.1;TWTS;Al-Ni;5;1.46
+10;167;900;Air;0.1;TWTS;Al-Ni;5;1.45
+11;226;900;Air;0.1;TWTS;Al-Ni;5;1.44
+12;290;900;Air;0.1;TWTS;Al-Ni;5;1.42
+13;355;900;Air;0.1;TWTS;Al-Ni;5;1.41
+14;413;900;Air;0.1;TWTS;Al-Ni;5;1.39
+15;466;900;Air;0.1;TWTS;Al-Ni;5;1.37
+16;510;900;Air;0.1;TWTS;Al-Ni;5;1.33
+17;549;900;Air;0.1;TWTS;Al-Ni;5;1.25
+18;581;900;Air;0.1;TWTS;Al-Ni;5;1.09
+19;610;900;Air;0.1;TWTS;Al-Ni;5;1.09
+20;636;900;Air;0.1;TWTS;Al-Ni;5;1.09
+21;659;900;Air;0.1;TWTS;Al-Ni;5;1.09
+22;682;900;Air;0.1;TWTS;Al-Ni;5;1.09
+23;702;900;Air;0.1;TWTS;Al-Ni;5;2
+24;720;900;Air;0.1;TWTS;Al-Ni;5;2.6
+25;737;900;Air;0.1;TWTS;Al-Ni;5;5.54
+26;754;900;Air;0.1;TWTS;Al-Ni;5;8.9
+27;768;900;Air;0.1;TWTS;Al-Ni;5;12.39
+28;784;900;Air;0.1;TWTS;Al-Ni;5;15.92
+29;797;900;Air;0.1;TWTS;Al-Ni;5;19.12
+30;810;900;Air;0.1;TWTS;Al-Ni;5;21.76
+31;823;900;Air;0.1;TWTS;Al-Ni;5;23.92
+32;835;900;Air;0.1;TWTS;Al-Ni;5;25.44
+33;847;900;Air;0.1;TWTS;Al-Ni;5;26.66
+34;859;900;Air;0.1;TWTS;Al-Ni;5;27.75
+35;869;900;Air;0.1;TWTS;Al-Ni;5;28.65
+36;879;900;Air;0.1;TWTS;Al-Ni;5;29.29
+37;889;900;Air;0.1;TWTS;Al-Ni;5;28.83
+38;900;900;Air;0.1;TWTS;Al-Ni;5;26.81
+39;900;900;Air;0.1;TWTS;Al-Ni;5;24.29
+40;900;900;Air;0.1;TWTS;Al-Ni;5;21.22
+41;900;900;Air;0.1;TWTS;Al-Ni;5;18.27
+42;900;900;Air;0.1;TWTS;Al-Ni;5;16.07
+43;900;900;Air;0.1;TWTS;Al-Ni;5;13.72
+44;900;900;Air;0.1;TWTS;Al-Ni;5;11.04
+45;900;900;Air;0.1;TWTS;Al-Ni;5;9.08
+46;900;900;Air;0.1;TWTS;Al-Ni;5;8.23
+47;900;900;Air;0.1;TWTS;Al-Ni;5;7.91
+48;900;900;Air;0.1;TWTS;Al-Ni;5;7.28
+49;900;900;Air;0.1;TWTS;Al-Ni;5;6.18
+50;900;900;Air;0.1;TWTS;Al-Ni;5;5.47
+51;900;900;Air;0.1;TWTS;Al-Ni;5;5.29
+52;900;900;Air;0.1;TWTS;Al-Ni;5;5.26
+53;900;900;Air;0.1;TWTS;Al-Ni;5;4.74
+54;900;900;Air;0.1;TWTS;Al-Ni;5;4.16
+55;900;900;Air;0.1;TWTS;Al-Ni;5;3.95
+56;900;900;Air;0.1;TWTS;Al-Ni;5;4.02
+57;900;900;Air;0.1;TWTS;Al-Ni;5;3.86
+58;900;900;Air;0.1;TWTS;Al-Ni;5;3.38
+59;900;900;Air;0.1;TWTS;Al-Ni;5;3.08
+60;900;900;Air;0.1;TWTS;Al-Ni;5;3.05
+61;900;900;Air;0.1;TWTS;Al-Ni;5;3.14
+62;900;900;Air;0.1;TWTS;Al-Ni;5;2.85
+63;900;900;Air;0.1;TWTS;Al-Ni;5;2.51
+64;900;900;Air;0.1;TWTS;Al-Ni;5;2.39
+65;900;900;Air;0.1;TWTS;Al-Ni;5;2.46
+66;900;900;Air;0.1;TWTS;Al-Ni;5;2.42
+67;900;900;Air;0.1;TWTS;Al-Ni;5;2.12
+68;900;900;Air;0.1;TWTS;Al-Ni;5;1.95
+69;900;900;Air;0.1;TWTS;Al-Ni;5;1.9
+70;900;900;Air;0.1;TWTS;Al-Ni;5;1.54
+1;6;900;Air;0.1;TWTS;Al-Ni;7.5;0
+2;9;900;Air;0.1;TWTS;Al-Ni;7.5;0
+3;12;900;Air;0.1;TWTS;Al-Ni;7.5;0
+4;15;900;Air;0.1;TWTS;Al-Ni;7.5;0
+5;18;900;Air;0.1;TWTS;Al-Ni;7.5;0
+6;28;900;Air;0.1;TWTS;Al-Ni;7.5;0
+7;47;900;Air;0.1;TWTS;Al-Ni;7.5;0
+8;77;900;Air;0.1;TWTS;Al-Ni;7.5;0
+9;118;900;Air;0.1;TWTS;Al-Ni;7.5;0
+10;167;900;Air;0.1;TWTS;Al-Ni;7.5;0
+11;226;900;Air;0.1;TWTS;Al-Ni;7.5;0
+12;290;900;Air;0.1;TWTS;Al-Ni;7.5;0
+13;355;900;Air;0.1;TWTS;Al-Ni;7.5;0
+14;413;900;Air;0.1;TWTS;Al-Ni;7.5;0
+15;466;900;Air;0.1;TWTS;Al-Ni;7.5;0
+16;510;900;Air;0.1;TWTS;Al-Ni;7.5;0
+17;549;900;Air;0.1;TWTS;Al-Ni;7.5;0
+18;581;900;Air;0.1;TWTS;Al-Ni;7.5;0
+19;610;900;Air;0.1;TWTS;Al-Ni;7.5;0
+20;636;900;Air;0.1;TWTS;Al-Ni;7.5;1.36
+21;659;900;Air;0.1;TWTS;Al-Ni;7.5;2.96
+22;682;900;Air;0.1;TWTS;Al-Ni;7.5;5.38
+23;702;900;Air;0.1;TWTS;Al-Ni;7.5;8.26
+24;720;900;Air;0.1;TWTS;Al-Ni;7.5;11.16
+25;737;900;Air;0.1;TWTS;Al-Ni;7.5;14.28
+26;754;900;Air;0.1;TWTS;Al-Ni;7.5;17.06
+27;768;900;Air;0.1;TWTS;Al-Ni;7.5;19.65
+28;784;900;Air;0.1;TWTS;Al-Ni;7.5;21.76
+29;797;900;Air;0.1;TWTS;Al-Ni;7.5;23.52
+30;810;900;Air;0.1;TWTS;Al-Ni;7.5;24.89
+31;823;900;Air;0.1;TWTS;Al-Ni;7.5;26.2
+32;835;900;Air;0.1;TWTS;Al-Ni;7.5;27.21
+33;847;900;Air;0.1;TWTS;Al-Ni;7.5;27.89
+34;859;900;Air;0.1;TWTS;Al-Ni;7.5;27.43
+35;869;900;Air;0.1;TWTS;Al-Ni;7.5;26.31
+36;879;900;Air;0.1;TWTS;Al-Ni;7.5;24.37
+37;889;900;Air;0.1;TWTS;Al-Ni;7.5;21.86
+38;900;900;Air;0.1;TWTS;Al-Ni;7.5;18.83
+39;900;900;Air;0.1;TWTS;Al-Ni;7.5;15.67
+40;900;900;Air;0.1;TWTS;Al-Ni;7.5;13.44
+41;900;900;Air;0.1;TWTS;Al-Ni;7.5;10.38
+42;900;900;Air;0.1;TWTS;Al-Ni;7.5;7.77
+43;900;900;Air;0.1;TWTS;Al-Ni;7.5;6.44
+44;900;900;Air;0.1;TWTS;Al-Ni;7.5;5.91
+45;900;900;Air;0.1;TWTS;Al-Ni;7.5;5.21
+46;900;900;Air;0.1;TWTS;Al-Ni;7.5;4.02
+47;900;900;Air;0.1;TWTS;Al-Ni;7.5;3.39
+48;900;900;Air;0.1;TWTS;Al-Ni;7.5;3.39
+49;900;900;Air;0.1;TWTS;Al-Ni;7.5;3.16
+50;900;900;Air;0.1;TWTS;Al-Ni;7.5;2.57
+51;900;900;Air;0.1;TWTS;Al-Ni;7.5;2.2
+52;900;900;Air;0.1;TWTS;Al-Ni;7.5;2.1
+53;900;900;Air;0.1;TWTS;Al-Ni;7.5;2.05
+54;900;900;Air;0.1;TWTS;Al-Ni;7.5;1.69
+55;900;900;Air;0.1;TWTS;Al-Ni;7.5;1.4
+56;900;900;Air;0.1;TWTS;Al-Ni;7.5;1.34
+57;900;900;Air;0.1;TWTS;Al-Ni;7.5;1.39
+58;900;900;Air;0.1;TWTS;Al-Ni;7.5;1.11
+59;900;900;Air;0.1;TWTS;Al-Ni;7.5;0.93
+60;900;900;Air;0.1;TWTS;Al-Ni;7.5;0.9
+1;6;900;Air;0.1;TWTS;Al-Ni;10;0
+2;9;900;Air;0.1;TWTS;Al-Ni;10;0
+3;12;900;Air;0.1;TWTS;Al-Ni;10;0
+4;15;900;Air;0.1;TWTS;Al-Ni;10;0
+5;18;900;Air;0.1;TWTS;Al-Ni;10;0
+6;28;900;Air;0.1;TWTS;Al-Ni;10;0
+7;47;900;Air;0.1;TWTS;Al-Ni;10;0
+8;77;900;Air;0.1;TWTS;Al-Ni;10;0
+9;118;900;Air;0.1;TWTS;Al-Ni;10;0
+10;167;900;Air;0.1;TWTS;Al-Ni;10;0
+11;226;900;Air;0.1;TWTS;Al-Ni;10;0
+12;290;900;Air;0.1;TWTS;Al-Ni;10;0
+13;355;900;Air;0.1;TWTS;Al-Ni;10;0
+14;413;900;Air;0.1;TWTS;Al-Ni;10;0
+15;466;900;Air;0.1;TWTS;Al-Ni;10;0
+16;510;900;Air;0.1;TWTS;Al-Ni;10;0
+17;549;900;Air;0.1;TWTS;Al-Ni;10;0
+18;581;900;Air;0.1;TWTS;Al-Ni;10;0
+19;610;900;Air;0.1;TWTS;Al-Ni;10;0
+20;636;900;Air;0.1;TWTS;Al-Ni;10;0.64
+21;659;900;Air;0.1;TWTS;Al-Ni;10;1.75
+22;682;900;Air;0.1;TWTS;Al-Ni;10;3.64
+23;702;900;Air;0.1;TWTS;Al-Ni;10;6.02
+24;720;900;Air;0.1;TWTS;Al-Ni;10;8.93
+25;737;900;Air;0.1;TWTS;Al-Ni;10;11.78
+26;754;900;Air;0.1;TWTS;Al-Ni;10;14.72
+27;768;900;Air;0.1;TWTS;Al-Ni;10;17.28
+28;784;900;Air;0.1;TWTS;Al-Ni;10;19.62
+29;797;900;Air;0.1;TWTS;Al-Ni;10;21.49
+30;810;900;Air;0.1;TWTS;Al-Ni;10;23.14
+31;823;900;Air;0.1;TWTS;Al-Ni;10;24.28
+32;835;900;Air;0.1;TWTS;Al-Ni;10;25.09
+33;847;900;Air;0.1;TWTS;Al-Ni;10;25.54
+34;859;900;Air;0.1;TWTS;Al-Ni;10;25.63
+35;869;900;Air;0.1;TWTS;Al-Ni;10;25.28
+36;879;900;Air;0.1;TWTS;Al-Ni;10;24.29
+37;889;900;Air;0.1;TWTS;Al-Ni;10;22.49
+38;900;900;Air;0.1;TWTS;Al-Ni;10;20.04
+39;900;900;Air;0.1;TWTS;Al-Ni;10;17.2
+40;900;900;Air;0.1;TWTS;Al-Ni;10;15.09
+41;900;900;Air;0.1;TWTS;Al-Ni;10;13.63
+42;900;900;Air;0.1;TWTS;Al-Ni;10;12.3
+43;900;900;Air;0.1;TWTS;Al-Ni;10;10.47
+44;900;900;Air;0.1;TWTS;Al-Ni;10;8.59
+45;900;900;Air;0.1;TWTS;Al-Ni;10;7.41
+46;900;900;Air;0.1;TWTS;Al-Ni;10;6.96
+47;900;900;Air;0.1;TWTS;Al-Ni;10;6.9
+48;900;900;Air;0.1;TWTS;Al-Ni;10;6.9
+49;900;900;Air;0.1;TWTS;Al-Ni;10;6.44
+50;900;900;Air;0.1;TWTS;Al-Ni;10;5.86
+51;900;900;Air;0.1;TWTS;Al-Ni;10;5.53
+52;900;900;Air;0.1;TWTS;Al-Ni;10;5.45
+53;900;900;Air;0.1;TWTS;Al-Ni;10;5.59
+54;900;900;Air;0.1;TWTS;Al-Ni;10;5.76
+55;900;900;Air;0.1;TWTS;Al-Ni;10;5.69
+56;900;900;Air;0.1;TWTS;Al-Ni;10;5.49
+57;900;900;Air;0.1;TWTS;Al-Ni;10;5.37
+58;900;900;Air;0.1;TWTS;Al-Ni;10;5.43
+59;900;900;Air;0.1;TWTS;Al-Ni;10;5.67
+60;900;900;Air;0.1;TWTS;Al-Ni;10;5.97
+60;900;900;Air;0.1;TWTS;Al-Ni;10;6.11
+60;900;900;Air;0.1;TWTS;Al-Ni;10;6.08
+60;900;900;Air;0.1;TWTS;Al-Ni;10;6.07
+1;6;1000;Air;0.1;TWTS;Al-Ni;5;0
+2;9;1000;Air;0.1;TWTS;Al-Ni;5;0
+3;12;1000;Air;0.1;TWTS;Al-Ni;5;0
+4;15;1000;Air;0.1;TWTS;Al-Ni;5;0
+5;18;1000;Air;0.1;TWTS;Al-Ni;5;0
+6;28;1000;Air;0.1;TWTS;Al-Ni;5;0
+7;47;1000;Air;0.1;TWTS;Al-Ni;5;0
+8;77;1000;Air;0.1;TWTS;Al-Ni;5;0
+9;118;1000;Air;0.1;TWTS;Al-Ni;5;0
+10;167;1000;Air;0.1;TWTS;Al-Ni;5;0
+11;226;1000;Air;0.1;TWTS;Al-Ni;5;0
+12;290;1000;Air;0.1;TWTS;Al-Ni;5;0
+13;355;1000;Air;0.1;TWTS;Al-Ni;5;0
+14;413;1000;Air;0.1;TWTS;Al-Ni;5;0
+15;466;1000;Air;0.1;TWTS;Al-Ni;5;0
+16;510;1000;Air;0.1;TWTS;Al-Ni;5;0
+17;549;1000;Air;0.1;TWTS;Al-Ni;5;0
+18;581;1000;Air;0.1;TWTS;Al-Ni;5;0
+19;610;1000;Air;0.1;TWTS;Al-Ni;5;1.16
+20;636;1000;Air;0.1;TWTS;Al-Ni;5;2.48
+21;659;1000;Air;0.1;TWTS;Al-Ni;5;4.64
+22;682;1000;Air;0.1;TWTS;Al-Ni;5;7.45
+23;702;1000;Air;0.1;TWTS;Al-Ni;5;10.94
+24;720;1000;Air;0.1;TWTS;Al-Ni;5;14.36
+25;737;1000;Air;0.1;TWTS;Al-Ni;5;17.25
+26;754;1000;Air;0.1;TWTS;Al-Ni;5;19.68
+27;768;1000;Air;0.1;TWTS;Al-Ni;5;21.68
+28;784;1000;Air;0.1;TWTS;Al-Ni;5;23.44
+29;797;1000;Air;0.1;TWTS;Al-Ni;5;24.99
+30;810;1000;Air;0.1;TWTS;Al-Ni;5;26.37
+31;823;1000;Air;0.1;TWTS;Al-Ni;5;27.74
+32;835;1000;Air;0.1;TWTS;Al-Ni;5;28.92
+33;847;1000;Air;0.1;TWTS;Al-Ni;5;30.08
+34;859;1000;Air;0.1;TWTS;Al-Ni;5;31
+35;869;1000;Air;0.1;TWTS;Al-Ni;5;31.27
+36;879;1000;Air;0.1;TWTS;Al-Ni;5;31.85
+37;889;1000;Air;0.1;TWTS;Al-Ni;5;31.55
+38;900;1000;Air;0.1;TWTS;Al-Ni;5;30.42
+39;915;1000;Air;0.1;TWTS;Al-Ni;5;27.82
+40;930;1000;Air;0.1;TWTS;Al-Ni;5;24.16
+41;945;1000;Air;0.1;TWTS;Al-Ni;5;21.02
+42;960;1000;Air;0.1;TWTS;Al-Ni;5;18.49
+43;975;1000;Air;0.1;TWTS;Al-Ni;5;16.49
+44;985;1000;Air;0.1;TWTS;Al-Ni;5;15.06
+45;995;1000;Air;0.1;TWTS;Al-Ni;5;13.72
+46;1000;1000;Air;0.1;TWTS;Al-Ni;5;12.43
+47;1000;1000;Air;0.1;TWTS;Al-Ni;5;11.71
+48;1000;1000;Air;0.1;TWTS;Al-Ni;5;10.93
+49;1000;1000;Air;0.1;TWTS;Al-Ni;5;10.38
+50;1000;1000;Air;0.1;TWTS;Al-Ni;5;9.84
+51;1000;1000;Air;0.1;TWTS;Al-Ni;5;9.38
+52;1000;1000;Air;0.1;TWTS;Al-Ni;5;8.98
+53;1000;1000;Air;0.1;TWTS;Al-Ni;5;8.86
+54;1000;1000;Air;0.1;TWTS;Al-Ni;5;8.56
+55;1000;1000;Air;0.1;TWTS;Al-Ni;5;8.36
+56;1000;1000;Air;0.1;TWTS;Al-Ni;5;8.01
+57;1000;1000;Air;0.1;TWTS;Al-Ni;5;7.36
+58;1000;1000;Air;0.1;TWTS;Al-Ni;5;6.78
+59;1000;1000;Air;0.1;TWTS;Al-Ni;5;6.36
+60;1000;1000;Air;0.1;TWTS;Al-Ni;5;6.27
+61;1000;1000;Air;0.1;TWTS;Al-Ni;5;6.08
+1;6;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+2;9;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+3;12;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+4;15;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+5;18;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+6;28;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+7;47;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+8;77;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+9;118;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+10;167;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+11;226;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+12;290;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+13;355;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+14;413;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+15;466;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+16;510;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+17;549;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+18;581;1000;Air;0.1;TWTS;Al-Ni;7.5;0
+19;610;1000;Air;0.1;TWTS;Al-Ni;7.5;1.7
+20;636;1000;Air;0.1;TWTS;Al-Ni;7.5;4
+21;659;1000;Air;0.1;TWTS;Al-Ni;7.5;7.14
+22;682;1000;Air;0.1;TWTS;Al-Ni;7.5;10.53
+23;702;1000;Air;0.1;TWTS;Al-Ni;7.5;14.18
+24;720;1000;Air;0.1;TWTS;Al-Ni;7.5;17.42
+25;737;1000;Air;0.1;TWTS;Al-Ni;7.5;20.2
+26;754;1000;Air;0.1;TWTS;Al-Ni;7.5;22.35
+27;768;1000;Air;0.1;TWTS;Al-Ni;7.5;23.98
+28;784;1000;Air;0.1;TWTS;Al-Ni;7.5;25.08
+29;797;1000;Air;0.1;TWTS;Al-Ni;7.5;25.93
+30;810;1000;Air;0.1;TWTS;Al-Ni;7.5;26.84
+31;823;1000;Air;0.1;TWTS;Al-Ni;7.5;27.51
+32;835;1000;Air;0.1;TWTS;Al-Ni;7.5;28.18
+33;847;1000;Air;0.1;TWTS;Al-Ni;7.5;28.8
+34;859;1000;Air;0.1;TWTS;Al-Ni;7.5;29.29
+35;869;1000;Air;0.1;TWTS;Al-Ni;7.5;29.91
+36;879;1000;Air;0.1;TWTS;Al-Ni;7.5;30.53
+37;889;1000;Air;0.1;TWTS;Al-Ni;7.5;30.68
+38;900;1000;Air;0.1;TWTS;Al-Ni;7.5;30.42
+39;915;1000;Air;0.1;TWTS;Al-Ni;7.5;30.07
+40;930;1000;Air;0.1;TWTS;Al-Ni;7.5;29.68
+41;945;1000;Air;0.1;TWTS;Al-Ni;7.5;29.4
+42;960;1000;Air;0.1;TWTS;Al-Ni;7.5;29.21
+43;975;1000;Air;0.1;TWTS;Al-Ni;7.5;29.13
+44;985;1000;Air;0.1;TWTS;Al-Ni;7.5;29.18
+45;995;1000;Air;0.1;TWTS;Al-Ni;7.5;29.36
+46;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;29.57
+47;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;29.81
+48;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;30.04
+49;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;30.4
+50;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;30.76
+51;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.05
+52;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.33
+53;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.63
+54;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.02
+55;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.42
+56;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.78
+57;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;33.18
+58;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;33.74
+59;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.15
+60;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.55
+61;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.88
+62;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.14
+63;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.36
+64;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.54
+65;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.66
+66;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.67
+67;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.68
+68;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.58
+69;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.48
+70;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.33
+71;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;35.15
+72;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.93
+73;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.73
+74;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.49
+75;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34.25
+76;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;34
+77;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;33.76
+78;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;33.5
+79;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;33.24
+80;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.98
+81;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.67
+82;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;32.32
+83;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.94
+84;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.51
+85;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;31.06
+86;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;30.51
+87;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;29.82
+88;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;28.8
+89;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;27.7
+90;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;26.44
+91;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;25.13
+92;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;23.7
+93;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;22.42
+94;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;21.26
+95;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;20.22
+96;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;19.21
+97;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;18.19
+98;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;17.36
+99;1000;1000;Air;0.1;TWTS;Al-Ni;7.5;16.48
+1;6;1000;Air;0.1;TWTS;Al-Ni;10;0
+2;9;1000;Air;0.1;TWTS;Al-Ni;10;0
+3;12;1000;Air;0.1;TWTS;Al-Ni;10;0
+4;15;1000;Air;0.1;TWTS;Al-Ni;10;0
+5;18;1000;Air;0.1;TWTS;Al-Ni;10;0
+6;28;1000;Air;0.1;TWTS;Al-Ni;10;0
+7;47;1000;Air;0.1;TWTS;Al-Ni;10;0
+8;77;1000;Air;0.1;TWTS;Al-Ni;10;0
+9;118;1000;Air;0.1;TWTS;Al-Ni;10;0
+10;167;1000;Air;0.1;TWTS;Al-Ni;10;0
+11;226;1000;Air;0.1;TWTS;Al-Ni;10;0
+12;290;1000;Air;0.1;TWTS;Al-Ni;10;0
+13;355;1000;Air;0.1;TWTS;Al-Ni;10;0
+14;413;1000;Air;0.1;TWTS;Al-Ni;10;0
+15;466;1000;Air;0.1;TWTS;Al-Ni;10;0
+16;510;1000;Air;0.1;TWTS;Al-Ni;10;0
+17;549;1000;Air;0.1;TWTS;Al-Ni;10;0
+18;581;1000;Air;0.1;TWTS;Al-Ni;10;0
+19;610;1000;Air;0.1;TWTS;Al-Ni;10;0.65
+20;636;1000;Air;0.1;TWTS;Al-Ni;10;1.97
+21;659;1000;Air;0.1;TWTS;Al-Ni;10;3.89
+22;682;1000;Air;0.1;TWTS;Al-Ni;10;6.48
+23;702;1000;Air;0.1;TWTS;Al-Ni;10;9.51
+24;720;1000;Air;0.1;TWTS;Al-Ni;10;13.52
+25;737;1000;Air;0.1;TWTS;Al-Ni;10;16.97
+26;754;1000;Air;0.1;TWTS;Al-Ni;10;19.66
+27;768;1000;Air;0.1;TWTS;Al-Ni;10;21.95
+28;784;1000;Air;0.1;TWTS;Al-Ni;10;23.86
+29;797;1000;Air;0.1;TWTS;Al-Ni;10;25.56
+30;810;1000;Air;0.1;TWTS;Al-Ni;10;27.11
+31;823;1000;Air;0.1;TWTS;Al-Ni;10;28.59
+32;835;1000;Air;0.1;TWTS;Al-Ni;10;30.13
+33;847;1000;Air;0.1;TWTS;Al-Ni;10;31.37
+34;859;1000;Air;0.1;TWTS;Al-Ni;10;32.54
+35;869;1000;Air;0.1;TWTS;Al-Ni;10;33.52
+36;879;1000;Air;0.1;TWTS;Al-Ni;10;34.29
+37;889;1000;Air;0.1;TWTS;Al-Ni;10;34.73
+38;900;1000;Air;0.1;TWTS;Al-Ni;10;34.74
+39;915;1000;Air;0.1;TWTS;Al-Ni;10;34.16
+40;930;1000;Air;0.1;TWTS;Al-Ni;10;33.31
+41;945;1000;Air;0.1;TWTS;Al-Ni;10;32.47
+42;960;1000;Air;0.1;TWTS;Al-Ni;10;31.74
+43;975;1000;Air;0.1;TWTS;Al-Ni;10;31.16
+44;985;1000;Air;0.1;TWTS;Al-Ni;10;30.7
+45;995;1000;Air;0.1;TWTS;Al-Ni;10;30.45
+46;1000;1000;Air;0.1;TWTS;Al-Ni;10;30.3
+47;1000;1000;Air;0.1;TWTS;Al-Ni;10;30.21
+48;1000;1000;Air;0.1;TWTS;Al-Ni;10;30.15
+49;1000;1000;Air;0.1;TWTS;Al-Ni;10;30.12
+50;1000;1000;Air;0.1;TWTS;Al-Ni;10;30.07
+51;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.95
+52;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.84
+53;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.7
+54;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.6
+55;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.48
+56;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.33
+57;1000;1000;Air;0.1;TWTS;Al-Ni;10;29.19
+58;1000;1000;Air;0.1;TWTS;Al-Ni;10;28.94
+59;1000;1000;Air;0.1;TWTS;Al-Ni;10;28.49
+60;1000;1000;Air;0.1;TWTS;Al-Ni;10;27.93
+61;1000;1000;Air;0.1;TWTS;Al-Ni;10;27.19
+62;1000;1000;Air;0.1;TWTS;Al-Ni;10;26.57
+63;1000;1000;Air;0.1;TWTS;Al-Ni;10;25.87
+64;1000;1000;Air;0.1;TWTS;Al-Ni;10;25.34
+65;1000;1000;Air;0.1;TWTS;Al-Ni;10;24.88
+66;1000;1000;Air;0.1;TWTS;Al-Ni;10;24.44
+67;1000;1000;Air;0.1;TWTS;Al-Ni;10;23.82
+68;1000;1000;Air;0.1;TWTS;Al-Ni;10;23.21
+69;1000;1000;Air;0.1;TWTS;Al-Ni;10;22.55
+70;1000;1000;Air;0.1;TWTS;Al-Ni;10;21.94
+71;1000;1000;Air;0.1;TWTS;Al-Ni;10;21.42
+72;1000;1000;Air;0.1;TWTS;Al-Ni;10;20.9
+73;1000;1000;Air;0.1;TWTS;Al-Ni;10;20.39
+74;1000;1000;Air;0.1;TWTS;Al-Ni;10;19.88
+75;1000;1000;Air;0.1;TWTS;Al-Ni;10;19.31
+76;1000;1000;Air;0.1;TWTS;Al-Ni;10;18.68
+77;1000;1000;Air;0.1;TWTS;Al-Ni;10;18.1
+78;1000;1000;Air;0.1;TWTS;Al-Ni;10;17.55
+79;1000;1000;Air;0.1;TWTS;Al-Ni;10;17.03
+80;1000;1000;Air;0.1;TWTS;Al-Ni;10;16.52
+81;1000;1000;Air;0.1;TWTS;Al-Ni;10;16
+82;1000;1000;Air;0.1;TWTS;Al-Ni;10;15.24
+83;1000;1000;Air;0.1;TWTS;Al-Ni;10;14.59
+84;1000;1000;Air;0.1;TWTS;Al-Ni;10;13.71
+85;1000;1000;Air;0.1;TWTS;Al-Ni;10;13.01
+86;1000;1000;Air;0.1;TWTS;Al-Ni;10;12.36
+87;1000;1000;Air;0.1;TWTS;Al-Ni;10;11.78
+88;1000;1000;Air;0.1;TWTS;Al-Ni;10;11.25
+89;1000;1000;Air;0.1;TWTS;Al-Ni;10;10.81
+90;1000;1000;Air;0.1;TWTS;Al-Ni;10;10.33
+91;1000;1000;Air;0.1;TWTS;Al-Ni;10;8.72
+92;1000;1000;Air;0.1;TWTS;Al-Ni;10;7.69
+93;1000;1000;Air;0.1;TWTS;Al-Ni;10;7
+94;1000;1000;Air;0.1;TWTS;Al-Ni;10;6.34
+95;1000;1000;Air;0.1;TWTS;Al-Ni;10;5.69
+96;1000;1000;Air;0.1;TWTS;Al-Ni;10;4.96
+97;1000;1000;Air;0.1;TWTS;Al-Ni;10;4.28
+1;21;800;Air;0.1;Leather scraps ;Al-Ni;5;0
+2;28;800;Air;0.1;Leather scraps ;Al-Ni;5;7.52
+3;47;800;Air;0.1;Leather scraps ;Al-Ni;5;2.8
+4;77;800;Air;0.1;Leather scraps ;Al-Ni;5;1.79
+5;118;800;Air;0.1;Leather scraps ;Al-Ni;5;1.4
+6;167;800;Air;0.1;Leather scraps ;Al-Ni;5;1.22
+7;226;800;Air;0.1;Leather scraps ;Al-Ni;5;1.14
+8;290;800;Air;0.1;Leather scraps ;Al-Ni;5;1.09
+9;355;800;Air;0.1;Leather scraps ;Al-Ni;5;1.05
+10;413;800;Air;0.1;Leather scraps ;Al-Ni;5;0.96
+11;466;800;Air;0.1;Leather scraps ;Al-Ni;5;0.68
+12;510;800;Air;0.1;Leather scraps ;Al-Ni;5;0.12
+13;549;800;Air;0.1;Leather scraps ;Al-Ni;5;0
+14;581;800;Air;0.1;Leather scraps ;Al-Ni;5;0
+15;610;800;Air;0.1;Leather scraps ;Al-Ni;5;0
+16;636;800;Air;0.1;Leather scraps ;Al-Ni;5;-0.1
+17;659;800;Air;0.1;Leather scraps ;Al-Ni;5;3.26
+18;682;800;Air;0.1;Leather scraps ;Al-Ni;5;7.62
+19;702;800;Air;0.1;Leather scraps ;Al-Ni;5;11.25
+20;720;800;Air;0.1;Leather scraps ;Al-Ni;5;16.64
+21;737;800;Air;0.1;Leather scraps ;Al-Ni;5;19.55
+22;754;800;Air;0.1;Leather scraps ;Al-Ni;5;20.86
+23;768;800;Air;0.1;Leather scraps ;Al-Ni;5;22.93
+24;784;800;Air;0.1;Leather scraps ;Al-Ni;5;25.7
+25;797;800;Air;0.1;Leather scraps ;Al-Ni;5;27.32
+26;800;800;Air;0.1;Leather scraps ;Al-Ni;5;27.83
+27;800;800;Air;0.1;Leather scraps ;Al-Ni;5;28.06
+28;800;800;Air;0.1;Leather scraps ;Al-Ni;5;28.68
+29;800;800;Air;0.1;Leather scraps ;Al-Ni;5;29.62
+30;800;800;Air;0.1;Leather scraps ;Al-Ni;5;30.77
+31;800;800;Air;0.1;Leather scraps ;Al-Ni;5;31.76
+32;800;800;Air;0.1;Leather scraps ;Al-Ni;5;32.54
+33;800;800;Air;0.1;Leather scraps ;Al-Ni;5;32.71
+34;800;800;Air;0.1;Leather scraps ;Al-Ni;5;31.82
+35;800;800;Air;0.1;Leather scraps ;Al-Ni;5;30.3
+36;800;800;Air;0.1;Leather scraps ;Al-Ni;5;28.98
+37;800;800;Air;0.1;Leather scraps ;Al-Ni;5;28.6
+38;800;800;Air;0.1;Leather scraps ;Al-Ni;5;28.55
+39;800;800;Air;0.1;Leather scraps ;Al-Ni;5;27.93
+40;800;800;Air;0.1;Leather scraps ;Al-Ni;5;26.51
+41;800;800;Air;0.1;Leather scraps ;Al-Ni;5;24.87
+42;800;800;Air;0.1;Leather scraps ;Al-Ni;5;23.4
+43;800;800;Air;0.1;Leather scraps ;Al-Ni;5;22.4
+44;800;800;Air;0.1;Leather scraps ;Al-Ni;5;21.63
+45;800;800;Air;0.1;Leather scraps ;Al-Ni;5;20.89
+46;800;800;Air;0.1;Leather scraps ;Al-Ni;5;19.84
+47;800;800;Air;0.1;Leather scraps ;Al-Ni;5;19.06
+48;800;800;Air;0.1;Leather scraps ;Al-Ni;5;18.75
+49;800;800;Air;0.1;Leather scraps ;Al-Ni;5;18.65
+50;800;800;Air;0.1;Leather scraps ;Al-Ni;5;18.18
+51;800;800;Air;0.1;Leather scraps ;Al-Ni;5;17.28
+52;800;800;Air;0.1;Leather scraps ;Al-Ni;5;16.39
+53;800;800;Air;0.1;Leather scraps ;Al-Ni;5;16.04
+54;800;800;Air;0.1;Leather scraps ;Al-Ni;5;16.03
+55;800;800;Air;0.1;Leather scraps ;Al-Ni;5;15.76
+56;800;800;Air;0.1;Leather scraps ;Al-Ni;5;15.05
+57;800;800;Air;0.1;Leather scraps ;Al-Ni;5;14.26
+58;800;800;Air;0.1;Leather scraps ;Al-Ni;5;13.86
+59;800;800;Air;0.1;Leather scraps ;Al-Ni;5;13.79
+60;800;800;Air;0.1;Leather scraps ;Al-Ni;5;13.61
+61;800;800;Air;0.1;Leather scraps ;Al-Ni;5;13
+62;800;800;Air;0.1;Leather scraps ;Al-Ni;5;12.28
+63;800;800;Air;0.1;Leather scraps ;Al-Ni;5;11.88
+64;800;800;Air;0.1;Leather scraps ;Al-Ni;5;11.84
+65;800;800;Air;0.1;Leather scraps ;Al-Ni;5;11.78
+66;800;800;Air;0.1;Leather scraps ;Al-Ni;5;11.37
+67;800;800;Air;0.1;Leather scraps ;Al-Ni;5;10.76
+68;800;800;Air;0.1;Leather scraps ;Al-Ni;5;10.45
+69;800;800;Air;0.1;Leather scraps ;Al-Ni;5;10.46
+70;800;800;Air;0.1;Leather scraps ;Al-Ni;5;10.47
+71;800;800;Air;0.1;Leather scraps ;Al-Ni;5;10.15
+72;800;800;Air;0.1;Leather scraps ;Al-Ni;5;9.67
+73;800;800;Air;0.1;Leather scraps ;Al-Ni;5;9.41
+74;800;800;Air;0.1;Leather scraps ;Al-Ni;5;9.43
+75;800;800;Air;0.1;Leather scraps ;Al-Ni;5;9.45
+76;800;800;Air;0.1;Leather scraps ;Al-Ni;5;9.21
+77;800;800;Air;0.1;Leather scraps ;Al-Ni;5;8.78
+78;800;800;Air;0.1;Leather scraps ;Al-Ni;5;8.52
+79;800;800;Air;0.1;Leather scraps ;Al-Ni;5;8.52
+80;800;800;Air;0.1;Leather scraps ;Al-Ni;5;8.55
+81;800;800;Air;0.1;Leather scraps ;Al-Ni;5;8.36
+1;21;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+2;28;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+3;47;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+4;77;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+5;118;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+6;167;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+7;226;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+8;290;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+9;355;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+10;413;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+11;466;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+12;510;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+13;549;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+14;581;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+15;610;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+16;636;800;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+17;659;800;Air;0.1;Leather scraps ;Al-Ni;7.5;3.97
+18;682;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.67
+19;702;800;Air;0.1;Leather scraps ;Al-Ni;7.5;17.72
+20;720;800;Air;0.1;Leather scraps ;Al-Ni;7.5;23.38
+21;737;800;Air;0.1;Leather scraps ;Al-Ni;7.5;26.74
+22;754;800;Air;0.1;Leather scraps ;Al-Ni;7.5;26.98
+23;768;800;Air;0.1;Leather scraps ;Al-Ni;7.5;24.2
+24;784;800;Air;0.1;Leather scraps ;Al-Ni;7.5;22.69
+25;797;800;Air;0.1;Leather scraps ;Al-Ni;7.5;24.48
+26;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;23.21
+27;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;28.48
+28;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;30.46
+29;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;32.72
+30;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;33.85
+31;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;34.43
+32;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;34.2
+33;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;33
+34;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;30.89
+35;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;28.9
+36;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;27.44
+37;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;26.6
+38;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;25.88
+39;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;24.67
+40;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;23.02
+41;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;21.74
+42;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;21.1
+43;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;20.8
+44;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;20.08
+45;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;18.96
+46;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;17.96
+47;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;17.54
+48;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;17.43
+49;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;17.08
+50;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;16.24
+51;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;15.48
+52;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;15.14
+53;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;15.12
+54;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;14.96
+55;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;14.38
+56;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;13.69
+57;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;13.39
+58;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;13.4
+59;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;13.33
+60;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;12.89
+61;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;12.3
+62;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;12.01
+63;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;12.01
+64;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;12.01
+65;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;11.69
+66;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;11.19
+67;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.9
+68;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.9
+69;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.95
+70;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.72
+71;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.27
+72;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.98
+73;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.96
+74;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;10.03
+75;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.92
+76;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.6
+77;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.29
+78;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.16
+79;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.24
+80;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.35
+81;800;800;Air;0.1;Leather scraps ;Al-Ni;7.5;9.3
+1;21;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+2;28;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+3;47;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+4;77;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+5;118;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+6;167;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+7;226;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+8;290;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+9;355;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+10;413;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+11;466;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+12;510;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+13;549;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+14;581;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+15;610;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+16;636;800;Air;0.1;Leather scraps ;Al-Ni;10;0
+17;659;800;Air;0.1;Leather scraps ;Al-Ni;10;3.44
+18;682;800;Air;0.1;Leather scraps ;Al-Ni;10;8.96
+19;702;800;Air;0.1;Leather scraps ;Al-Ni;10;15.25
+20;720;800;Air;0.1;Leather scraps ;Al-Ni;10;20.64
+21;737;800;Air;0.1;Leather scraps ;Al-Ni;10;22.7
+22;754;800;Air;0.1;Leather scraps ;Al-Ni;10;24.2
+23;768;800;Air;0.1;Leather scraps ;Al-Ni;10;25.03
+24;784;800;Air;0.1;Leather scraps ;Al-Ni;10;25.62
+25;797;800;Air;0.1;Leather scraps ;Al-Ni;10;26
+26;800;800;Air;0.1;Leather scraps ;Al-Ni;10;26.45
+27;800;800;Air;0.1;Leather scraps ;Al-Ni;10;27.07
+28;800;800;Air;0.1;Leather scraps ;Al-Ni;10;27.78
+29;800;800;Air;0.1;Leather scraps ;Al-Ni;10;29.21
+30;800;800;Air;0.1;Leather scraps ;Al-Ni;10;30.03
+31;800;800;Air;0.1;Leather scraps ;Al-Ni;10;31.26
+32;800;800;Air;0.1;Leather scraps ;Al-Ni;10;32.03
+33;800;800;Air;0.1;Leather scraps ;Al-Ni;10;32.7
+34;800;800;Air;0.1;Leather scraps ;Al-Ni;10;32.36
+35;800;800;Air;0.1;Leather scraps ;Al-Ni;10;31.03
+36;800;800;Air;0.1;Leather scraps ;Al-Ni;10;29.72
+37;800;800;Air;0.1;Leather scraps ;Al-Ni;10;28.33
+38;800;800;Air;0.1;Leather scraps ;Al-Ni;10;27.11
+39;800;800;Air;0.1;Leather scraps ;Al-Ni;10;25.7
+40;800;800;Air;0.1;Leather scraps ;Al-Ni;10;24.05
+41;800;800;Air;0.1;Leather scraps ;Al-Ni;10;22.49
+42;800;800;Air;0.1;Leather scraps ;Al-Ni;10;21.42
+43;800;800;Air;0.1;Leather scraps ;Al-Ni;10;20.65
+44;800;800;Air;0.1;Leather scraps ;Al-Ni;10;19.83
+45;800;800;Air;0.1;Leather scraps ;Al-Ni;10;18.76
+46;800;800;Air;0.1;Leather scraps ;Al-Ni;10;17.67
+47;800;800;Air;0.1;Leather scraps ;Al-Ni;10;16.83
+48;800;800;Air;0.1;Leather scraps ;Al-Ni;10;16.21
+49;800;800;Air;0.1;Leather scraps ;Al-Ni;10;15.53
+50;800;800;Air;0.1;Leather scraps ;Al-Ni;10;14.64
+51;800;800;Air;0.1;Leather scraps ;Al-Ni;10;13.97
+52;800;800;Air;0.1;Leather scraps ;Al-Ni;10;13.68
+53;800;800;Air;0.1;Leather scraps ;Al-Ni;10;13.41
+54;800;800;Air;0.1;Leather scraps ;Al-Ni;10;12.98
+55;800;800;Air;0.1;Leather scraps ;Al-Ni;10;12.29
+56;800;800;Air;0.1;Leather scraps ;Al-Ni;10;11.8
+57;800;800;Air;0.1;Leather scraps ;Al-Ni;10;11.51
+58;800;800;Air;0.1;Leather scraps ;Al-Ni;10;11.14
+59;800;800;Air;0.1;Leather scraps ;Al-Ni;10;10.59
+60;800;800;Air;0.1;Leather scraps ;Al-Ni;10;10
+61;800;800;Air;0.1;Leather scraps ;Al-Ni;10;9.59
+62;800;800;Air;0.1;Leather scraps ;Al-Ni;10;9.34
+63;800;800;Air;0.1;Leather scraps ;Al-Ni;10;9.11
+64;800;800;Air;0.1;Leather scraps ;Al-Ni;10;8.8
+65;800;800;Air;0.1;Leather scraps ;Al-Ni;10;8.39
+66;800;800;Air;0.1;Leather scraps ;Al-Ni;10;8.01
+67;800;800;Air;0.1;Leather scraps ;Al-Ni;10;7.73
+68;800;800;Air;0.1;Leather scraps ;Al-Ni;10;7.59
+69;800;800;Air;0.1;Leather scraps ;Al-Ni;10;7.48
+70;800;800;Air;0.1;Leather scraps ;Al-Ni;10;7.3
+71;800;800;Air;0.1;Leather scraps ;Al-Ni;10;7.09
+72;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.93
+73;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.86
+74;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.83
+75;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.69
+76;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.51
+77;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.39
+78;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.35
+79;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.29
+80;800;800;Air;0.1;Leather scraps ;Al-Ni;10;6.13
+1;21;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+2;28;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+3;47;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+4;77;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+5;118;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+6;167;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+7;226;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+8;290;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+9;355;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+10;413;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+11;466;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+12;510;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+13;549;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+14;581;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+15;610;900;Air;0.1;Leather scraps ;Al-Ni;2.5;0
+16;636;900;Air;0.1;Leather scraps ;Al-Ni;2.5;2.45
+17;659;900;Air;0.1;Leather scraps ;Al-Ni;2.5;6.53
+18;682;900;Air;0.1;Leather scraps ;Al-Ni;2.5;12.09
+19;702;900;Air;0.1;Leather scraps ;Al-Ni;2.5;18.06
+20;720;900;Air;0.1;Leather scraps ;Al-Ni;2.5;23.55
+21;737;900;Air;0.1;Leather scraps ;Al-Ni;2.5;28.07
+22;754;900;Air;0.1;Leather scraps ;Al-Ni;2.5;29.16
+23;768;900;Air;0.1;Leather scraps ;Al-Ni;2.5;29.85
+24;784;900;Air;0.1;Leather scraps ;Al-Ni;2.5;30.15
+25;797;900;Air;0.1;Leather scraps ;Al-Ni;2.5;30.11
+26;800;900;Air;0.1;Leather scraps ;Al-Ni;2.5;30.24
+27;810;900;Air;0.1;Leather scraps ;Al-Ni;2.5;30.04
+28;823;900;Air;0.1;Leather scraps ;Al-Ni;2.5;29.34
+29;835;900;Air;0.1;Leather scraps ;Al-Ni;2.5;28.12
+30;847;900;Air;0.1;Leather scraps ;Al-Ni;2.5;26.55
+31;859;900;Air;0.1;Leather scraps ;Al-Ni;2.5;24.65
+32;869;900;Air;0.1;Leather scraps ;Al-Ni;2.5;22.48
+33;879;900;Air;0.1;Leather scraps ;Al-Ni;2.5;20.54
+34;889;900;Air;0.1;Leather scraps ;Al-Ni;2.5;18.74
+35;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;17.2
+36;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;15.84
+37;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;14.75
+38;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;13.8
+39;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;12.95
+40;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;12.19
+41;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;11.49
+42;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;10.81
+43;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;10.16
+44;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;8.59
+45;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;6.84
+46;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;5.75
+47;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;5.32
+48;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;5.24
+49;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;5.31
+50;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;5.08
+51;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;4.23
+52;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.57
+53;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.31
+54;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.33
+55;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.53
+56;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.61
+57;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;3.12
+58;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;2.55
+59;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;2.27
+60;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;2.27
+61;900;900;Air;0.1;Leather scraps ;Al-Ni;2.5;2.46
+1;21;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+2;28;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+3;47;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+4;77;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+5;118;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+6;167;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+7;226;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+8;290;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+9;355;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+10;413;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+11;466;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+12;510;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+13;549;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+14;581;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+15;610;900;Air;0.1;Leather scraps ;Al-Ni;5;0
+16;636;900;Air;0.1;Leather scraps ;Al-Ni;5;1.55
+17;659;900;Air;0.1;Leather scraps ;Al-Ni;5;6.16
+18;682;900;Air;0.1;Leather scraps ;Al-Ni;5;12.15
+19;702;900;Air;0.1;Leather scraps ;Al-Ni;5;18.16
+20;720;900;Air;0.1;Leather scraps ;Al-Ni;5;23.16
+21;737;900;Air;0.1;Leather scraps ;Al-Ni;5;26.56
+22;754;900;Air;0.1;Leather scraps ;Al-Ni;5;28.26
+23;768;900;Air;0.1;Leather scraps ;Al-Ni;5;29.85
+24;784;900;Air;0.1;Leather scraps ;Al-Ni;5;30.31
+25;797;900;Air;0.1;Leather scraps ;Al-Ni;5;30.64
+26;800;900;Air;0.1;Leather scraps ;Al-Ni;5;30.68
+27;810;900;Air;0.1;Leather scraps ;Al-Ni;5;30.41
+28;823;900;Air;0.1;Leather scraps ;Al-Ni;5;29.65
+29;835;900;Air;0.1;Leather scraps ;Al-Ni;5;28.17
+30;847;900;Air;0.1;Leather scraps ;Al-Ni;5;26.29
+31;859;900;Air;0.1;Leather scraps ;Al-Ni;5;24.32
+32;869;900;Air;0.1;Leather scraps ;Al-Ni;5;22.48
+33;879;900;Air;0.1;Leather scraps ;Al-Ni;5;20.9
+34;889;900;Air;0.1;Leather scraps ;Al-Ni;5;19.53
+35;900;900;Air;0.1;Leather scraps ;Al-Ni;5;17.92
+36;900;900;Air;0.1;Leather scraps ;Al-Ni;5;16.61
+37;900;900;Air;0.1;Leather scraps ;Al-Ni;5;15.45
+38;900;900;Air;0.1;Leather scraps ;Al-Ni;5;14.34
+39;900;900;Air;0.1;Leather scraps ;Al-Ni;5;13.39
+40;900;900;Air;0.1;Leather scraps ;Al-Ni;5;12.59
+41;900;900;Air;0.1;Leather scraps ;Al-Ni;5;11.83
+42;900;900;Air;0.1;Leather scraps ;Al-Ni;5;11.16
+43;900;900;Air;0.1;Leather scraps ;Al-Ni;5;10.55
+44;900;900;Air;0.1;Leather scraps ;Al-Ni;5;9.17
+45;900;900;Air;0.1;Leather scraps ;Al-Ni;5;7.5
+46;900;900;Air;0.1;Leather scraps ;Al-Ni;5;6.25
+47;900;900;Air;0.1;Leather scraps ;Al-Ni;5;5.64
+48;900;900;Air;0.1;Leather scraps ;Al-Ni;5;5.44
+49;900;900;Air;0.1;Leather scraps ;Al-Ni;5;5.42
+50;900;900;Air;0.1;Leather scraps ;Al-Ni;5;4.9
+51;900;900;Air;0.1;Leather scraps ;Al-Ni;5;4.01
+52;900;900;Air;0.1;Leather scraps ;Al-Ni;5;3.5
+53;900;900;Air;0.1;Leather scraps ;Al-Ni;5;3.34
+54;900;900;Air;0.1;Leather scraps ;Al-Ni;5;3.45
+55;900;900;Air;0.1;Leather scraps ;Al-Ni;5;3.6
+56;900;900;Air;0.1;Leather scraps ;Al-Ni;5;3.25
+57;900;900;Air;0.1;Leather scraps ;Al-Ni;5;2.64
+58;900;900;Air;0.1;Leather scraps ;Al-Ni;5;2.33
+59;900;900;Air;0.1;Leather scraps ;Al-Ni;5;2.29
+60;900;900;Air;0.1;Leather scraps ;Al-Ni;5;2.46
+61;900;900;Air;0.1;Leather scraps ;Al-Ni;5;2.66
+1;21;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+2;28;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+3;47;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+4;77;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+5;118;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+6;167;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+7;226;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+8;290;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+9;355;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+10;413;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+11;466;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+12;510;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+13;549;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+14;581;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+15;610;900;Air;0.1;Leather scraps ;Al-Ni;7.5;0
+16;636;900;Air;0.1;Leather scraps ;Al-Ni;7.5;1.54
+17;659;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.23
+18;682;900;Air;0.1;Leather scraps ;Al-Ni;7.5;10.58
+19;702;900;Air;0.1;Leather scraps ;Al-Ni;7.5;16.89
+20;720;900;Air;0.1;Leather scraps ;Al-Ni;7.5;23.08
+21;737;900;Air;0.1;Leather scraps ;Al-Ni;7.5;28.23
+22;754;900;Air;0.1;Leather scraps ;Al-Ni;7.5;29.85
+23;768;900;Air;0.1;Leather scraps ;Al-Ni;7.5;30.44
+24;784;900;Air;0.1;Leather scraps ;Al-Ni;7.5;29.6
+25;797;900;Air;0.1;Leather scraps ;Al-Ni;7.5;27.16
+26;800;900;Air;0.1;Leather scraps ;Al-Ni;7.5;26.1
+27;810;900;Air;0.1;Leather scraps ;Al-Ni;7.5;25.83
+28;823;900;Air;0.1;Leather scraps ;Al-Ni;7.5;25.54
+29;835;900;Air;0.1;Leather scraps ;Al-Ni;7.5;24.92
+30;847;900;Air;0.1;Leather scraps ;Al-Ni;7.5;23.97
+31;859;900;Air;0.1;Leather scraps ;Al-Ni;7.5;22.73
+32;869;900;Air;0.1;Leather scraps ;Al-Ni;7.5;21.52
+33;879;900;Air;0.1;Leather scraps ;Al-Ni;7.5;20.14
+34;889;900;Air;0.1;Leather scraps ;Al-Ni;7.5;18.62
+35;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;17.64
+36;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;16.57
+37;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;15.62
+38;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;14.79
+39;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;14.13
+40;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;13.42
+41;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;12.37
+42;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;10.38
+43;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;9.3
+44;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;8.79
+45;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;8.56
+46;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;7.94
+47;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;7.27
+48;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;6.6
+49;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;6.4
+50;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;6.37
+51;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;6.16
+52;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.75
+53;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.43
+54;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.3
+55;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.31
+56;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;5.19
+57;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;4.87
+58;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;4.65
+59;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;4.54
+60;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;4.57
+61;900;900;Air;0.1;Leather scraps ;Al-Ni;7.5;4.42
+1;21;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+2;28;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+3;47;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+4;77;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+5;118;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+6;167;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+7;226;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+8;290;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+9;355;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+10;413;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+11;466;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+12;510;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+13;549;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+14;581;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+15;610;900;Air;0.1;Leather scraps ;Al-Ni;10;0
+16;636;900;Air;0.1;Leather scraps ;Al-Ni;10;1.7
+17;659;900;Air;0.1;Leather scraps ;Al-Ni;10;5.81
+18;682;900;Air;0.1;Leather scraps ;Al-Ni;10;11.91
+19;702;900;Air;0.1;Leather scraps ;Al-Ni;10;18.11
+20;720;900;Air;0.1;Leather scraps ;Al-Ni;10;22.53
+21;737;900;Air;0.1;Leather scraps ;Al-Ni;10;24.97
+22;754;900;Air;0.1;Leather scraps ;Al-Ni;10;25.82
+23;768;900;Air;0.1;Leather scraps ;Al-Ni;10;25.19
+24;784;900;Air;0.1;Leather scraps ;Al-Ni;10;25.17
+25;797;900;Air;0.1;Leather scraps ;Al-Ni;10;25.53
+26;800;900;Air;0.1;Leather scraps ;Al-Ni;10;25.13
+27;810;900;Air;0.1;Leather scraps ;Al-Ni;10;24.51
+28;823;900;Air;0.1;Leather scraps ;Al-Ni;10;23.65
+29;835;900;Air;0.1;Leather scraps ;Al-Ni;10;22.07
+30;847;900;Air;0.1;Leather scraps ;Al-Ni;10;20.9
+31;859;900;Air;0.1;Leather scraps ;Al-Ni;10;19.28
+32;869;900;Air;0.1;Leather scraps ;Al-Ni;10;17.62
+33;879;900;Air;0.1;Leather scraps ;Al-Ni;10;16.23
+34;889;900;Air;0.1;Leather scraps ;Al-Ni;10;15.12
+35;900;900;Air;0.1;Leather scraps ;Al-Ni;10;13.95
+36;900;900;Air;0.1;Leather scraps ;Al-Ni;10;12.97
+37;900;900;Air;0.1;Leather scraps ;Al-Ni;10;12.13
+38;900;900;Air;0.1;Leather scraps ;Al-Ni;10;11.33
+39;900;900;Air;0.1;Leather scraps ;Al-Ni;10;10.57
+40;900;900;Air;0.1;Leather scraps ;Al-Ni;10;9.68
+41;900;900;Air;0.1;Leather scraps ;Al-Ni;10;7.3
+42;900;900;Air;0.1;Leather scraps ;Al-Ni;10;5.88
+43;900;900;Air;0.1;Leather scraps ;Al-Ni;10;5.18
+44;900;900;Air;0.1;Leather scraps ;Al-Ni;10;5.01
+45;900;900;Air;0.1;Leather scraps ;Al-Ni;10;4.55
+46;900;900;Air;0.1;Leather scraps ;Al-Ni;10;3.29
+47;900;900;Air;0.1;Leather scraps ;Al-Ni;10;2.63
+48;900;900;Air;0.1;Leather scraps ;Al-Ni;10;2.49
+49;900;900;Air;0.1;Leather scraps ;Al-Ni;10;2.56
+50;900;900;Air;0.1;Leather scraps ;Al-Ni;10;2.2
+51;900;900;Air;0.1;Leather scraps ;Al-Ni;10;1.6
+52;900;900;Air;0.1;Leather scraps ;Al-Ni;10;1.28
+53;900;900;Air;0.1;Leather scraps ;Al-Ni;10;1.25
+54;900;900;Air;0.1;Leather scraps ;Al-Ni;10;1.34
+55;900;900;Air;0.1;Leather scraps ;Al-Ni;10;1.06
+56;900;900;Air;0.1;Leather scraps ;Al-Ni;10;0.68
+57;900;900;Air;0.1;Leather scraps ;Al-Ni;10;0.51
+58;900;900;Air;0.1;Leather scraps ;Al-Ni;10;0.64
+59;900;900;Air;0.1;Leather scraps ;Al-Ni;10;0.73
+60;900;900;Air;0.1;Leather scraps ;Al-Ni;10;0.42
+1;6;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+2;9;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+3;12;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+4;15;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+5;18;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+6;28;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+7;47;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+8;77;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+9;118;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+10;167;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+11;226;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+12;290;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+13;355;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+14;413;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+15;466;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+16;510;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+17;549;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+18;581;900;Oxygen ;0.015;TWTS;No Catalyst;0;0
+19;610;900;Oxygen ;0.015;TWTS;No Catalyst;0;2.04
+20;636;900;Oxygen ;0.015;TWTS;No Catalyst;0;4.23
+21;659;900;Oxygen ;0.015;TWTS;No Catalyst;0;6.87
+22;682;900;Oxygen ;0.015;TWTS;No Catalyst;0;9.73
+23;702;900;Oxygen ;0.015;TWTS;No Catalyst;0;12.74
+24;720;900;Oxygen ;0.015;TWTS;No Catalyst;0;15.53
+25;737;900;Oxygen ;0.015;TWTS;No Catalyst;0;18.07
+26;754;900;Oxygen ;0.015;TWTS;No Catalyst;0;20.32
+27;768;900;Oxygen ;0.015;TWTS;No Catalyst;0;22.04
+28;784;900;Oxygen ;0.015;TWTS;No Catalyst;0;23.59
+29;797;900;Oxygen ;0.015;TWTS;No Catalyst;0;24.79
+30;810;900;Oxygen ;0.015;TWTS;No Catalyst;0;25.81
+31;823;900;Oxygen ;0.015;TWTS;No Catalyst;0;26.76
+32;835;900;Oxygen ;0.015;TWTS;No Catalyst;0;27.65
+33;847;900;Oxygen ;0.015;TWTS;No Catalyst;0;28.69
+34;859;900;Oxygen ;0.015;TWTS;No Catalyst;0;29.64
+35;869;900;Oxygen ;0.015;TWTS;No Catalyst;0;30.65
+36;879;900;Oxygen ;0.015;TWTS;No Catalyst;0;31.96
+37;889;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.18
+38;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.53
+39;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.82
+40;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;36.89
+41;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;37.45
+42;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;37.27
+43;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;36.36
+44;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.78
+45;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.68
+46;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.95
+47;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.25
+48;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.31
+49;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.94
+50;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.79
+51;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.04
+52;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.67
+53;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.63
+54;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.03
+55;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.5
+56;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.37
+57;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.03
+58;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.53
+59;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;36.27
+60;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;36.64
+61;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;36.19
+62;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.71
+63;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.74
+64;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.72
+65;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;35.24
+66;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;34.36
+67;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.87
+68;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.88
+69;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.9
+70;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;33.41
+71;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.86
+72;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.65
+73;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.82
+74;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.88
+75;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.46
+76;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.24
+77;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.35
+78;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;32.15
+79;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;31.46
+80;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;30.79
+81;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;30.45
+82;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;29.9
+83;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;28.82
+84;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;27.58
+85;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;26.12
+86;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;24.56
+87;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;23
+88;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;21.37
+89;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;19.85
+90;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;18.3
+91;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;16.89
+92;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;15.55
+93;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;14.4
+94;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;13.3
+95;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;12.36
+96;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;11.52
+97;900;900;Oxygen ;0.015;TWTS;No Catalyst;0;10.81
+1;6;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+2;9;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+3;12;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+4;15;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+5;18;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+6;28;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+7;47;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+8;77;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+9;118;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+10;167;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+11;226;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+12;290;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+13;355;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+14;413;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+15;466;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+16;510;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+17;549;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+18;581;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+19;610;1000;Oxygen ;0.015;TWTS;No Catalyst;0;0
+20;636;1000;Oxygen ;0.015;TWTS;No Catalyst;0;2.36
+21;659;1000;Oxygen ;0.015;TWTS;No Catalyst;0;4.61
+22;682;1000;Oxygen ;0.015;TWTS;No Catalyst;0;7.27
+23;702;1000;Oxygen ;0.015;TWTS;No Catalyst;0;10.19
+24;720;1000;Oxygen ;0.015;TWTS;No Catalyst;0;12.84
+25;737;1000;Oxygen ;0.015;TWTS;No Catalyst;0;15.35
+26;754;1000;Oxygen ;0.015;TWTS;No Catalyst;0;17.46
+27;768;1000;Oxygen ;0.015;TWTS;No Catalyst;0;19.31
+28;784;1000;Oxygen ;0.015;TWTS;No Catalyst;0;20.81
+29;797;1000;Oxygen ;0.015;TWTS;No Catalyst;0;22.09
+30;810;1000;Oxygen ;0.015;TWTS;No Catalyst;0;23.13
+31;823;1000;Oxygen ;0.015;TWTS;No Catalyst;0;24.1
+32;835;1000;Oxygen ;0.015;TWTS;No Catalyst;0;25
+33;847;1000;Oxygen ;0.015;TWTS;No Catalyst;0;25.94
+34;859;1000;Oxygen ;0.015;TWTS;No Catalyst;0;26.93
+35;869;1000;Oxygen ;0.015;TWTS;No Catalyst;0;28.2
+36;879;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.28
+37;889;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.33
+38;900;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.25
+39;915;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.78
+40;930;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.83
+41;945;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.44
+42;960;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.81
+43;975;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.33
+44;985;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.95
+45;995;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.7
+46;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.59
+47;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.5
+48;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.45
+49;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.43
+50;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.43
+51;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.46
+52;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.53
+53;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.58
+54;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.75
+55;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.03
+56;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.02
+57;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.13
+58;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.34
+59;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.38
+60;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.58
+61;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.81
+62;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.01
+63;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.25
+64;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.36
+65;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.57
+66;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.7
+67;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.69
+68;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;31.41
+69;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;30.76
+70;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;29.9
+71;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;28.82
+72;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;27.58
+73;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;26.12
+74;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;24.56
+75;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;23
+76;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;21.37
+77;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;19.85
+78;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;18.3
+79;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;16.89
+80;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;15.55
+81;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;14.4
+82;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;13.3
+83;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;12.36
+84;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;11.52
+85;1000;1000;Oxygen ;0.015;TWTS;No Catalyst;0;10.81
+1;6;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+2;9;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+3;12;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+4;15;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+5;18;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+6;28;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+7;47;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+8;77;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+9;118;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+10;167;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+11;226;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+12;290;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+13;355;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+14;413;900;Oxygen ;0.015;TWTS;Al-Ni;5;0
+15;466;900;Oxygen ;0.015;TWTS;Al-Ni;5;0.78
+16;510;900;Oxygen ;0.015;TWTS;Al-Ni;5;1.87
+17;549;900;Oxygen ;0.015;TWTS;Al-Ni;5;3.73
+18;581;900;Oxygen ;0.015;TWTS;Al-Ni;5;6.39
+19;610;900;Oxygen ;0.015;TWTS;Al-Ni;5;9.7
+20;636;900;Oxygen ;0.015;TWTS;Al-Ni;5;12.78
+21;659;900;Oxygen ;0.015;TWTS;Al-Ni;5;15.98
+22;682;900;Oxygen ;0.015;TWTS;Al-Ni;5;18.54
+23;702;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.72
+24;720;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.63
+25;737;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.99
+26;754;900;Oxygen ;0.015;TWTS;Al-Ni;5;25.38
+27;768;900;Oxygen ;0.015;TWTS;Al-Ni;5;26.65
+28;784;900;Oxygen ;0.015;TWTS;Al-Ni;5;27.97
+29;797;900;Oxygen ;0.015;TWTS;Al-Ni;5;29.37
+30;810;900;Oxygen ;0.015;TWTS;Al-Ni;5;30.33
+31;823;900;Oxygen ;0.015;TWTS;Al-Ni;5;30.62
+32;835;900;Oxygen ;0.015;TWTS;Al-Ni;5;30.78
+33;847;900;Oxygen ;0.015;TWTS;Al-Ni;5;30.56
+34;859;900;Oxygen ;0.015;TWTS;Al-Ni;5;30.3
+35;869;900;Oxygen ;0.015;TWTS;Al-Ni;5;29.36
+36;879;900;Oxygen ;0.015;TWTS;Al-Ni;5;29.53
+37;889;900;Oxygen ;0.015;TWTS;Al-Ni;5;28.76
+38;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;27.87
+39;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;27.51
+40;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;27.15
+41;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;26.82
+42;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;26.25
+43;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;25.74
+44;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;25.47
+45;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;25.41
+46;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;25.28
+47;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.98
+48;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.78
+49;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.84
+50;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.93
+51;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.82
+52;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.54
+53;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.46
+54;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.56
+55;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.52
+56;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24.25
+57;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;24
+58;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.87
+59;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.86
+60;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.63
+61;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.35
+62;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.15
+63;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.1
+64;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;23.02
+65;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.79
+66;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.54
+67;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.4
+68;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.36
+69;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.2
+70;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;22.02
+71;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.84
+72;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.71
+73;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.63
+74;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.51
+75;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.4
+76;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;21.15
+77;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.98
+78;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.74
+79;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.51
+80;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.27
+81;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.1
+82;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;20.01
+83;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.86
+84;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.84
+85;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.74
+86;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.66
+87;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.67
+88;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.83
+89;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.6
+90;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.31
+91;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;19.09
+92;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;18.76
+93;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;18.47
+94;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;18.21
+95;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;18.04
+96;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;17.87
+97;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;17.65
+98;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;17.46
+99;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;17.29
+100;900;900;Oxygen ;0.015;TWTS;Al-Ni;5;17.24
+1;6;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+2;9;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+3;12;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+4;15;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+5;18;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+6;28;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+7;47;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+8;77;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+9;118;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+10;167;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+11;226;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+12;290;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+13;355;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+14;413;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+15;466;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+16;510;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+17;549;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0
+18;581;1000;Oxygen ;0.015;TWTS;Al-Ni;5;0.8
+19;610;1000;Oxygen ;0.015;TWTS;Al-Ni;5;1.35
+20;636;1000;Oxygen ;0.015;TWTS;Al-Ni;5;2.27
+21;659;1000;Oxygen ;0.015;TWTS;Al-Ni;5;3.54
+22;682;1000;Oxygen ;0.015;TWTS;Al-Ni;5;4.95
+23;702;1000;Oxygen ;0.015;TWTS;Al-Ni;5;6
+24;720;1000;Oxygen ;0.015;TWTS;Al-Ni;5;7.48
+25;737;1000;Oxygen ;0.015;TWTS;Al-Ni;5;8.72
+26;754;1000;Oxygen ;0.015;TWTS;Al-Ni;5;9.76
+27;768;1000;Oxygen ;0.015;TWTS;Al-Ni;5;11.07
+28;784;1000;Oxygen ;0.015;TWTS;Al-Ni;5;11.76
+29;797;1000;Oxygen ;0.015;TWTS;Al-Ni;5;12.44
+30;810;1000;Oxygen ;0.015;TWTS;Al-Ni;5;12.59
+31;823;1000;Oxygen ;0.015;TWTS;Al-Ni;5;12.59
+32;835;1000;Oxygen ;0.015;TWTS;Al-Ni;5;12.34
+33;847;1000;Oxygen ;0.015;TWTS;Al-Ni;5;11.49
+34;859;1000;Oxygen ;0.015;TWTS;Al-Ni;5;11.06
+35;869;1000;Oxygen ;0.015;TWTS;Al-Ni;5;9.44
+36;879;1000;Oxygen ;0.015;TWTS;Al-Ni;5;7.7
+37;889;1000;Oxygen ;0.015;TWTS;Al-Ni;5;6.66
+38;900;1000;Oxygen ;0.015;TWTS;Al-Ni;5;5.51
+39;915;1000;Oxygen ;0.015;TWTS;Al-Ni;5;4.9
+40;930;1000;Oxygen ;0.015;TWTS;Al-Ni;5;4.54
+41;945;1000;Oxygen ;0.015;TWTS;Al-Ni;5;4.35
+42;960;1000;Oxygen ;0.015;TWTS;Al-Ni;5;3.81
+43;975;1000;Oxygen ;0.015;TWTS;Al-Ni;5;3.19
+44;985;1000;Oxygen ;0.015;TWTS;Al-Ni;5;2.71
+45;995;1000;Oxygen ;0.015;TWTS;Al-Ni;5;2.52
+46;1000;1000;Oxygen ;0.015;TWTS;Al-Ni;5;2.22
+47;1000;1000;Oxygen ;0.015;TWTS;Al-Ni;5;2.07
+48;1000;1000;Oxygen ;0.015;TWTS;Al-Ni;5;1.88
+49;1000;1000;Oxygen ;0.015;TWTS;Al-Ni;5;1.72
+1;6;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+2;9;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+3;12;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+4;15;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+5;18;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+6;28;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+7;47;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+8;77;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+9;118;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+10;167;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+11;226;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+12;290;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+13;355;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0.9
+14;413;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;4.29
+15;466;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;8.75
+16;510;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.28
+17;549;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.08
+18;581;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;14.98
+19;610;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.94
+20;636;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;18.3
+21;659;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;19.87
+22;682;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.36
+23;702;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.78
+24;720;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.95
+25;737;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.8
+26;754;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.49
+27;768;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;19.95
+28;784;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.4
+29;797;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;14.33
+30;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;12.1
+31;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.73
+32;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.46
+33;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;9.81
+34;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;7.78
+35;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;6.73
+36;800;800;Oxygen ;0.015;Leather scraps ;No Catalyst;0;6.6
+1;6;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+2;9;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+3;12;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+4;15;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+5;18;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+6;28;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+7;47;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+8;77;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+9;118;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+10;167;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+11;226;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+12;290;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+13;355;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+14;413;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+15;466;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;0
+16;510;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;2.72
+17;549;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;6.4
+18;581;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;10.82
+19;610;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.97
+20;636;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.29
+21;659;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;19.52
+22;682;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.32
+23;702;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;20.9
+24;720;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;21.54
+25;737;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;22.01
+26;754;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;22.54
+27;768;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;23.31
+28;784;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;24.85
+29;797;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;26.37
+30;810;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;27.76
+31;823;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;28.08
+32;835;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;28.19
+33;847;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;27.9
+34;859;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;26.92
+35;869;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;25.85
+36;879;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;24.47
+37;889;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;23.62
+38;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;22.71
+39;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;22.02
+40;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;21.49
+41;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;19.73
+42;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;18.85
+43;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.73
+44;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.35
+45;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.34
+46;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;17.01
+47;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.74
+48;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.22
+49;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.52
+50;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.78
+51;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;16.42
+52;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;15.87
+53;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;15.5
+54;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;15.33
+55;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;15.28
+56;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;14.8
+57;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;14.15
+58;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.79
+59;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.78
+60;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.74
+61;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;13.25
+62;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;12.52
+63;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;12.11
+64;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.99
+65;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;12.06
+66;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.81
+67;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;11.28
+68;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;10.99
+69;900;900;Oxygen ;0.015;Leather scraps ;No Catalyst;0;10.94
+1;6;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+2;9;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+3;12;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+4;15;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+5;18;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+6;28;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+7;47;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+8;77;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+9;118;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+10;167;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+11;226;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;1
+12;290;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;2
+13;355;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;3
+14;413;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;4
+15;466;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;5.3
+16;510;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;12.27
+17;549;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.89
+18;581;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.75
+19;610;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;25.71
+20;636;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;27.6
+21;659;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.23
+22;682;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.18
+23;702;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.55
+24;720;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.12
+25;737;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.48
+26;754;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.57
+27;768;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.54
+28;784;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.1
+29;797;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.74
+30;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.02
+31;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;26.24
+32;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;24.6
+33;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.08
+34;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.27
+35;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.41
+36;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.99
+37;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.76
+38;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.31
+39;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.44
+40;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.8
+41;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.77
+42;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.21
+43;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.18
+44;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.22
+45;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.77
+46;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.17
+47;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.09
+48;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.15
+49;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.28
+50;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.15
+51;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.23
+52;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.58
+53;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.86
+54;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.7
+55;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.33
+56;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.27
+57;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.52
+58;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.6
+59;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.29
+60;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.93
+61;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.99
+62;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.17
+63;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.05
+64;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.57
+65;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.25
+66;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.3
+67;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.34
+68;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;14.04
+69;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;13.57
+70;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;13.39
+71;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;13.46
+72;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;13.42
+73;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;12.93
+74;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;12.26
+75;800;800;Oxygen ;0.015;Leather scraps ;Al-Ni;5;11.47
+1;6;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+2;9;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+3;12;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+4;15;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+5;18;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+6;28;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+7;47;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+8;77;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+9;118;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+10;167;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+11;226;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;0
+12;290;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;1
+13;355;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;2
+14;413;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;3
+15;466;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;4
+16;510;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;7.53
+17;549;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.19
+18;581;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.69
+19;610;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;26.58
+20;636;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.32
+21;659;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.87
+22;682;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.08
+23;702;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.68
+24;720;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;30.4
+25;737;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.4
+26;754;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.28
+27;768;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.8
+28;784;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.79
+29;797;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.43
+30;810;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.41
+31;823;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.28
+32;835;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;32.01
+33;847;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.73
+34;859;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.54
+35;869;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.52
+36;879;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.31
+37;889;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.18
+38;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;31.04
+39;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;30.77
+40;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.97
+41;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;29.25
+42;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.9
+43;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.71
+44;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;28.38
+45;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;27.94
+46;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;27.3
+47;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;26.87
+48;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;26.61
+49;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;26.14
+50;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;25.63
+51;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;24.97
+52;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;24.37
+53;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;24.16
+54;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;24.1
+55;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.87
+56;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.27
+57;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.94
+58;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.95
+59;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.1
+60;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;23.11
+61;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.5
+62;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.1
+63;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.23
+64;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.48
+65;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;22.37
+66;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.81
+67;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.48
+68;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.59
+69;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.77
+70;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.64
+71;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.03
+72;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.79
+73;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.98
+74;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.21
+75;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;21.05
+76;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.41
+77;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.16
+78;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.35
+79;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.5
+80;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;20.19
+81;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.64
+82;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.5
+83;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.65
+84;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.75
+85;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;19.19
+86;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.46
+87;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.33
+88;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.48
+89;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;18.43
+90;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.89
+91;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.59
+92;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.72
+93;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.84
+94;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;17.63
+95;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.93
+96;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;16.19
+97;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;15.09
+98;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;13.77
+99;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;12.3
+100;900;900;Oxygen ;0.015;Leather scraps ;Al-Ni;5;10.81
